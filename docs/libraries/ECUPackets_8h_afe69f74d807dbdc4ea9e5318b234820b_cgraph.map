@@ -1,0 +1,15 @@
+<map id="encodeECU_RPMLoopCalibrationPacketStructure" name="encodeECU_RPMLoopCalibrationPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ECU_RPMLoopCalibration packet." alt="" coords="5,105,240,145"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="331,5,458,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,102,217,70,287,39,317,30,318,35,289,45,219,75,159,107"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#aa99578b964cd500b1564b9024f1eba4a" title="Encode a float on a byte stream by floating point scaling to fit in 1 signed byte." alt="" coords="288,55,501,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,102,320,80,321,85,219,107"/>
+<area shape="rect" id="Node000004" href="$scaledencode_8c.html#a8b233f0bd3049d8da94dbb818b4748f6" title="Encode a float on a byte stream by floating point scaling to fit in 1 unsigned byte." alt="" coords="298,105,491,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,122,284,122,284,127,240,127"/>
+<area shape="rect" id="Node000005" href="$scaledencode_8c.html#a6139bc16730455d9047aa1e9d4f29c02" title="Encode a float on a byte stream by floating point scaling to fit in 2 unsigned bytes in big endian or..." alt="" coords="298,169,491,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,142,297,163,296,168,208,147"/>
+<area shape="rect" id="Node000007" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="323,233,466,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,142,214,181,289,218,315,227,313,232,287,223,212,185,151,147"/>
+<area shape="rect" id="Node000006" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="549,176,680,201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="492,186,535,186,535,191,492,191"/>
+</map>

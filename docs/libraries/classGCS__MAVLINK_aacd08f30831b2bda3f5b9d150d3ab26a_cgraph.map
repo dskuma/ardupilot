@@ -1,0 +1,49 @@
+<map id="GCS_MAVLINK::send_raw_imu" name="GCS_MAVLINK::send_raw_imu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,223,224"/>
+<area shape="rect" id="Node000002" href="$namespaceAP.html#ab9d0bcbec954b6c20abd8e13e6de7356" title=" " alt="" coords="295,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,197,178,124,220,80,269,41,283,34,285,38,272,46,224,84,182,127,126,200"/>
+<area shape="rect" id="Node000004" href="$classAP__InertialSensor.html#a707bc3f8ef8270db68ceeec36171d6ac" title=" " alt="" coords="276,55,420,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,196,191,153,269,105,282,99,284,103,272,110,194,158,134,201"/>
+<area shape="rect" id="Node000005" href="$classCompass.html#aab02220a8209d664f89f2be9050cf283" title=" " alt="" coords="271,120,425,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="150,196,270,154,292,147,293,152,272,159,151,201"/>
+<area shape="rect" id="Node000006" href="$classCompass.html#af8113e88f234554e060c435dba22bc70" title="Return the current field as a Vector3f in milligauss." alt="" coords="275,169,421,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,196,261,190,262,195,216,201"/>
+<area shape="rect" id="Node000009" href="$classAP__InertialSensor.html#aa4ab03d6166ffbbcdd763e45eeb8bb44" title=" " alt="" coords="276,219,420,259"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="220,221,263,226,262,232,220,227"/>
+<area shape="rect" id="Node000010" href="$classAP__InertialSensor.html#a725da91af6702a0d6a87921892b5dcae" title=" " alt="" coords="276,283,420,323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="148,222,284,276,282,281,147,227"/>
+<area shape="rect" id="Node000011" href="$namespaceAP.html#ac571aa5a2ef71b7f4b4b2bfa09143fb9" title=" " alt="" coords="315,348,381,373"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="130,222,188,275,229,306,272,333,303,346,301,351,269,338,226,310,185,279,126,226"/>
+<area shape="rect" id="Node000021" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="278,399,418,424"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="126,223,181,297,223,343,272,382,287,391,285,396,269,387,220,347,177,301,121,226"/>
+<area shape="rect" id="Node000003" href="$classCompass.html#aa478093c27cb5fc0e3652cd3cb98b2a5" title=" " alt="" coords="473,5,652,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,15,459,15,459,21,401,21"/>
+<area shape="rect" id="Node000007" href="$classCompass.html#acea3a6c15669b5b88b5b077179dd82ac" title=" " alt="" coords="483,169,642,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="422,179,470,179,470,185,422,185"/>
+<area shape="rect" id="Node000008" href="$classCompass.html#a5b6bd29bfc993d353ed2f8b03b387de4" title=" " alt="" coords="700,169,877,195"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="642,179,686,179,686,185,642,185"/>
+<area shape="rect" id="Node000012" href="$classAP__InertialSensor.html#a2cf12201d711e4712a62ad10893be06f" title=" " alt="" coords="491,338,635,378"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="381,358,477,356,477,362,382,363"/>
+<area shape="rect" id="Node000013" href="$classAP__InertialSensor.html#affc63e7edc9be1b0e128b8da3b8a24a5" title=" " alt="" coords="717,338,861,378"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="635,355,703,355,703,361,635,361"/>
+<area shape="rect" id="Node000014" href="$namespaceAP__HAL.html#a52edeef7d5ffaa365e1229b87c170307" title=" " alt="" coords="957,256,1072,281"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="827,335,924,292,950,283,952,288,926,296,829,340"/>
+<area shape="rect" id="Node000018" href="$classAP__AccelCal.html#a56c66e6722c98463541832e5baa042b4" title=" " alt="" coords="935,306,1095,346"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="861,345,921,337,921,342,862,350"/>
+<area shape="rect" id="Node000019" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="945,370,1084,410"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="862,366,932,376,931,381,861,371"/>
+<area shape="rect" id="Node000020" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title=" " alt="" coords="925,434,1104,474"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="852,376,879,388,903,404,927,420,940,426,938,431,924,424,900,408,876,392,849,380"/>
+<area shape="rect" id="Node000015" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="1153,185,1305,225"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1058,253,1148,226,1149,231,1059,258"/>
+<area shape="rect" id="Node000016" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="1152,249,1307,289"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="1072,266,1138,266,1138,271,1072,271"/>
+<area shape="rect" id="Node000017" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="1197,313,1262,339"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="1064,279,1184,311,1182,316,1062,284"/>
+<area shape="rect" id="Node000022" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="509,403,616,428"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="418,410,496,411,496,417,418,415"/>
+<area shape="rect" id="Node000023" href="$hrt_8c.html#a5b4ffc7ff86bd5b893c4a98834e80200" title=" " alt="" coords="733,403,844,428"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="616,413,719,413,719,418,616,418"/>
+<area shape="rect" id="Node000024" href="$hrt_8c.html#a723fef85be7bacb834af35445a891c18" title=" " alt="" coords="747,452,830,477"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="617,424,735,450,734,456,616,430"/>
+</map>

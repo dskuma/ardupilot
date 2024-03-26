@@ -1,0 +1,49 @@
+<map id="ChibiOS::SPIDevice::do_transfer" name="ChibiOS::SPIDevice::do_transfer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,202,152,242"/>
+<area shape="rect" id="Node000002" href="$classChibiOS_1_1DeviceBus.html#a9cfb645fb170b85b11b6a87463a6ccf9" title=" " alt="" coords="201,55,358,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,200,238,102,241,106,109,204"/>
+<area shape="rect" id="Node000005" href="$classChibiOS_1_1DeviceBus.html#ace7c8dd46940645344630bae515f7512" title=" " alt="" coords="200,170,359,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,208,186,202,187,207,152,213"/>
+<area shape="rect" id="Node000016" href="$classAP__HAL_1_1Scheduler.html#a742dbac212325b6c1994876248a636bd" title=" " alt="" coords="203,298,355,338"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="117,240,201,284,216,290,213,295,199,288,115,245"/>
+<area shape="rect" id="Node000017" href="$classChibiOS_1_1SPIDevice.html#af53fc49518ac653f3dc0f59ffde21945" title=" " alt="" coords="206,234,353,274"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="152,231,193,238,192,243,152,236"/>
+<area shape="rect" id="Node000003" href="$bouncebuffer_8c.html#ad785cb4541d513b49dc873e68f3c975a" title=" " alt="" coords="407,5,593,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,53,436,32,438,37,358,58"/>
+<area shape="rect" id="Node000004" href="$bouncebuffer_8c.html#ab385884007330f8119627dcb2a3623ed" title=" " alt="" coords="425,55,575,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="358,73,412,73,412,78,358,78"/>
+<area shape="rect" id="Node000006" href="$bouncebuffer_8c.html#a1b41af6ac139279dd180ce26d69a856b" title=" " alt="" coords="426,120,574,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="356,167,436,146,438,151,358,173"/>
+<area shape="rect" id="Node000007" href="$bouncebuffer_8c.html#ab3cb1211a8f2291cb7913af3dc27aecc" title=" " alt="" coords="407,235,593,260"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="358,207,438,229,436,234,356,213"/>
+<area shape="rect" id="Node000014" href="$bouncebuffer_8c.html#a0df37e9566e23f9eae28cce51b03ebde" title=" " alt="" coords="425,170,575,210"/>
+<area shape="poly" id="edge14_Node000005_Node000014" title=" " alt="" coords="359,187,411,187,411,193,359,193"/>
+<area shape="rect" id="Node000008" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="723,227,771,252"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="593,242,710,238,710,243,594,247"/>
+<area shape="rect" id="Node000009" href="$malloc_8c.html#a47cde9cd130ae9ff7ff19ae70e5f0bd2" title=" " alt="" coords="681,177,814,203"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="555,232,678,203,679,208,556,237"/>
+<area shape="rect" id="Node000011" href="$malloc_8c.html#a1d12ea70c4732cb2e46719c8ffa5d807" title=" " alt="" coords="696,276,799,301"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="577,257,683,275,682,281,576,263"/>
+<area shape="rect" id="Node000012" href="$malloc_8c.html#a22ab9dc2f1825ad81658a49cf7aca4c7" title=" " alt="" coords="675,128,820,153"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="566,232,592,220,607,207,615,192,624,178,640,164,660,154,663,159,643,168,628,181,620,195,611,210,595,224,568,237"/>
+<area shape="rect" id="Node000013" href="$stm32__util_8c.html#a54e2eb1fc27c9f174c24fe6dece411c1" title=" " alt="" coords="641,325,853,351"/>
+<area shape="poly" id="edge13_Node000007_Node000013" title=" " alt="" coords="525,258,578,285,642,311,668,319,667,325,640,317,576,289,523,262"/>
+<area shape="rect" id="Node000010" href="$malloc_8c.html#ad8aac7aa28f6dea23cb5bc9c3268e330" title=" " alt="" coords="901,227,1005,252"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="802,200,854,213,889,221,887,226,853,218,801,205"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="798,275,853,262,890,253,891,258,854,267,799,280"/>
+<area shape="poly" id="edge15_Node000014_Node000008" title=" " alt="" coords="576,202,710,229,709,235,575,208"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="575,187,667,187,667,193,575,193"/>
+<area shape="poly" id="edge17_Node000014_Node000011" title=" " alt="" coords="567,208,595,221,609,232,619,243,628,253,643,262,683,277,682,282,640,267,625,257,615,246,606,236,592,226,565,212"/>
+<area shape="poly" id="edge18_Node000014_Node000012" title=" " alt="" coords="575,172,669,153,670,159,576,178"/>
+<area shape="rect" id="Node000015" href="$stm32__util_8c.html#a7e653bccc1d4ab362d62ef6c67a53d7d" title=" " alt="" coords="656,79,839,104"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="565,168,592,154,606,144,615,134,625,123,640,113,656,106,658,111,643,118,628,127,619,137,609,148,595,159,567,172"/>
+<area shape="rect" id="Node000018" href="$classChibiOS_1_1SPIDevice.html#a5a692c5abcee37232eb057fb9a639c7d" title=" " alt="" coords="427,375,573,415"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="336,272,360,284,419,324,468,364,465,368,416,328,357,288,334,277"/>
+<area shape="poly" id="edge24_Node000018_Node000011" title=" " alt="" coords="529,373,579,342,640,312,682,298,683,303,642,316,582,346,532,378"/>
+<area shape="rect" id="Node000019" href="$classChibiOS_1_1Semaphore.html#a9b3100381eab8d8c7640f4fa5f2fe367" title=" " alt="" coords="670,375,825,415"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="573,393,656,393,656,398,573,398"/>
+<area shape="rect" id="Node000020" href="$classChibiOS_1_1SPIBus.html#ac7358b32b698466b613a83a26c97cc8b" title=" " alt="" coords="666,439,829,479"/>
+<area shape="poly" id="edge25_Node000018_Node000020" title=" " alt="" coords="574,412,657,433,655,438,573,417"/>
+<area shape="rect" id="Node000021" href="$classChibiOS_1_1SPIBus.html#ac085a646b2c4dbf38df394db740364b4" title=" " alt="" coords="667,503,828,543"/>
+<area shape="poly" id="edge26_Node000018_Node000021" title=" " alt="" coords="527,413,579,451,643,489,659,496,657,501,640,494,576,456,524,418"/>
+</map>

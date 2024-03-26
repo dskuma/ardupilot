@@ -1,0 +1,9 @@
+<map id="encodeServo_RequestHighFrequencyDataPacket" name="encodeServo_RequestHighFrequencyDataPacket">
+<area shape="rect" id="Node000001" title="Create the Servo_RequestHighFrequencyData packet from parameters." alt="" coords="5,47,268,87"/>
+<area shape="rect" id="Node000002" href="$ServoDefines_8c.html#afe93b63d60acfedb4acf5ced08a6a2b7" title="Encode a Servo_TelemetryPackets_t into a byte array." alt="" coords="316,5,555,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,45,344,30,345,36,259,50"/>
+<area shape="rect" id="Node000003" href="$ServoProtocol_8h.html#a677b71d9d2fe3cdb94f2e37827361acd" title="Complete a packet after the data have been encoded." alt="" coords="367,55,503,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,65,354,65,354,70,268,70"/>
+<area shape="rect" id="Node000004" href="$ServoProtocol_8h.html#a0552cbfdd2632f728ba1cb6c203ff4e1" title=" " alt="" coords="359,104,512,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,85,345,99,344,104,258,90"/>
+</map>

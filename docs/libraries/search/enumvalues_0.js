@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['_5f_5flast_5f_5f_0',['__LAST__',['../classAP__InternalError.html#a5173d851f3973e9a341e08ceb9451c11a62bd5a4afef994ba01e631cbf00f85be',1,'AP_InternalError']]],
+  ['_5faero_5fgpio_5fmax_1',['_AERO_GPIO_MAX',['../GPIO__Aero_8h.html#ae19141aa790575820cc0c5c1e6ab9f74a699b7e3097e5c42455967188eaf1a328',1,'GPIO_Aero.h']]],
+  ['_5fbebop_5fgpio_5fmax_2',['_BEBOP_GPIO_MAX',['../GPIO__Bebop_8h.html#a4f6c26ce4417b04752b81d4b3a33ec77a1e0a52517839e3cab627c62999394d9c',1,'GPIO_Bebop.h']]],
+  ['_5fdisco_5fgpio_5fmax_3',['_DISCO_GPIO_MAX',['../GPIO__Disco_8h.html#a3392fee4381d5b27c457da6f3a5e6ea5ab8a273849fc82ec6a897d2af8c2162a1',1,'GPIO_Disco.h']]],
+  ['_5fedge_5fgpio_5fmax_4',['_EDGE_GPIO_MAX',['../GPIO__Edge_8h.html#a0d114b17b662f7cd1e95420ea7c0cff8a825c22c111c8af20884043471d43e313',1,'GPIO_Edge.h']]],
+  ['_5fgps_5fsentence_5fagrica_5',['_GPS_SENTENCE_AGRICA',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a23cc52f6cfedc5a760bc25b79698bf9f',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fgga_6',['_GPS_SENTENCE_GGA',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a0df330ce1c99531d131ee9548d0f42c2',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fhdt_7',['_GPS_SENTENCE_HDT',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a17edea9241bf90217748a25414fc2466',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fksxt_8',['_GPS_SENTENCE_KSXT',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a5dbc7f546cbe3e19148e42cfef068805',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fother_9',['_GPS_SENTENCE_OTHER',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a61da1cb350306c26916ab2836d7783b5',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fphd_10',['_GPS_SENTENCE_PHD',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a5b709f4700fb7ca493a62389ad7f8796',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5frmc_11',['_GPS_SENTENCE_RMC',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971ac4cff758bac64c86aa71df0ced8d5ddd',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fths_12',['_GPS_SENTENCE_THS',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a068b16217cb9df00370f65017dc56152',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5funiheadinga_13',['_GPS_SENTENCE_UNIHEADINGA',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971aae4c4a14a20a8e5d6dd553f798b1a662',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fversiona_14',['_GPS_SENTENCE_VERSIONA',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a4e4b9e466ecd8fa331960b08a5bfe28e',1,'AP_GPS_NMEA']]],
+  ['_5fgps_5fsentence_5fvtg_15',['_GPS_SENTENCE_VTG',['../classAP__GPS__NMEA.html#ab488deac4a488d9a8691a1a6b43fd971a51bbcecb75cea8bb5cae7b11bc022b1a',1,'AP_GPS_NMEA']]],
+  ['_5flog_5flast_5fmsg_5f_16',['_LOG_LAST_MSG_',['../AP__Logger_2LogStructure_8h.html#aec1abc8a4fd0e25bbcf703a19b991a05a85a7d9246b6d24eb97e6245a2f648bfe',1,'LogStructure.h']]],
+  ['_5fnavio2_5fgpio_5fmax_17',['_NAVIO2_GPIO_MAX',['../GPIO__Navio2_8h.html#a694f143c8e5fa30e7ce72066987260beae9391bbcc47fb3b63b5ddb093aa4dda6',1,'GPIO_Navio2.h']]],
+  ['_5fnavio_5fgpio_5fmax_18',['_NAVIO_GPIO_MAX',['../GPIO__Navio_8h.html#a7ee1691e4f9edbd50c3a5575bb49eedfa347f6ed7a1dedd3c6b1ecd6295f63549',1,'GPIO_Navio.h']]]
+];

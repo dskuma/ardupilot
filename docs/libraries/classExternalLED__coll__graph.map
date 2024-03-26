@@ -1,0 +1,18 @@
+<map id="ExternalLED" name="ExternalLED">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,35,432,61"/>
+<area shape="rect" id="Node000002" href="$classNotifyDevice.html" title=" " alt="" coords="60,91,167,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,88,330,56,331,61,181,93"/>
+<area shape="rect" id="Node000003" href="$classAP__Notify.html" title=" " alt="" coords="339,182,424,207"/>
+<area shape="poly" id="edge8_Node000003_Node000002" title=" " alt="" coords="181,103,244,111,276,119,308,131,344,154,371,180,367,184,341,159,305,136,275,124,243,116,180,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,180,151,119,153,114,330,175"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="360,167,367,159,381,155,394,158,402,164,403,174,400,183,395,181,398,173,397,167,392,163,381,161,370,163,364,170"/>
+<area shape="rect" id="Node000004" href="$structAP__Notify_1_1notify__flags__and__values__type.html" title="notify_flags_type &#45; bitmask of notification flags" alt="" coords="30,168,197,208"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,190,245,191,338,192,338,197,245,196,210,195"/>
+<area shape="rect" id="Node000005" href="$structAP__Notify_1_1notify__events__type.html" title="notify_events_type &#45; bitmask of active events." alt="" coords="5,233,221,258"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="220,228,306,212,338,204,339,209,307,217,221,233"/>
+<area shape="rect" id="Node000006" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="34,335,193,361"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="152,327,224,289,305,243,361,206,364,210,308,248,226,294,154,331"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="81,321,91,312,113,309,132,311,143,317,146,327,141,337,136,334,141,326,139,321,130,316,113,314,93,317,85,325"/>
+<area shape="rect" id="Node000007" href="$structExternalLED_1_1copterleds__flag__type.html" title="buzzer_flag_type &#45; bitmask of current state and ap_notify states we track" alt="" coords="25,5,202,45"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="216,31,331,41,330,46,216,37"/>
+</map>

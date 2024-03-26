@@ -1,0 +1,33 @@
+<map id="AP_WheelRateControl" name="AP_WheelRateControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1267,173,1431,199"/>
+<area shape="rect" id="Node000002" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="571,207,730,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="744,214,1091,201,1266,189,1267,195,1091,206,744,219"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="616,192,626,184,651,180,671,182,683,189,687,198,680,208,676,205,681,198,679,192,670,187,651,185,628,188,619,196"/>
+<area shape="rect" id="Node000003" href="$classAC__PID.html" title="Copter PID control class." alt="" coords="973,87,1043,112"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="713,200,802,173,900,136,924,122,972,106,974,111,926,127,902,140,804,178,714,205"/>
+<area shape="rect" id="Node000010" href="$classAP__WheelEncoder.html" title=" " alt="" coords="939,303,1077,328"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="713,233,960,300,959,305,711,238"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1057,106,1225,145,1311,171,1309,176,1223,150,1056,111"/>
+<area shape="rect" id="Node000004" href="$classSlewLimiter.html" title=" " alt="" coords="601,55,700,80"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="714,70,973,94,973,99,713,76"/>
+<area shape="rect" id="Node000005" href="$classLowPassFilter.html" title=" " alt="" coords="241,55,411,80"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="424,65,601,65,601,70,424,70"/>
+<area shape="rect" id="Node000006" href="$classDigitalLPF.html" title=" " alt="" coords="5,55,152,80"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="165,65,241,65,241,70,165,70"/>
+<area shape="rect" id="Node000007" href="$structAC__PID_1_1ac__pid__flags.html" title=" " alt="" coords="572,104,729,129"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="743,115,901,110,973,102,973,107,902,115,743,120"/>
+<area shape="rect" id="Node000008" href="$structAP__PIDInfo.html" title=" " alt="" coords="604,5,697,31"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="712,22,802,36,902,58,977,84,975,89,901,63,801,42,711,28"/>
+<area shape="rect" id="Node000009" href="$structAP__WheelRateControl_1_1AP__MotorsUGV__limit.html" title=" " alt="" coords="925,137,1091,177"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1104,162,1267,176,1266,182,1104,168"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1071,297,1144,274,1223,246,1278,221,1324,196,1326,201,1280,226,1225,251,1146,280,1072,302"/>
+<area shape="poly" id="edge18_Node000010_Node000010" title=" " alt="" coords="977,288,986,279,1008,276,1026,278,1038,285,1041,294,1035,304,1030,301,1035,294,1033,288,1025,283,1008,281,988,284,980,292"/>
+<area shape="rect" id="Node000012" href="$classAP__WheelEncoder__Backend.html" title=" " alt="" coords="1248,343,1449,368"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="1047,331,1080,344,1115,354,1182,361,1248,362,1248,367,1182,367,1114,359,1078,349,1045,336"/>
+<area shape="rect" id="Node000011" href="$structAP__WheelEncoder_1_1WheelEncoder__State.html" title=" " alt="" coords="531,363,771,403"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="769,358,940,325,941,331,770,363"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="784,381,991,378,1224,367,1248,365,1248,371,1224,373,991,383,785,386"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="1237,344,1224,342,1077,325,1078,320,1224,337,1238,338"/>
+<area shape="rect" id="Node000013" href="$classVector3.html" title=" " alt="" coords="585,297,716,323"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="730,309,938,312,938,317,730,314"/>
+</map>

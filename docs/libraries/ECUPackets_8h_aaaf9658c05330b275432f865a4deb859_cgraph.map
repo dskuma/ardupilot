@@ -1,0 +1,11 @@
+<map id="encodeECU_PowerCyclesPacketStructure" name="encodeECU_PowerCyclesPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ECU_PowerCycles packet." alt="" coords="5,73,233,113"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="289,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,70,299,32,300,37,183,75"/>
+<area shape="rect" id="Node000003" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="281,55,424,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,78,268,74,268,79,234,83"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="287,104,418,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,102,274,106,273,111,233,107"/>
+<area shape="rect" id="Node000005" href="$fieldencode_8c.html#a674c88e2aaa16d72cdff8da4877991c9" title="Encode a unsigned 4 byte integer on a big endian byte stream." alt="" coords="287,153,418,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,110,299,147,297,152,183,115"/>
+</map>

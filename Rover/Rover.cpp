@@ -30,12 +30,12 @@
 */
 
 #include "Rover.h"
-
 #define FORCE_VERSION_H_INCLUDE
 #include "version.h"
 #undef FORCE_VERSION_H_INCLUDE
 
 const AP_HAL::HAL& hal = AP_HAL::get_HAL();
+
 
 #define SCHED_TASK(func, _interval_ticks, _max_time_micros, _priority) SCHED_TASK_CLASS(Rover, &rover, func, _interval_ticks, _max_time_micros, _priority)
 
@@ -81,9 +81,10 @@ const AP_Scheduler::Task Rover::scheduler_tasks[] = {
 #if AP_BEACON_ENABLED
     SCHED_TASK_CLASS(AP_Beacon,           &rover.g2.beacon,        update,         50,  200,  24),
 #endif
-#if HAL_PROXIMITY_ENABLED
+#if HAL_PROXIMITY_ENABLED //increased max time by 2 folds and decreased rate from 50 to 30hZ
     SCHED_TASK_CLASS(AP_Proximity,        &rover.g2.proximity,     update,         50,  200,  27),
 #endif
+
     SCHED_TASK_CLASS(AP_WindVane,         &rover.g2.windvane,      update,         20,  100,  30),
     SCHED_TASK(update_wheel_encoder,   50,    200,  36),
     SCHED_TASK(update_compass,         10,    200,  39),

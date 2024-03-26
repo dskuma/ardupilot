@@ -1,0 +1,17 @@
+<map id="decodeESC_RPMControlLoopSettingsPacketStructure" name="decodeESC_RPMControlLoopSettingsPacketStructure">
+<area shape="rect" id="Node000001" title="Decode the ESC_RPMControlLoopSettings packet." alt="" coords="5,129,213,169"/>
+<area shape="rect" id="Node000002" href="$ESCDefines_8c.html#ae7ed3f39d87057974b99a96ea4609b39" title="Decode a ESC_ControlLoopCommon_t from a byte array." alt="" coords="261,5,512,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,126,190,87,260,48,305,32,307,37,262,52,193,91,137,131"/>
+<area shape="rect" id="Node000003" href="$scaleddecode_8c.html#a8cfa1ff201520a07e1e62b437bd7d5a2" title="Decode a float from a byte stream by inverse floating point scaling from 2 unsigned bytes in big endi..." alt="" coords="560,42,772,82"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="163,126,261,98,409,76,546,64,546,69,409,81,262,103,165,131"/>
+<area shape="rect" id="Node000004" href="$fielddecode_8c.html#a8b5c15737178cc13f5b9446fa5dcb67f" title="Decode a unsigned 2 byte integer from a big endian byte stream." alt="" coords="820,79,971,104"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="213,138,806,95,806,100,214,144"/>
+<area shape="rect" id="Node000005" href="$ESCVelocityProtocol_8h.html#abcd24a81728ddb7200fbbd9cdf7e82e2" title=" " alt="" coords="290,157,483,197"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="214,157,277,163,276,168,213,162"/>
+<area shape="rect" id="Node000006" href="$ESCVelocityProtocol_8h.html#a13376da039710c878eae99fe2694bb4a" title=" " alt="" coords="299,221,475,247"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="156,166,262,206,300,216,298,221,261,211,154,171"/>
+<area shape="rect" id="Node000007" href="$ESCVelocityProtocol_8h.html#a6371d6566fc943c6654ca132a924f0c3" title=" " alt="" coords="292,271,481,296"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="133,167,189,213,225,237,262,257,282,264,280,269,260,262,222,242,186,217,130,171"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,28,547,41,546,46,467,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="772,73,806,77,806,83,772,78"/>
+</map>

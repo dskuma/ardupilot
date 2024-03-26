@@ -1,0 +1,50 @@
+<map id="stopping_distance" name="stopping_distance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1573,244,1713,269"/>
+<area shape="rect" id="Node000002" href="$classAC__PosControl.html#af53a52b212deae43fb9b5f7765651b91" title="get_stopping_point_xy_cm &#45; calculates stopping point in NEU cm based on current position,..." alt="" coords="1351,173,1525,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1588,242,1502,215,1504,210,1589,237"/>
+<area shape="rect" id="Node000020" href="$classAC__PosControl.html#a4633080da61ec2ebe9ebae09e2c1863b" title="get_stopping_point_z_cm &#45; calculates stopping point in NEU cm based on current position,..." alt="" coords="1355,269,1521,309"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="1560,272,1522,278,1521,273,1559,267"/>
+<area shape="rect" id="Node000003" href="$classAC__Circle.html#a44749ec80571b5eed4b8a92ccfb426ba" title=" " alt="" coords="1111,141,1277,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1337,182,1277,174,1278,169,1337,177"/>
+<area shape="rect" id="Node000004" href="$classAC__Loiter.html#a277212eb239e55d267dbe372fdf8d640" title="get vector to stopping point based on a horizontal position and velocity" alt="" coords="1106,205,1282,245"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1337,209,1283,216,1282,211,1337,203"/>
+<area shape="rect" id="Node000005" href="$classAC__WPNav.html#ab1a08bf0cceabbf4469535b0c9aefdcb" title="get_wp_stopping_point &#45; returns vector to stopping point based on 3D position and velocity" alt="" coords="1089,333,1299,373"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1396,223,1353,259,1339,276,1330,292,1321,307,1304,323,1283,335,1280,330,1301,319,1317,304,1326,289,1334,273,1349,255,1392,219"/>
+<area shape="rect" id="Node000014" href="$classAC__WPNav.html#a07b6e4486f6d5bb6ece6a470ce382a80" title="get_wp_stopping_point_xy &#45; returns vector to stopping point based on a horizontal position and veloci..." alt="" coords="1089,13,1299,53"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="1410,164,1363,114,1333,89,1301,67,1277,55,1279,50,1304,62,1336,84,1366,110,1414,160"/>
+<area shape="rect" id="Node000016" href="$classAC__PosControl.html#ab8903f45fcdabaa724a20f5851a6d75b" title=" " alt="" coords="1085,77,1303,117"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="1386,169,1302,131,1268,119,1269,114,1304,126,1388,164"/>
+<area shape="rect" id="Node000006" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,299,179,339"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1075,361,908,366,697,368,462,363,226,347,178,341,179,335,227,342,462,358,697,363,908,361,1075,356"/>
+<area shape="rect" id="Node000007" href="$classAC__WPNav.html#afa1d354f3c8b545c3592505d680d2b01" title=" " alt="" coords="812,257,1037,283"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1111,331,1085,323,964,285,966,280,1086,318,1112,326"/>
+<area shape="rect" id="Node000008" href="$classAC__WPNav.html#a1bcabf69173d99eb009ac487b45da5fe" title=" " alt="" coords="567,161,734,201"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="863,256,811,241,705,203,706,198,813,235,864,251"/>
+<area shape="rect" id="Node000010" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title=" " alt="" coords="537,257,764,283"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="798,273,764,273,764,267,798,267"/>
+<area shape="rect" id="Node000009" href="$classAC__WPNav.html#a913ef01327eea5b15c9e6f98bb6ad1b0" title=" " alt="" coords="275,129,441,169"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="553,173,441,160,442,155,554,167"/>
+<area shape="rect" id="Node000011" href="$classAC__WPNav__OA.html#ab6a290e2ecfe6dc17c03b37cb0e1f659" title=" " alt="" coords="271,193,445,233"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="571,257,445,232,446,227,572,252"/>
+<area shape="rect" id="Node000012" href="$classAC__WPNav.html#aa25b6b0b9e87cb6c9c94a051d5c939df" title=" " alt="" coords="231,307,485,332"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="562,288,435,309,434,304,561,282"/>
+<area shape="rect" id="Node000013" href="$classAC__WPNav.html#a9a03d6c28caa4be4a9f0846dc5cff160" title="set waypoint destination using NED position vector from ekf origin in meters" alt="" coords="227,257,489,283"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="524,273,490,273,490,267,524,267"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="258,237,228,247,173,273,125,301,123,297,170,269,226,242,257,232"/>
+<area shape="poly" id="edge13_Node000012_Node000006" title=" " alt="" coords="217,322,179,322,179,317,217,317"/>
+<area shape="rect" id="Node000015" href="$classAC__WPNav.html#ab57df6b504f9e9f33ab6966774f3b6bf" title=" " alt="" coords="836,5,1013,60"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1075,35,1013,35,1013,30,1075,30"/>
+<area shape="poly" id="edge21_Node000016_Node000007" title=" " alt="" coords="1093,126,1087,131,1076,144,1069,157,1064,184,1059,212,1051,226,1039,240,1005,260,1002,255,1036,236,1047,223,1054,210,1059,183,1064,155,1071,141,1083,127,1089,122"/>
+<area shape="rect" id="Node000017" href="$classAC__Circle.html#a20eefa0e2e7172498728dbf1f5eed4af" title=" " alt="" coords="868,201,981,227"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1099,124,1087,131,1072,142,1063,154,1054,166,1039,179,1010,193,981,204,979,199,1008,188,1036,174,1050,163,1059,151,1069,139,1084,126,1096,120"/>
+<area shape="rect" id="Node000018" href="$classAC__Circle.html#a5e94d2a88dc7cc293c260482df25eee4" title=" " alt="" coords="868,140,981,165"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="1084,122,982,144,981,138,1083,117"/>
+<area shape="rect" id="Node000019" href="$classAC__Loiter.html#a99cf0b3a37763b4c85900ec3fbf2f786" title="init_target to a position in cm from ekf origin" alt="" coords="845,84,1004,109"/>
+<area shape="poly" id="edge20_Node000016_Node000019" title=" " alt="" coords="1072,99,1004,99,1004,94,1072,94"/>
+<area shape="poly" id="edge23_Node000020_Node000005" title=" " alt="" coords="1349,315,1271,335,1270,330,1347,310"/>
+<area shape="rect" id="Node000021" href="$classAC__PosControl.html#aaad00d11204d9afedb102e985952408a" title=" " alt="" coords="1090,269,1298,309"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="1341,291,1298,291,1298,286,1341,286"/>
+<area shape="poly" id="edge27_Node000021_Node000007" title=" " alt="" coords="1076,283,1037,280,1038,275,1077,278"/>
+<area shape="poly" id="edge25_Node000021_Node000017" title=" " alt="" coords="1108,267,1037,247,972,229,973,224,1038,242,1110,262"/>
+<area shape="poly" id="edge26_Node000021_Node000018" title=" " alt="" coords="1093,265,1084,259,1067,242,1059,224,1051,207,1036,191,1009,176,981,166,982,161,1011,171,1039,187,1055,204,1064,222,1072,239,1087,255,1095,260"/>
+</map>

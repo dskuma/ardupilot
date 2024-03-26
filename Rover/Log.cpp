@@ -253,7 +253,7 @@ void Rover::Log_Write_Vehicle_Startup_Messages()
 // units and "Format characters" for field type information
 
 const LogStructure Rover::log_structure[] = {
-    LOG_COMMON_STRUCTURES,
+
 
 // @LoggerMessage: THR
 // @Description: Throttle related messages

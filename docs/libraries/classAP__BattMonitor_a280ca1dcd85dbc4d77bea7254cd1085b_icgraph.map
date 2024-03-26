@@ -1,0 +1,20 @@
+<map id="AP_BattMonitor::current_amps" name="AP_BattMonitor::current_amps">
+<area shape="rect" id="Node000001" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="515,173,735,198"/>
+<area shape="rect" id="Node000002" href="$classAP__Frsky__SPort__Passthrough.html#a184d52ef3d979be934d2677e45b5148e" title=" " alt="" coords="260,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="600,165,542,112,505,84,465,60,439,48,441,43,468,55,508,80,545,108,603,161"/>
+<area shape="rect" id="Node000004" href="$classAP__Spektrum__Telem.html#abb88462121cdd2305b96a6d675577228" title=" " alt="" coords="282,69,445,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="581,170,466,124,430,112,432,107,468,119,583,165"/>
+<area shape="rect" id="Node000006" href="$classAP__Spektrum__Telem.html#afbbe78a6fcbd0728f2fee6f528521d41" title=" " alt="" coords="282,133,445,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="507,174,444,166,445,161,507,168"/>
+<area shape="rect" id="Node000007" href="$classAP__BattMonitor__Sum.html#afeae95f251a836992b05e2538bbb0177" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="284,197,443,237"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="508,202,443,210,442,205,507,197"/>
+<area shape="rect" id="Node000008" href="$classAP__Frsky__D.html#a292d278ba9c32cc955e18df3bbd8cd9e" title=" " alt="" coords="295,262,431,287"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="584,206,468,252,423,264,422,259,466,247,582,201"/>
+<area shape="rect" id="Node000009" href="$classAP__Frsky__SPort.html#a496723c516019ef752a88cadc60a3c13" title=" " alt="" coords="283,311,443,337"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="602,209,544,257,507,281,468,302,436,314,435,309,466,298,504,277,540,252,598,205"/>
+<area shape="rect" id="Node000003" href="$classAP__Frsky__SPort__Passthrough.html#aaf45be317909ca004c11b3419c368139" title=" " alt="" coords="5,5,212,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,28,212,28,212,23,247,23"/>
+<area shape="rect" id="Node000005" href="$classAP__Spektrum__Telem.html#abdf6238b24c78c73655af3a97ccc2b08" title=" " alt="" coords="27,101,190,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,104,191,114,190,108,268,99"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="268,144,190,134,191,129,269,139"/>
+</map>

@@ -1,0 +1,61 @@
+<map id="AP_GPS_UBLOX::ubx_cfg_gnss" name="AP_GPS_UBLOX::ubx_cfg_gnss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,21,511,46"/>
+<area shape="rect" id="Node000002" href="$unionAP__GPS__UBLOX_1_1PACKED.html" title=" " alt="" coords="660,753,844,778"/>
+<area shape="poly" id="edge19_Node000002_Node000001" title=" " alt="" coords="485,17,525,16,565,21,604,34,638,57,657,80,674,112,701,196,721,298,735,410,750,621,753,752,748,752,745,621,730,410,716,299,696,197,669,115,652,83,634,61,602,39,564,26,524,22,485,22"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="747,739,739,606,720,416,706,319,686,229,663,156,649,127,634,106,613,89,592,85,567,83,538,76,514,65,458,49,459,43,516,60,540,71,568,77,592,79,615,85,638,102,654,125,668,154,692,228,711,318,726,416,745,606,752,739"/>
+<area shape="rect" id="Node000026" href="$structAP__GPS__UBLOX_1_1ubx__rxm__rawx.html" title=" " alt="" coords="961,753,1189,778"/>
+<area shape="poly" id="edge27_Node000026_Node000002" title=" " alt="" coords="858,763,961,763,961,768,858,768"/>
+<area shape="rect" id="Node000003" href="$structAP__GPS__UBLOX_1_1ubx__nav__posllh.html" title=" " alt="" coords="308,75,495,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,111,591,130,621,139,638,147,654,169,668,197,693,270,712,359,727,455,746,637,753,752,747,753,740,638,722,455,707,360,688,272,663,199,649,172,634,151,619,144,589,135,508,117"/>
+<area shape="rect" id="Node000004" href="$structAP__GPS__UBLOX_1_1ubx__nav__status.html" title=" " alt="" coords="308,139,495,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="509,161,586,171,617,180,638,193,653,212,667,238,691,304,711,386,726,474,745,644,753,752,747,753,740,644,720,475,705,387,686,306,663,240,649,215,634,197,615,185,585,177,508,166"/>
+<area shape="rect" id="Node000005" href="$structAP__GPS__UBLOX_1_1ubx__nav__dop.html" title=" " alt="" coords="292,203,511,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="525,208,555,213,585,222,613,235,638,254,652,271,665,294,687,353,706,425,722,504,743,654,752,752,747,753,737,655,716,504,701,426,682,354,660,296,647,274,634,258,610,240,583,227,554,219,524,214"/>
+<area shape="rect" id="Node000006" href="$structAP__GPS__UBLOX_1_1ubx__nav__solution.html" title=" " alt="" coords="308,253,495,293"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="509,268,543,273,577,283,609,297,638,318,662,352,683,404,701,466,717,534,740,665,752,752,747,753,735,666,712,535,696,467,678,405,657,355,634,322,607,302,576,288,542,278,508,273"/>
+<area shape="rect" id="Node000007" href="$structAP__GPS__UBLOX_1_1ubx__nav__pvt.html" title=" " alt="" coords="294,318,509,343"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="524,334,584,352,613,366,638,386,675,430,702,481,723,535,737,589,751,687,754,752,748,752,746,688,732,590,718,536,698,483,670,433,634,390,610,371,582,356,522,339"/>
+<area shape="rect" id="Node000008" href="$structAP__GPS__UBLOX_1_1ubx__nav__timegps.html" title=" " alt="" coords="308,368,495,408"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="509,396,577,417,609,433,638,455,669,491,694,532,713,575,728,619,746,698,752,752,747,753,741,699,723,620,708,577,689,534,665,494,634,459,606,438,575,422,508,401"/>
+<area shape="rect" id="Node000009" href="$structAP__GPS__UBLOX_1_1ubx__nav__velned.html" title=" " alt="" coords="308,432,495,472"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="509,464,576,487,609,504,638,526,663,553,685,584,718,649,740,709,751,752,745,753,734,711,713,651,680,586,659,556,634,530,606,509,574,492,507,469"/>
+<area shape="rect" id="Node000010" href="$structAP__GPS__UBLOX_1_1ubx__cfg__msg__rate.html" title=" " alt="" coords="310,496,493,536"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="507,533,575,557,608,574,638,595,677,635,709,679,747,751,743,754,704,682,673,638,634,599,605,579,572,562,505,538"/>
+<area shape="rect" id="Node000011" href="$structAP__GPS__UBLOX_1_1ubx__cfg__msg__rate__6.html" title=" " alt="" coords="310,560,493,600"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="505,601,572,625,637,658,669,681,698,706,741,750,738,754,695,710,666,685,635,662,570,630,503,606"/>
+<area shape="rect" id="Node000012" href="$structAP__GPS__UBLOX_1_1ubx__cfg__nav__settings.html" title=" " alt="" coords="310,624,493,664"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="499,665,567,685,637,708,728,750,726,755,635,713,566,690,498,670"/>
+<area shape="rect" id="Node000013" href="$structAP__GPS__UBLOX_1_1ubx__cfg__nav__rate.html" title=" " alt="" coords="310,688,493,728"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="507,722,636,743,679,750,678,755,636,748,506,727"/>
+<area shape="rect" id="Node000014" href="$structAP__GPS__UBLOX_1_1ubx__cfg__prt.html" title=" " alt="" coords="297,753,505,778"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="519,763,660,763,660,768,519,768"/>
+<area shape="rect" id="Node000015" href="$structAP__GPS__UBLOX_1_1ubx__mon__hw__60.html" title=" " alt="" coords="305,803,497,843"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="511,803,636,783,678,775,679,781,636,788,512,808"/>
+<area shape="rect" id="Node000016" href="$structAP__GPS__UBLOX_1_1ubx__mon__hw__68.html" title=" " alt="" coords="305,867,497,907"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="501,861,568,842,635,819,684,797,726,776,729,781,687,802,637,824,569,847,503,866"/>
+<area shape="rect" id="Node000017" href="$structAP__GPS__UBLOX_1_1ubx__mon__hw2.html" title=" " alt="" coords="288,931,515,957"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="492,926,564,904,600,889,635,871,666,848,696,822,738,776,742,780,699,826,670,852,637,876,603,894,566,910,493,931"/>
+<area shape="rect" id="Node000018" href="$structAP__GPS__UBLOX_1_1ubx__mon__ver.html" title=" " alt="" coords="291,981,511,1006"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="524,979,582,962,634,934,674,896,706,852,729,809,743,777,748,779,734,812,711,855,678,900,638,938,584,967,526,984"/>
+<area shape="rect" id="Node000019" href="$structAP__GPS__UBLOX_1_1ubx__cfg__tp5.html" title=" " alt="" coords="296,1030,507,1055"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="520,1039,580,1025,608,1013,634,997,660,972,682,944,715,881,736,821,746,778,751,779,741,822,720,883,687,947,664,976,638,1001,611,1017,582,1030,521,1044"/>
+<area shape="rect" id="Node000020" href="$structAP__GPS__UBLOX_1_1ubx__cfg__sbas.html" title=" " alt="" coords="291,1079,511,1105"/>
+<area shape="poly" id="edge20_Node000002_Node000020" title=" " alt="" coords="525,1095,583,1083,610,1072,634,1057,665,1026,690,989,710,949,724,908,741,831,747,778,753,779,747,832,729,909,715,951,695,992,670,1029,638,1061,612,1077,584,1089,526,1100"/>
+<area shape="rect" id="Node000021" href="$structAP__GPS__UBLOX_1_1ubx__cfg__valget.html" title=" " alt="" coords="310,1129,493,1169"/>
+<area shape="poly" id="edge21_Node000002_Node000021" title=" " alt="" coords="507,1155,540,1152,574,1145,606,1132,634,1114,670,1076,697,1031,718,982,732,932,746,840,748,778,754,778,751,840,737,933,723,984,702,1033,674,1079,638,1118,608,1137,576,1150,541,1157,507,1160"/>
+<area shape="rect" id="Node000022" href="$structAP__GPS__UBLOX_1_1ubx__nav__svinfo__header.html" title=" " alt="" coords="308,1193,495,1233"/>
+<area shape="poly" id="edge22_Node000002_Node000022" title=" " alt="" coords="508,1217,542,1213,575,1205,607,1192,634,1173,656,1143,676,1097,694,1041,710,979,734,858,746,778,752,779,739,859,715,980,699,1042,681,1099,661,1146,638,1177,609,1197,577,1210,543,1218,509,1222"/>
+<area shape="rect" id="Node000023" href="$structAP__GPS__UBLOX_1_1ubx__nav__relposned.html" title=" " alt="" coords="308,1257,495,1297"/>
+<area shape="poly" id="edge23_Node000002_Node000023" title=" " alt="" coords="508,1280,542,1276,576,1267,607,1254,634,1234,658,1199,680,1146,698,1080,714,1008,736,869,747,778,752,778,741,870,719,1009,703,1081,685,1147,663,1202,638,1238,609,1259,577,1273,543,1281,509,1285"/>
+<area shape="rect" id="Node000024" href="$structAP__GPS__UBLOX_1_1ubx__rxm__raw.html" title=" " alt="" coords="291,1322,511,1347"/>
+<area shape="poly" id="edge24_Node000002_Node000024" title=" " alt="" coords="525,1340,555,1336,584,1328,610,1316,634,1298,648,1281,661,1258,684,1197,703,1121,718,1039,738,881,747,778,752,779,744,881,723,1040,708,1122,689,1198,666,1260,653,1284,638,1302,613,1320,585,1333,556,1341,526,1345"/>
+<area shape="rect" id="Node000025" href="$structAP__GPS__UBLOX_1_1ubx__rxm__raw_1_1ubx__rxm__raw__sv.html" title=" " alt="" coords="5,1315,195,1355"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="208,1332,291,1332,291,1337,208,1337"/>
+<area shape="poly" id="edge26_Node000002_Node000026" title=" " alt="" coords="999,783,935,790,868,789,810,781,811,775,868,784,935,784,999,778"/>
+<area shape="rect" id="Node000027" href="$structAP__GPS__UBLOX_1_1ubx__ack__ack.html" title=" " alt="" coords="293,1371,509,1397"/>
+<area shape="poly" id="edge28_Node000002_Node000027" title=" " alt="" coords="480,1396,520,1397,561,1393,600,1381,634,1359,650,1341,664,1315,689,1246,708,1161,723,1069,741,891,748,778,753,779,746,892,728,1069,714,1162,694,1248,669,1317,654,1344,638,1363,602,1386,562,1398,520,1402,480,1401"/>
+<area shape="rect" id="Node000028" href="$structAP__GPS__UBLOX_1_1ubx__ack__nack.html" title=" " alt="" coords="289,1421,513,1446"/>
+<area shape="poly" id="edge29_Node000002_Node000028" title=" " alt="" coords="467,1446,509,1450,554,1449,597,1438,617,1428,634,1415,651,1395,667,1366,693,1291,713,1197,727,1095,743,900,748,778,753,778,749,901,733,1096,718,1198,698,1292,672,1369,656,1398,638,1419,619,1433,599,1443,554,1454,509,1455,466,1451"/>
+<area shape="rect" id="Node000029" href="$structAP__GPS__UBLOX_1_1ubx__tim__tm2.html" title=" " alt="" coords="292,1470,511,1495"/>
+<area shape="poly" id="edge30_Node000002_Node000029" title=" " alt="" coords="460,1496,503,1502,549,1502,595,1493,616,1483,634,1470,653,1448,670,1417,697,1335,717,1233,731,1122,745,911,748,778,753,779,751,911,737,1123,722,1234,702,1336,674,1419,657,1451,638,1474,618,1488,597,1498,550,1508,502,1507,459,1501"/>
+</map>

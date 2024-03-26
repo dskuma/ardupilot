@@ -1,0 +1,9 @@
+<map id="encodeESC_HallSensorInfoPacket" name="encodeESC_HallSensorInfoPacket">
+<area shape="rect" id="Node000001" title="Create the ESC_HallSensorInfo packet from parameters." alt="" coords="5,47,201,87"/>
+<area shape="rect" id="Node000002" href="$ESCPackets_8c.html#a571c70fe9bdc7657a8341c7f2a84d286" title="Encode a ESC_HallSensorPattern_t into a byte array." alt="" coords="249,5,479,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,46,283,31,284,36,202,51"/>
+<area shape="rect" id="Node000003" href="$ESCVelocityProtocol_8h.html#ae26ac4eee8e1853b6b09acf72bba0a8b" title="Complete a packet after the data have been encoded." alt="" coords="276,55,452,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,65,262,65,262,70,201,70"/>
+<area shape="rect" id="Node000004" href="$ESCVelocityProtocol_8h.html#a1ea9c054da75c49566d8a20b17654532" title=" " alt="" coords="267,104,461,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,83,284,99,283,104,201,88"/>
+</map>

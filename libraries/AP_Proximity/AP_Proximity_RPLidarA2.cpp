@@ -31,7 +31,7 @@
 #if AP_PROXIMITY_RPLIDARA2_ENABLED
 
 #include "AP_Proximity_RPLidarA2.h"
-
+#include <AP_Logger/AP_Logger.h>
 #include <AP_HAL/AP_HAL.h>
 #include "AP_Proximity_RPLidarA2.h"
 #include <AP_InternalError/AP_InternalError.h>
@@ -110,6 +110,9 @@ float AP_Proximity_RPLidarA2::distance_max() const
         return 16.0f;
     case Model::S1:
         return 40.0f;
+    case Model::S3:
+    //hal.console->printf("Set S3 Lidar max Distance");
+        return 40.0f;
     }
     return 0.0f;
 }
@@ -124,6 +127,9 @@ float AP_Proximity_RPLidarA2::distance_min() const
         return 0.2f;
     case Model::A2:
     case Model::S1:
+        return 0.2f;
+     case Model::S3:
+        //hal.console->printf("Set S3 Lidar min Distance");
         return 0.2f;
     }
     return 0.0f;
@@ -306,6 +312,7 @@ void AP_Proximity_RPLidarA2::get_readings()
             if (_byte_count < sizeof(_payload.sensor_scan)) {
                 return;
             }
+            //hal.console->printf("We are awaiting scan data");
             parse_response_data();
             consume_bytes(sizeof(_payload.sensor_scan));
             break;
@@ -325,6 +332,7 @@ void AP_Proximity_RPLidarA2::parse_response_device_info()
 {
     Debug(1, "Received DEVICE_INFO");
     const char *device_type = "UNKNOWN";
+    hal.console->printf("Gonna Search for a Lidar");
     switch (_payload.device_info.model) {
     case 0x18:
         model = Model::A1;
@@ -338,9 +346,15 @@ void AP_Proximity_RPLidarA2::parse_response_device_info()
         model = Model::S1;
         device_type = "S1";
         break;
+    case 0x81:
+        model = Model::S3;
+        device_type = "S3";
+        //hal.console->printf("Found S3 WHOOOOH");
+        break;
     default:
         Debug(1, "Unknown device (%u)", _payload.device_info.model);
     }
+    AP::logger().Write_MessageF("Model: %s", device_type);
     GCS_SEND_TEXT(MAV_SEVERITY_INFO, "RPLidar %s hw=%u fw=%u.%u", device_type, _payload.device_info.hardware, _payload.device_info.firmware_minor, _payload.device_info.firmware_major);
     send_scan_mode_request();
     _state = State::AWAITING_RESPONSE;
@@ -354,7 +368,7 @@ void AP_Proximity_RPLidarA2::parse_response_data()
         // on first revolution bit 1 = 1, bit 2 = 0 of the first byte
         if ((_payload[0] & 0x03) == 0x01) {
             _sync_error = 0;
-            Debug(1, "                  RESYNC");
+            Debug(1, "               RESYNC");
         } else {
             return;
         }
@@ -368,8 +382,10 @@ void AP_Proximity_RPLidarA2::parse_response_data()
     }
 
     const float angle_sign = (params.orientation == 1) ? -1.0f : 1.0f;
-    const float angle_deg = wrap_360(_payload.sensor_scan.angle_q6/64.0f * angle_sign + params.yaw_correction);
+    const float angle_deg = wrap_360(_payload.sensor_scan.angle_q6/64.0f * angle_sign + params.yaw_correction);    
     const float distance_m = (_payload.sensor_scan.distance_q2/4000.0f);
+    //AP::logger().Write_MessageF("LIDR: %f, %f",distance_m,angle_deg);
+    hal.console->printf("%f, %f\n",distance_m,angle_deg);
 #if RP_DEBUG_LEVEL >= 2
     const float quality = _payload.sensor_scan.quality;
     Debug(2, "   D%02.2f A%03.1f Q%0.2f", distance_m, angle_deg, quality);
@@ -399,7 +415,7 @@ void AP_Proximity_RPLidarA2::parse_response_data()
                 _last_angle_deg = angle_deg;
             }
             // update OA database
-            database_push(_last_angle_deg, _last_distance_m);
+            database_push(_last_angle_deg, _last_distance_m);// what is this database??
         }
     }
 }

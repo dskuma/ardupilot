@@ -1,0 +1,57 @@
+<map id="AP_AHRS_View::getLastPosNorthEastReset" name="AP_AHRS_View::getLastPosNorthEastReset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1793,242,1992,282"/>
+<area shape="rect" id="Node000002" href="$classAC__PosControl.html#a1ede41067094127530b2721db5528f75" title="handle_ekf_xy_reset &#45; check for ekf position reset and adjust loiter or brake target position" alt="" coords="1576,167,1745,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1816,240,1723,210,1724,205,1818,235"/>
+<area shape="rect" id="Node000009" href="$classAC__PosControl.html#a85a901d243ace613341b084dec4cc816" title="initialise and check for ekf position resets" alt="" coords="1587,274,1734,314"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1780,280,1735,287,1734,281,1779,275"/>
+<area shape="rect" id="Node000003" href="$classAC__PosControl.html#a7de4126a9d187d523e23700d015e0478" title=" " alt="" coords="1360,110,1519,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1569,166,1516,153,1518,147,1570,161"/>
+<area shape="rect" id="Node000004" href="$classAC__PosControl.html#ab71db0f35377ec2265517a91a0afa4a5" title=" " alt="" coords="1109,123,1279,163"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1562,183,1350,165,1279,157,1280,151,1351,159,1562,178"/>
+<area shape="rect" id="Node000005" href="$classAC__Loiter.html#aeb9de62ab04f35ffba3a6d1ff479bf5a" title="run the loiter controller" alt="" coords="856,5,993,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1156,117,1101,79,1036,44,993,31,995,26,1038,40,1104,74,1159,113"/>
+<area shape="rect" id="Node000006" href="$classAC__Circle.html#a8ee0ff9ded0e7f2766431b35f91bb1cd" title="update &#45; update circle controller" alt="" coords="856,55,993,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1108,122,970,83,972,78,1110,117"/>
+<area shape="rect" id="Node000007" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="553,105,749,131"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1095,141,749,125,749,120,1095,136"/>
+<area shape="rect" id="Node000008" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,213,179,253"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="1094,146,929,148,713,156,471,173,227,202,164,215,163,210,226,197,470,168,713,151,929,143,1094,140"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="539,115,468,116,389,121,307,132,228,153,197,165,167,181,119,215,116,210,165,177,194,160,226,147,306,127,388,115,468,110,539,110"/>
+<area shape="rect" id="Node000010" href="$classAC__PosControl.html#a76932eed8be2c3c9b84728c3e56edd63" title=" " alt="" coords="1366,274,1513,314"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1573,297,1513,297,1513,291,1573,291"/>
+<area shape="rect" id="Node000026" href="$classAC__PosControl.html#ab957c3f9613e30b89da2e2b1cbe4eae3" title=" " alt="" coords="1351,338,1528,378"/>
+<area shape="poly" id="edge29_Node000009_Node000026" title=" " alt="" coords="1578,320,1510,341,1508,335,1577,315"/>
+<area shape="poly" id="edge28_Node000010_Node000004" title=" " alt="" coords="1393,269,1226,166,1229,161,1396,265"/>
+<area shape="rect" id="Node000011" href="$classAC__PosControl.html#ab8903f45fcdabaa724a20f5851a6d75b" title=" " alt="" coords="1085,274,1303,314"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1352,297,1303,297,1303,291,1352,291"/>
+<area shape="rect" id="Node000022" href="$classAC__PosControl.html#ac9ce92836a7cebd02ce1cedc0e061ae3" title="This function decays the output acceleration by 95% every half second to achieve a smooth transition ..." alt="" coords="1107,355,1281,395"/>
+<area shape="poly" id="edge24_Node000010_Node000022" title=" " alt="" coords="1366,321,1256,358,1254,353,1365,316"/>
+<area shape="rect" id="Node000025" href="$classAC__WPNav.html#ae1d12d7cd0c6e4cb2003e2f11e151b1a" title=" " alt="" coords="1105,420,1283,475"/>
+<area shape="poly" id="edge27_Node000010_Node000025" title=" " alt="" coords="1359,323,1353,328,1336,348,1329,368,1322,388,1304,409,1285,423,1282,418,1301,405,1317,386,1324,366,1332,345,1349,324,1355,319"/>
+<area shape="rect" id="Node000012" href="$classAC__Circle.html#a20eefa0e2e7172498728dbf1f5eed4af" title=" " alt="" coords="868,207,981,232"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1122,272,1037,246,981,233,982,228,1038,241,1124,267"/>
+<area shape="rect" id="Node000013" href="$classAC__Circle.html#a5e94d2a88dc7cc293c260482df25eee4" title=" " alt="" coords="868,256,981,281"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1071,285,981,277,982,271,1072,280"/>
+<area shape="rect" id="Node000014" href="$classAC__Loiter.html#a99cf0b3a37763b4c85900ec3fbf2f786" title="init_target to a position in cm from ekf origin" alt="" coords="845,305,1004,331"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="1072,308,1004,314,1004,308,1071,302"/>
+<area shape="rect" id="Node000015" href="$classAC__WPNav.html#afa1d354f3c8b545c3592505d680d2b01" title=" " alt="" coords="812,355,1037,380"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="1122,321,1038,346,990,357,989,352,1037,341,1120,316"/>
+<area shape="rect" id="Node000016" href="$classAC__WPNav.html#a1bcabf69173d99eb009ac487b45da5fe" title=" " alt="" coords="567,246,734,286"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="838,354,811,346,744,318,686,288,688,284,746,313,813,341,839,349"/>
+<area shape="rect" id="Node000018" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title=" " alt="" coords="537,345,764,371"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="798,366,764,365,765,359,798,360"/>
+<area shape="rect" id="Node000017" href="$classAC__WPNav.html#a913ef01327eea5b15c9e6f98bb6ad1b0" title=" " alt="" coords="275,211,441,251"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="553,257,441,244,442,238,554,252"/>
+<area shape="rect" id="Node000019" href="$classAC__WPNav__OA.html#ab6a290e2ecfe6dc17c03b37cb0e1f659" title=" " alt="" coords="271,275,445,315"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="577,345,445,317,446,311,578,340"/>
+<area shape="rect" id="Node000020" href="$classAC__WPNav.html#aa25b6b0b9e87cb6c9c94a051d5c939df" title=" " alt="" coords="231,340,485,365"/>
+<area shape="poly" id="edge21_Node000018_Node000020" title=" " alt="" coords="523,358,485,358,485,352,524,353"/>
+<area shape="rect" id="Node000021" href="$classAC__WPNav.html#a9a03d6c28caa4be4a9f0846dc5cff160" title="set waypoint destination using NED position vector from ekf origin in meters" alt="" coords="227,389,489,415"/>
+<area shape="poly" id="edge23_Node000018_Node000021" title=" " alt="" coords="553,375,444,392,443,387,552,370"/>
+<area shape="poly" id="edge20_Node000019_Node000008" title=" " alt="" coords="259,275,177,255,178,250,260,270"/>
+<area shape="poly" id="edge22_Node000020_Node000008" title=" " alt="" coords="251,339,226,330,193,313,163,294,114,255,117,251,166,289,196,309,228,325,253,334"/>
+<area shape="rect" id="Node000023" href="$classAC__Loiter.html#a223b900f1c94d4b24b1a8941f52d79ca" title="initialize&#39;s position and feed&#45;forward velocity from current pos and velocity" alt="" coords="845,404,1004,429"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1094,393,1005,407,1004,402,1093,388"/>
+<area shape="rect" id="Node000024" href="$classAC__WPNav.html#ab57df6b504f9e9f33ab6966774f3b6bf" title=" " alt="" coords="836,453,1013,508"/>
+<area shape="poly" id="edge26_Node000022_Node000024" title=" " alt="" coords="1106,403,1087,411,1063,427,1039,444,1014,456,1012,451,1036,440,1060,423,1084,406,1104,398"/>
+</map>

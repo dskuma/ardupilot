@@ -1,0 +1,39 @@
+<map id="AC_AttitudeControl::get_ang_vel_pitch_max_rads" name="AC_AttitudeControl::get_ang_vel_pitch_max_rads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1320,147,1468,202"/>
+<area shape="rect" id="Node000002" href="$classAC__WPNav.html#add894c6adc7bf8fee21061f596a330e8" title=" " alt="" coords="1090,155,1267,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1306,177,1268,177,1268,172,1306,172"/>
+<area shape="rect" id="Node000011" href="$classAC__AttitudeControl.html#a874d7c2f98a3ad251d9f91cc936694e2" title=" " alt="" coords="1085,67,1272,107"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1313,145,1227,109,1230,104,1315,140"/>
+<area shape="rect" id="Node000015" href="$classAC__PosControl.html#aa9dab423decf68d487476abacdc75199" title=" " alt="" coords="1095,219,1263,259"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="1307,203,1247,221,1246,216,1306,198"/>
+<area shape="rect" id="Node000003" href="$classAC__WPNav.html#afa1d354f3c8b545c3592505d680d2b01" title=" " alt="" coords="812,174,1037,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1076,182,1038,184,1037,179,1076,177"/>
+<area shape="rect" id="Node000004" href="$classAC__WPNav.html#a1bcabf69173d99eb009ac487b45da5fe" title=" " alt="" coords="567,91,734,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="864,173,723,133,724,128,866,168"/>
+<area shape="rect" id="Node000006" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title=" " alt="" coords="537,181,764,206"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="798,192,764,193,764,188,798,187"/>
+<area shape="rect" id="Node000005" href="$classAC__WPNav.html#a913ef01327eea5b15c9e6f98bb6ad1b0" title=" " alt="" coords="275,69,441,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="553,106,441,98,442,93,554,101"/>
+<area shape="rect" id="Node000007" href="$classAC__WPNav__OA.html#ab6a290e2ecfe6dc17c03b37cb0e1f659" title=" " alt="" coords="271,233,445,273"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="575,211,446,238,445,233,574,206"/>
+<area shape="rect" id="Node000009" href="$classAC__WPNav.html#aa25b6b0b9e87cb6c9c94a051d5c939df" title=" " alt="" coords="231,134,485,159"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="557,181,438,162,439,157,558,176"/>
+<area shape="rect" id="Node000010" href="$classAC__WPNav.html#a9a03d6c28caa4be4a9f0846dc5cff160" title="set waypoint destination using NED position vector from ekf origin in meters" alt="" coords="227,183,489,209"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="524,197,490,197,489,192,524,192"/>
+<area shape="rect" id="Node000008" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,233,179,273"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="257,256,179,256,179,251,257,251"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="256,165,228,174,169,204,121,235,118,231,167,199,226,170,255,160"/>
+<area shape="rect" id="Node000012" href="$classAC__AttitudeControl.html#a18ad3ea19760b7a23f3980ca96e93c22" title=" " alt="" coords="827,67,1023,107"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1072,89,1023,89,1023,84,1072,84"/>
+<area shape="rect" id="Node000013" href="$classAC__AutoTune__Multi.html#a9d03ee0bb0c2f303e4834461adb82093" title=" " alt="" coords="573,9,728,49"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="1086,66,1037,57,872,40,728,33,728,28,872,35,1038,52,1087,61"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="815,66,728,48,729,43,816,61"/>
+<area shape="rect" id="Node000014" href="$classAC__AutoTune__Multi.html#a7735e84559902c006bef84766750f8ae" title=" " alt="" coords="281,5,435,45"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="559,31,435,29,436,24,559,25"/>
+<area shape="poly" id="edge20_Node000015_Node000003" title=" " alt="" coords="1081,221,987,202,988,197,1082,216"/>
+<area shape="rect" id="Node000016" href="$classAC__WPNav.html#a0ff7209545f3c7169054b2ee79cd4216" title="set current target horizontal speed during wp navigation" alt="" coords="829,251,1020,277"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1081,251,1020,257,1020,252,1081,246"/>
+<area shape="rect" id="Node000017" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="553,263,749,289"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="816,271,749,274,749,269,815,266"/>
+<area shape="poly" id="edge19_Node000017_Node000008" title=" " alt="" coords="539,289,390,296,308,294,226,288,163,276,164,271,227,283,308,289,390,290,539,284"/>
+</map>

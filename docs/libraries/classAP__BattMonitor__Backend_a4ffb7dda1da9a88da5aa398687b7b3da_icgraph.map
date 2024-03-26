@@ -1,0 +1,9 @@
+<map id="AP_BattMonitor_Backend::update_consumed" name="AP_BattMonitor_Backend::update_consumed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,69,429,109"/>
+<area shape="rect" id="Node000002" href="$classAP__BattMonitor__Analog.html#ad25bd84c3aebc99e11a62a3caf26576b" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="13,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,68,174,48,176,43,250,63"/>
+<area shape="rect" id="Node000003" href="$classAP__BattMonitor__Sum.html#afeae95f251a836992b05e2538bbb0177" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="21,69,180,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,92,180,92,180,87,230,87"/>
+<area shape="rect" id="Node000004" href="$classAP__BattMonitor__Synthetic__Current.html#a5f4b25b75ac7fbdc84be5be60876f98e" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="5,133,196,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,116,176,136,174,131,248,110"/>
+</map>

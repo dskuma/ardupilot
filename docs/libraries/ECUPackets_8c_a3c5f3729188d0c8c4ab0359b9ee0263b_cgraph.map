@@ -1,0 +1,17 @@
+<map id="decodeECU_RPMLoopCalibrationPacketStructure" name="decodeECU_RPMLoopCalibrationPacketStructure">
+<area shape="rect" id="Node000001" title="Decode the ECU_RPMLoopCalibration packet." alt="" coords="5,163,240,203"/>
+<area shape="rect" id="Node000002" href="$scaleddecode_8c.html#af2f32237ad49a8c1f657bfc2f4067d32" title="Decode a float from a byte stream by inverse floating point scaling from 1 signed byte." alt="" coords="297,5,491,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,160,205,108,245,80,287,55,302,48,304,53,289,60,248,84,208,113,147,165"/>
+<area shape="rect" id="Node000003" href="$scaleddecode_8c.html#ae7fb6f8e62c85655cba5722519e3b530" title="Decode a float from a byte stream by inverse floating point scaling from 1 unsigned byte." alt="" coords="288,69,500,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,160,287,119,311,111,313,116,289,124,176,165"/>
+<area shape="rect" id="Node000004" href="$scaleddecode_8c.html#a8cfa1ff201520a07e1e62b437bd7d5a2" title="Decode a float from a byte stream by inverse floating point scaling from 2 unsigned bytes in big endi..." alt="" coords="288,133,500,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,167,274,164,274,169,241,173"/>
+<area shape="rect" id="Node000006" href="$ECUProtocol_8h.html#a74ed13018247a8514af7eb52ef5410cc" title=" " alt="" coords="304,198,484,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,192,290,197,290,203,240,197"/>
+<area shape="rect" id="Node000007" href="$ECUProtocol_8h.html#ac0811382529c6b1db2d19cb00d5aa0b0" title=" " alt="" coords="331,247,457,273"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="184,200,289,232,324,241,323,247,287,237,183,205"/>
+<area shape="rect" id="Node000008" href="$ECUProtocol_8h.html#aaab7f6ca354d108214f099fb53d1fd79" title=" " alt="" coords="325,297,463,322"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="152,200,213,241,289,282,314,290,312,295,287,286,210,246,149,205"/>
+<area shape="rect" id="Node000005" href="$fielddecode_8c.html#a8b5c15737178cc13f5b9446fa5dcb67f" title="Decode a unsigned 2 byte integer from a big endian byte stream." alt="" coords="548,141,699,166"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,151,534,151,534,156,500,156"/>
+</map>

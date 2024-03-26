@@ -1,0 +1,28 @@
+<map id="AP_MotorsSingle" name="AP_MotorsSingle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="178,555,309,580"/>
+<area shape="rect" id="Node000002" href="$classAP__MotorsMulticopter.html" title=" " alt="" coords="161,480,326,505"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,520,246,554,241,554,241,520"/>
+<area shape="rect" id="Node000003" href="$classAP__Motors.html" title=" " alt="" coords="307,302,398,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,341,349,379,335,419,321,439,303,457,267,482,264,478,299,453,317,436,330,416,344,378,349,341"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="412,305,421,308,425,315,416,323,398,326,398,321,414,318,419,314,417,312,411,310"/>
+<area shape="rect" id="Node000010" href="$classThrust__Linearization.html" title=" " alt="" coords="166,392,321,417"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="319,336,290,355,254,394,250,390,287,351,316,332"/>
+<area shape="rect" id="Node000004" href="$structAP__Motors_1_1AP__Motors__limit.html" title=" " alt="" coords="255,183,423,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,236,343,276,351,301,345,303,338,276,335,237"/>
+<area shape="rect" id="Node000005" href="$classLowPassFilter.html" title=" " alt="" coords="459,190,628,215"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="468,222,436,233,408,249,380,276,361,303,357,300,376,272,404,245,434,228,466,217"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="546,229,544,254,538,282,527,309,508,331,464,359,415,379,367,392,321,400,320,395,365,387,414,374,461,354,504,327,522,306,533,280,539,253,541,229"/>
+<area shape="rect" id="Node000006" href="$classDigitalLPF.html" title=" " alt="" coords="470,87,617,113"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="546,127,546,190,541,190,541,127"/>
+<area shape="rect" id="Node000007" href="$classDerivativeFilter.html" title=" " alt="" coords="32,190,231,215"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="158,222,194,248,237,274,272,288,308,300,306,305,270,293,234,278,191,253,154,226"/>
+<area shape="rect" id="Node000008" href="$classFilterWithBuffer.html" title=" " alt="" coords="56,80,207,120"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="134,134,134,190,129,190,129,134"/>
+<area shape="rect" id="Node000009" href="$classFilter.html" title=" " alt="" coords="85,5,178,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="134,44,134,80,129,80,129,44"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="246,431,246,479,241,479,241,431"/>
+<area shape="rect" id="Node000011" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,302,164,327"/>
+<area shape="poly" id="edge15_Node000002_Node000011" title=" " alt="" coords="84,341,85,379,90,398,99,416,119,438,143,455,196,477,194,482,141,459,115,442,94,419,85,400,80,380,79,341"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="119,332,224,390,221,394,116,336"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="179,306,191,315,182,322,165,325,164,320,180,317,185,315,177,311"/>
+</map>

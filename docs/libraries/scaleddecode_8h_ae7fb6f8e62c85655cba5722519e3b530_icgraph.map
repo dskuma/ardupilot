@@ -1,0 +1,31 @@
+<map id="float32ScaledFrom1UnsignedBytes" name="float32ScaledFrom1UnsignedBytes">
+<area shape="rect" id="Node000001" title="Decode a float from a byte stream by inverse floating point scaling from 1 unsigned byte." alt="" coords="305,408,517,448"/>
+<area shape="rect" id="Node000002" href="$ECUSettings_8c.html#a7d2f9a54a8e8b406bab72030dd77561b" title="Decode the ECU_GovernorSettings packet." alt="" coords="23,5,239,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,395,391,324,365,233,345,186,321,139,291,97,256,59,238,47,241,43,259,55,295,93,325,137,350,184,370,232,396,323,409,394"/>
+<area shape="rect" id="Node000003" href="$ECUPackets_8c.html#a3c5f3729188d0c8c4ab0359b9ee0263b" title="Decode the ECU_RPMLoopCalibration packet." alt="" coords="14,69,249,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,395,384,336,356,262,336,224,313,187,287,153,256,123,238,112,241,107,259,119,291,149,318,184,341,221,360,260,389,334,406,394"/>
+<area shape="rect" id="Node000004" href="$ECUPackets_8c.html#afde95310bff05313978e7015fd644bcd" title="Decode the ECU_SetThrottleCurveElement packet." alt="" coords="25,133,238,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,396,376,349,346,292,306,235,282,210,256,188,236,176,238,171,259,183,286,206,310,232,351,290,381,347,401,394"/>
+<area shape="rect" id="Node000005" href="$ECUPackets_8c.html#a50e37f8afccb00587e9e10b7939868a8" title="Decode the ECU_TelemetryFast packet." alt="" coords="13,198,249,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="392,397,369,360,339,316,301,273,256,238,229,226,231,221,259,234,304,270,343,313,374,357,396,395"/>
+<area shape="rect" id="Node000006" href="$ECUPackets_8c.html#a0404eddbc639512f8813654a8e86c3bd" title="Decode the ECU_TelemetryFast packet." alt="" coords="13,248,249,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,400,326,350,292,324,256,302,228,290,230,286,259,298,295,320,329,346,384,396"/>
+<area shape="rect" id="Node000007" href="$ECUPackets_8c.html#a8d39e3421fffce32ccc4661c39603824" title="Decode the ECU_TelemetrySlow0 packet." alt="" coords="28,312,235,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="353,405,256,367,217,355,218,349,258,361,355,400"/>
+<area shape="rect" id="Node000008" href="$ECUPackets_8c.html#ad5cafd5d90dc935d920faa6d34b3570a" title="Decode the ECU_TelemetrySlow1 packet." alt="" coords="28,376,235,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="291,417,235,410,235,405,292,412"/>
+<area shape="rect" id="Node000009" href="$ECUPackets_8c.html#a7182f91357cb8db102b74e0f360147aa" title="Decode the ECU_TelemetrySlow2 packet." alt="" coords="28,440,235,480"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="292,444,235,451,235,446,291,439"/>
+<area shape="rect" id="Node000010" href="$ECUPackets_8c.html#af11a7960990043888cf9c9e740b29890" title="Decode the ECU_ThrottleCurve1 packet." alt="" coords="31,504,231,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="355,456,258,495,218,507,217,501,256,489,353,451"/>
+<area shape="rect" id="Node000011" href="$ECUPackets_8c.html#ac89f6dc48eea3b2e59349abe38b84d7e" title="Decode the ECU_ThrottleCurve packet." alt="" coords="14,569,249,594"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="385,460,330,511,295,537,258,558,224,571,222,566,256,554,293,533,326,507,381,456"/>
+<area shape="rect" id="Node000012" href="$ESCPackets_8c.html#a849ad1c3982348aff9821cc1b16aef51" title="Decode the ESC_ProtectionValues packet." alt="" coords="26,619,237,659"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="393,462,339,535,302,574,259,608,232,621,230,616,256,603,298,570,335,532,389,458"/>
+<area shape="rect" id="Node000013" href="$ESCPackets_8c.html#af93961a4340b60da9c47c3b179581d53" title="Decode the ESC_ProtectionValues packet." alt="" coords="26,683,237,723"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="401,462,381,509,351,566,310,624,286,650,259,673,238,685,236,680,256,668,282,646,306,621,346,564,376,507,396,460"/>
+<area shape="rect" id="Node000014" href="$ESCPackets_8c.html#a44f3e942c747cb122ed7e0dbc09e1b70" title="Decode the ESC_StatusC packet." alt="" coords="35,747,228,773"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="406,462,390,522,362,597,342,636,319,673,291,707,259,737,230,752,227,748,256,732,287,704,314,670,338,633,357,595,385,520,401,461"/>
+<area shape="rect" id="Node000015" href="$ESCPackets_8c.html#a48ecbbc90a5af4f25518492a0fb29d40" title="Decode the ESC_StatusC packet." alt="" coords="5,797,257,822"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="409,462,395,531,369,619,349,665,325,710,295,751,259,786,238,799,236,794,256,782,291,747,320,707,345,663,364,617,390,530,403,461"/>
+</map>

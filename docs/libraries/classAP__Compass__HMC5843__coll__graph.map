@@ -1,0 +1,35 @@
+<map id="AP_Compass_HMC5843" name="AP_Compass_HMC5843">
+<area shape="rect" id="Node000001" title=" " alt="" coords="992,36,1168,62"/>
+<area shape="rect" id="Node000002" href="$classAP__Compass__Backend.html" title=" " alt="" coords="594,188,762,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="755,182,782,173,805,160,937,102,1044,59,1046,64,939,107,808,165,784,178,757,187"/>
+<area shape="rect" id="Node000003" href="$classCompass.html" title=" " alt="" coords="1039,302,1121,327"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="767,213,969,250,1020,274,1061,299,1059,304,1018,279,967,255,766,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1024,309,890,287,805,270,796,259,792,248,789,238,781,228,758,216,761,211,784,224,793,235,797,246,800,256,808,265,891,282,1025,304"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="1050,287,1059,278,1080,275,1097,277,1108,283,1111,293,1105,303,1101,300,1105,292,1104,287,1095,282,1080,280,1062,283,1054,291"/>
+<area shape="rect" id="Node000011" href="$classCompass__PerMotor.html" title=" " alt="" coords="1295,336,1443,362"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="1117,331,1153,347,1192,360,1251,364,1308,359,1308,364,1251,369,1192,365,1151,352,1114,336"/>
+<area shape="rect" id="Node000012" href="$classCompassLearn.html" title=" " alt="" coords="1309,267,1428,292"/>
+<area shape="poly" id="edge18_Node000012_Node000003" title=" " alt="" coords="1121,294,1155,282,1192,273,1252,268,1309,270,1309,275,1252,273,1192,278,1157,287,1123,299"/>
+<area shape="rect" id="Node000004" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="599,139,757,164"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="771,153,869,169,921,184,969,205,1002,227,1031,253,1071,299,1067,303,1027,256,999,231,967,210,919,189,868,175,770,159"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="644,125,654,116,678,112,698,114,710,121,713,130,707,140,703,137,708,130,706,124,697,120,678,118,656,121,647,129"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="771,136,867,130,918,132,968,138,1060,152,1134,166,1167,178,1200,194,1235,218,1273,250,1282,263,1286,277,1289,290,1297,303,1317,320,1339,334,1336,338,1314,325,1293,307,1284,292,1281,278,1278,266,1269,253,1232,222,1198,199,1165,183,1132,172,1060,158,968,143,918,137,867,136,771,141"/>
+<area shape="rect" id="Node000005" href="$classRestrictIDTypeArray.html" title=" " alt="" coords="575,238,781,308"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="794,308,807,310,870,317,933,319,1038,315,1038,320,933,324,870,322,806,315,793,313"/>
+<area shape="rect" id="Node000006" href="$structCompass_1_1mag__state.html" title=" " alt="" coords="268,260,427,286"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="441,270,574,270,574,276,441,276"/>
+<area shape="rect" id="Node000007" href="$classVector3.html" title=" " alt="" coords="5,260,136,286"/>
+<area shape="poly" id="edge20_Node000001_Node000007" title=" " alt="" coords="100,250,177,199,291,133,357,99,427,68,500,41,573,21,634,10,698,5,823,6,935,18,1023,34,1022,39,935,24,822,12,698,10,635,15,574,26,501,47,429,73,359,104,294,138,180,203,103,254"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="150,270,268,270,268,276,150,276"/>
+<area shape="poly" id="edge16_Node000011_Node000007" title=" " alt="" coords="82,298,112,377,136,426,166,476,201,522,243,560,267,575,292,586,318,593,346,596,1081,596,1108,593,1133,588,1181,566,1225,535,1264,497,1297,457,1324,419,1359,360,1363,363,1329,421,1301,460,1268,501,1228,539,1184,571,1135,593,1109,599,1081,601,346,601,317,598,290,591,264,579,240,564,198,525,161,479,131,428,107,379,77,299"/>
+<area shape="rect" id="Node000008" href="$classRestrictIDTypeArray.html" title=" " alt="" coords="581,332,775,387"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="789,354,876,349,968,338,1038,323,1039,328,968,343,877,354,789,360"/>
+<area shape="rect" id="Node000009" href="$classRestrictIDTypeArray.html" title=" " alt="" coords="573,411,783,466"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="796,418,881,400,967,373,1017,349,1058,325,1061,329,1020,354,969,378,882,405,797,423"/>
+<area shape="rect" id="Node000010" href="$classRestrictIDTypeArray.html" title=" " alt="" coords="583,490,773,544"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="787,499,878,475,924,457,967,435,1000,409,1029,379,1069,326,1073,329,1033,382,1004,413,969,439,926,462,879,480,788,504"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="1281,347,1192,338,1121,326,1122,320,1192,333,1281,342"/>
+<area shape="poly" id="edge17_Node000003_Node000012" title=" " alt="" coords="1296,291,1122,312,1121,307,1295,286"/>
+<area shape="rect" id="Node000013" href="$classAP__HMC5843__BusDriver.html" title=" " alt="" coords="588,36,768,62"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="782,46,992,46,992,52,782,52"/>
+</map>

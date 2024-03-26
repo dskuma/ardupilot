@@ -1,0 +1,156 @@
+<map id="Rover::init_ardupilot" name="Rover::init_ardupilot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1164,160,1189"/>
+<area shape="rect" id="Node000002" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Baro.html#abd4110392c9cc5e59b143dd4cb2b5800" title=" " alt="" coords="249,205,390,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,1164,81,997,85,865,93,718,108,569,130,431,145,370,162,317,183,273,206,240,219,229,234,222,237,227,222,234,210,244,187,276,167,319,150,372,136,432,113,570,99,718,90,865,87,997,86,1164"/>
+<area shape="rect" id="Node000003" href="/home/dk/projects/ardupilot/docs/tags/libraries$namespaceAP.html#ab9d0bcbec954b6c20abd8e13e6de7356" title=" " alt="" coords="267,255,372,280"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,1164,83,1005,88,880,97,742,112,601,134,471,148,414,165,364,184,322,206,291,227,275,252,267,254,272,230,280,210,295,189,325,170,366,153,415,139,472,117,602,102,742,93,880,88,1005,87,1164"/>
+<area shape="rect" id="Node000004" href="/home/dk/projects/ardupilot/docs/tags/libraries$classRC__Channels.html#a83bbee9d0629f8fa77dd0b0a55ee6d9b" title=" " alt="" coords="237,305,401,345"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,1164,86,1015,102,772,117,642,139,522,168,423,186,384,206,355,223,340,227,345,210,358,191,387,173,425,144,524,123,643,107,772,91,1015,87,1164"/>
+<area shape="rect" id="Node000005" href="$system_8cpp.html#a5cdbc5ba8476b829035116817e0fb551" title=" " alt="" coords="240,369,399,395"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,1164,87,1025,105,799,121,679,142,568,170,475,187,440,206,412,226,396,230,400,210,416,192,442,175,477,148,569,126,680,111,800,93,1025,87,1164"/>
+<area shape="rect" id="Node000006" href="$classRover.html#ad7127577a375b6bf7f3ae89c352e03ee" title=" " alt="" coords="774,580,865,605"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="82,1163,89,1046,108,860,124,764,145,675,172,604,188,577,206,557,224,546,245,538,297,528,359,526,426,529,558,543,660,557,761,577,760,582,660,562,558,549,425,534,359,531,298,534,246,543,226,551,210,561,193,580,177,606,150,677,129,765,113,861,94,1046,87,1164"/>
+<area shape="rect" id="Node000007" href="$classRover.html#ab635bb6cfecc34808132abc41edee172" title=" " alt="" coords="234,671,405,696"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="83,1164,96,1073,121,934,138,862,158,796,181,742,206,705,220,695,223,699,210,709,185,745,163,798,144,864,127,936,101,1074,88,1164"/>
+<area shape="rect" id="Node000008" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__BattMonitor.html#ac1a8593b0b20f9316f22084947bae7fe" title=" " alt="" coords="243,720,395,745"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="81,1164,82,1092,87,1040,96,981,111,920,133,860,165,804,206,755,228,740,231,745,210,759,169,807,138,862,116,922,101,983,92,1040,87,1092,86,1164"/>
+<area shape="rect" id="Node000009" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Camera.html#a080ca468329df1287383376e4ad36409" title=" " alt="" coords="256,769,383,795"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="81,1164,85,1099,102,1002,117,948,139,896,168,846,206,804,223,793,241,785,243,790,225,797,210,808,173,850,144,898,122,950,107,1003,91,1100,87,1164"/>
+<area shape="rect" id="Node000010" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__OAPathPlanner.html#a2d0d97f5da85b5857d55486dfabe9f55" title=" " alt="" coords="234,819,405,844"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="82,1163,89,1107,108,1023,124,977,145,931,172,889,206,853,220,844,223,848,210,857,176,893,150,934,129,979,113,1024,94,1108,87,1164"/>
+<area shape="rect" id="Node000011" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__OSD.html#a09e7d40118a2fe4de6ecbbb168ebd8b7" title=" " alt="" coords="268,868,371,893"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="83,1163,93,1114,114,1043,130,1005,151,967,176,932,206,903,229,889,254,882,255,887,231,894,210,907,180,936,155,970,135,1007,119,1045,98,1116,88,1164"/>
+<area shape="rect" id="Node000012" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Relay.html#aa13db0b0f4e316fe33459b659a642d9f" title=" " alt="" coords="264,917,375,943"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="85,1163,97,1121,121,1064,157,1003,180,976,206,952,227,940,250,933,251,938,229,945,210,956,184,979,161,1006,126,1066,102,1123,90,1164"/>
+<area shape="rect" id="Node000013" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__RSSI.html#aff812b5ec77566214ad7cb69a2eef47c" title=" " alt="" coords="267,967,371,992"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="87,1163,102,1130,128,1085,163,1040,207,1001,229,990,253,983,254,988,231,995,209,1006,167,1043,132,1088,107,1132,92,1165"/>
+<area shape="rect" id="Node000014" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__SmartRTL.html#a15b1b58eee885789ec3b88def4363995" title=" " alt="" coords="251,1016,388,1041"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="91,1162,136,1107,169,1076,207,1050,237,1038,239,1043,209,1055,172,1081,140,1111,95,1165"/>
+<area shape="rect" id="Node000015" href="/home/dk/projects/ardupilot/docs/tags/libraries$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="264,1065,375,1091"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="100,1162,147,1130,207,1100,250,1087,251,1092,209,1104,149,1135,103,1166"/>
+<area shape="rect" id="Node000016" href="$classSailboat.html#aec2f2f57d2bc0b754f6d962ae844a2d0" title=" " alt="" coords="267,621,371,647"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="83,1163,94,1064,118,911,135,831,155,757,179,697,192,674,206,656,228,641,253,633,255,638,230,646,210,660,196,677,184,699,160,759,140,832,124,912,100,1064,88,1164"/>
+<area shape="rect" id="Node000024" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__GPS.html#a2ce34a6bc4566e0ada53f4b6c94d4b85" title=" " alt="" coords="269,1115,370,1140"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="144,1161,255,1138,256,1143,145,1167"/>
+<area shape="rect" id="Node000025" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__WindVane.html#a522beeb34b8b941ba38466c8523284c2" title=" " alt="" coords="249,1164,389,1189"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="161,1174,235,1174,235,1179,161,1179"/>
+<area shape="rect" id="Node000026" href="/home/dk/projects/ardupilot/docs/tags/libraries$classRangeFinder.html#ad3e3b3a548b8da70aedd97c4be3a5b6d" title=" " alt="" coords="253,1213,385,1239"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="145,1187,245,1208,244,1213,144,1192"/>
+<area shape="rect" id="Node000027" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__MotorsUGV.html#a1c5e16c084e3a1b2255bdfea8a7efb71" title=" " alt="" coords="245,1263,393,1288"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="103,1187,149,1218,209,1249,233,1257,231,1262,207,1254,147,1223,100,1192"/>
+<area shape="rect" id="Node000028" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="267,1312,372,1337"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="95,1188,140,1242,172,1273,209,1298,254,1314,252,1319,207,1303,169,1277,136,1246,91,1191"/>
+<area shape="rect" id="Node000029" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Notify.html#a8001b8b2379b420c6fb6943338871a1a" title=" " alt="" coords="263,1361,376,1387"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="92,1188,107,1221,132,1265,167,1310,210,1348,229,1358,250,1365,248,1370,227,1363,206,1352,163,1314,128,1268,102,1224,87,1191"/>
+<area shape="rect" id="Node000030" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#aa0f76ea73dd609ea63e05cba31daf9e2" title=" " alt="" coords="235,1411,403,1436"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="90,1189,102,1230,126,1287,161,1347,184,1374,210,1397,224,1406,221,1411,206,1401,180,1378,157,1350,121,1289,97,1232,85,1191"/>
+<area shape="rect" id="Node000031" href="/home/dk/projects/ardupilot/docs/tags/libraries$classRC__Channels.html#a41ac050f115225f84b06b97fb79ee56f" title=" " alt="" coords="251,1460,387,1485"/>
+<area shape="poly" id="edge31_Node000001_Node000031" title=" " alt="" coords="88,1189,98,1238,119,1308,135,1346,155,1383,180,1417,210,1447,239,1462,237,1467,206,1451,176,1421,151,1386,130,1348,114,1310,93,1239,83,1190"/>
+<area shape="rect" id="Node000032" href="$classRover.html#a59a1ee5c4dc98e03ef6ddc7675989fb6" title=" " alt="" coords="243,1509,395,1535"/>
+<area shape="poly" id="edge32_Node000001_Node000032" title=" " alt="" coords="87,1189,94,1246,113,1329,129,1375,150,1419,176,1461,210,1496,231,1509,229,1514,206,1500,172,1464,145,1422,124,1377,108,1331,89,1247,82,1190"/>
+<area shape="rect" id="Node000033" href="$classRover.html#a080c9544f17fc7c500559277e4032892" title=" " alt="" coords="256,1559,383,1584"/>
+<area shape="poly" id="edge33_Node000001_Node000033" title=" " alt="" coords="87,1189,91,1254,107,1350,122,1403,144,1455,173,1504,210,1545,225,1556,243,1563,241,1568,223,1561,206,1549,168,1507,139,1458,117,1405,102,1351,85,1254,81,1190"/>
+<area shape="rect" id="Node000035" href="$classRover.html#a8ee2710f7bf2e72a1c3d033424463a85" title=" " alt="" coords="262,1608,377,1633"/>
+<area shape="poly" id="edge35_Node000001_Node000035" title=" " alt="" coords="86,1190,87,1261,92,1313,101,1371,116,1431,138,1491,169,1547,210,1595,228,1607,250,1615,248,1620,226,1612,206,1599,165,1550,133,1493,111,1433,96,1372,87,1314,82,1261,81,1190"/>
+<area shape="rect" id="Node000036" href="$classRover.html#a676dca5efc5a8587f0dd0fdfe77a117c" title=" " alt="" coords="208,1657,431,1683"/>
+<area shape="poly" id="edge36_Node000001_Node000036" title=" " alt="" coords="88,1189,101,1280,127,1418,144,1490,163,1555,185,1609,210,1644,214,1648,210,1652,206,1648,181,1611,158,1557,138,1491,121,1419,96,1281,83,1190"/>
+<area shape="rect" id="Node000037" href="$classRover.html#af39c095722ccd8c5dd3ccb187852f02d" title=" " alt="" coords="745,68,894,93"/>
+<area shape="poly" id="edge37_Node000001_Node000037" title=" " alt="" coords="82,1164,89,1033,108,824,124,713,145,610,172,525,188,492,206,467,232,444,259,431,285,426,312,426,368,424,398,418,429,404,478,370,515,337,544,302,569,268,622,197,659,160,707,124,762,96,765,101,709,128,662,164,627,200,574,271,548,306,519,340,482,375,432,408,399,423,369,430,312,431,286,432,260,437,235,448,210,470,193,495,177,527,151,611,129,714,113,824,94,1034,87,1164"/>
+<area shape="rect" id="Node000042" href="$classRover.html#a75850314ec24e947bc4d75347adc214f" title=" " alt="" coords="279,1707,359,1732"/>
+<area shape="poly" id="edge42_Node000001_Node000042" title=" " alt="" coords="88,1189,100,1289,124,1442,140,1521,160,1594,184,1654,196,1677,210,1693,236,1709,266,1717,265,1722,234,1714,206,1697,192,1680,179,1656,155,1596,135,1523,118,1443,94,1290,83,1190"/>
+<area shape="rect" id="Node000043" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__HAL_1_1Scheduler.html#a56bfe79e867b3cd5c31aac56c2701b26" title=" " alt="" coords="234,1757,405,1797"/>
+<area shape="poly" id="edge43_Node000001_Node000043" title=" " alt="" coords="88,1189,98,1296,122,1463,138,1551,159,1632,183,1698,196,1724,210,1743,224,1754,220,1758,206,1747,191,1727,178,1701,154,1633,133,1552,116,1464,93,1297,82,1190"/>
+<area shape="rect" id="Node000044" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Baro.html#ada28e48e1266344094a5b671931936a8" title=" " alt="" coords="224,1821,415,1847"/>
+<area shape="poly" id="edge44_Node000001_Node000044" title=" " alt="" coords="87,1190,96,1308,117,1495,133,1593,154,1683,179,1758,194,1786,210,1807,215,1812,212,1816,206,1810,190,1789,175,1760,149,1685,128,1594,112,1496,91,1308,82,1190"/>
+<area shape="rect" id="Node000045" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Airspeed.html#adb993637a352f21741ad33ba0ac40f37" title=" " alt="" coords="228,1871,411,1896"/>
+<area shape="poly" id="edge45_Node000001_Node000045" title=" " alt="" coords="87,1190,94,1316,114,1519,130,1625,151,1724,177,1804,193,1835,210,1858,218,1864,214,1868,206,1861,188,1838,172,1806,145,1725,124,1626,108,1519,89,1317,82,1190"/>
+<area shape="rect" id="Node000046" href="/home/dk/projects/ardupilot/docs/tags/libraries$classCompass.html#a50541d2f7a3a3db165abeff1c3678233" title=" " alt="" coords="239,1920,400,1945"/>
+<area shape="poly" id="edge46_Node000001_Node000046" title=" " alt="" coords="87,1189,93,1324,111,1541,126,1656,148,1762,175,1849,192,1882,210,1907,228,1920,225,1924,206,1911,187,1885,170,1851,142,1763,121,1657,105,1542,87,1324,82,1190"/>
+<area shape="rect" id="Node000047" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__GPS.html#a08c1c92dfb1d66b6f03babe57d5ebd05" title=" " alt="" coords="229,1969,410,1995"/>
+<area shape="poly" id="edge47_Node000001_Node000047" title=" " alt="" coords="87,1190,91,1332,108,1565,123,1688,145,1801,173,1894,191,1930,210,1956,218,1963,214,1967,206,1960,186,1932,169,1896,140,1802,118,1688,102,1565,86,1333,81,1190"/>
+<area shape="rect" id="Node000048" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a15a6869a883784e87bc13a339aca0231" title=" " alt="" coords="247,2019,391,2059"/>
+<area shape="poly" id="edge48_Node000001_Node000048" title=" " alt="" coords="87,1190,91,1340,107,1586,122,1717,144,1838,173,1938,190,1977,210,2005,236,2024,233,2028,206,2009,186,1979,168,1940,139,1839,117,1718,101,1587,85,1340,81,1190"/>
+<area shape="rect" id="Node000049" href="/home/dk/projects/ardupilot/docs/tags/libraries$classRangeFinder.html#ab8faf34fc4b834143c65371a98e7695e" title=" " alt="" coords="240,2083,399,2123"/>
+<area shape="poly" id="edge49_Node000001_Node000049" title=" " alt="" coords="87,1190,89,1350,94,1475,103,1615,118,1757,140,1888,154,1946,170,1996,189,2038,210,2070,229,2085,226,2089,206,2073,184,2041,165,1998,149,1947,135,1889,113,1757,98,1616,89,1476,84,1350,81,1190"/>
+<area shape="rect" id="Node000050" href="$classRover.html#a3ee7c2318bf74e88e1dde406877055d3" title=" " alt="" coords="503,471,635,496"/>
+<area shape="poly" id="edge50_Node000001_Node000050" title=" " alt="" coords="82,1164,88,1040,107,842,123,738,144,643,171,565,188,535,206,513,239,490,276,473,315,462,355,456,435,456,503,465,503,471,434,462,356,462,316,467,277,478,242,494,210,517,192,538,176,567,149,644,128,739,112,843,93,1040,87,1164"/>
+<area shape="rect" id="Node000066" href="/home/dk/projects/ardupilot/docs/tags/libraries$classGCS.html#a114e9a61009d41f517a06646afe67d18" title=" " alt="" coords="253,2148,386,2173"/>
+<area shape="poly" id="edge71_Node000001_Node000066" title=" " alt="" coords="86,1190,86,1361,90,1496,98,1647,112,1799,135,1940,149,2002,167,2056,187,2100,210,2134,224,2145,240,2153,238,2157,221,2149,206,2137,182,2103,162,2058,144,2003,129,1941,107,1800,93,1647,84,1496,81,1361,81,1190"/>
+<area shape="rect" id="Node000067" href="$classRover.html#a279d4dab20276555d76ab0f28a7c5aee" title=" " alt="" coords="236,572,403,597"/>
+<area shape="poly" id="edge72_Node000001_Node000067" title=" " alt="" coords="82,1164,92,1056,115,888,132,800,152,719,177,652,191,626,206,607,222,595,225,599,210,611,195,629,182,654,157,720,137,801,120,889,98,1057,88,1164"/>
+<area shape="rect" id="Node000017" href="$classSailboat.html#a19241eb0c7f99297a6304b0520488ea8" title=" " alt="" coords="737,907,902,932"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="372,632,404,639,432,656,448,674,455,692,459,728,461,765,468,782,481,800,508,825,533,843,558,855,583,863,639,874,709,891,743,901,741,906,707,897,638,880,582,868,556,860,530,848,504,830,477,804,463,785,456,766,453,729,450,693,443,677,429,660,402,644,371,637"/>
+<area shape="rect" id="Node000018" href="$classSailboat.html#a60823ec37b07759248e33589c4f1b22f" title=" " alt="" coords="495,750,644,790"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="372,634,403,641,432,656,450,676,458,696,465,717,481,736,487,741,484,745,477,740,460,719,453,698,446,678,429,660,401,646,371,639"/>
+<area shape="rect" id="Node000021" href="$classSailboat.html#a6751854388063cd394b228291cbeab7c" title=" " alt="" coords="484,907,655,932"/>
+<area shape="poly" id="edge20_Node000016_Node000021" title=" " alt="" coords="372,631,404,639,432,656,452,682,461,708,463,733,462,759,459,811,466,838,481,866,499,884,522,898,519,903,496,888,477,869,461,840,454,812,456,759,458,733,456,709,448,684,429,660,402,644,371,636"/>
+<area shape="rect" id="Node000019" href="/home/dk/projects/ardupilot/docs/tags/libraries$GCS_8h.html#ab53f292b698f9a6a3f029dfdbd5a43de" title=" " alt="" coords="797,857,841,883"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="603,788,652,816,709,842,748,854,784,862,783,867,746,859,707,847,649,821,600,792"/>
+<area shape="rect" id="Node000020" href="/home/dk/projects/ardupilot/docs/tags/libraries$classGCS.html#a2f099d18721b0874af08fde3f6aae6b6" title=" " alt="" coords="759,679,880,704"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="628,747,659,736,707,714,745,703,746,708,709,719,661,740,630,752"/>
+<area shape="poly" id="edge23_Node000021_Node000017" title=" " alt="" coords="655,917,723,917,723,922,655,922"/>
+<area shape="rect" id="Node000022" href="$classSailboat.html#a8178a563274b28ca658988629a7ff076" title=" " alt="" coords="736,957,903,997"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="626,929,723,952,722,957,625,935"/>
+<area shape="rect" id="Node000023" href="/home/dk/projects/ardupilot/docs/tags/libraries$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="1026,964,1118,989"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="903,974,1013,974,1013,979,903,979"/>
+<area shape="rect" id="Node000034" href="/home/dk/projects/ardupilot/docs/tags/libraries$classRC__Channel.html#ad4e6c8ba69625f57f3e189a8bfbd9e78" title=" " alt="" coords="479,1551,660,1591"/>
+<area shape="poly" id="edge34_Node000033_Node000034" title=" " alt="" coords="383,1569,465,1569,465,1574,383,1574"/>
+<area shape="rect" id="Node000038" href="$classMode.html#aaf3fe35de08bf5fb5922462877b3a6e0" title=" " alt="" coords="979,5,1165,31"/>
+<area shape="poly" id="edge38_Node000037_Node000038" title=" " alt="" coords="871,65,1006,31,1007,37,872,71"/>
+<area shape="rect" id="Node000039" href="$classMode.html#ae2e4b56b5c43544370beeaacd169ffe6" title=" " alt="" coords="992,169,1152,195"/>
+<area shape="poly" id="edge39_Node000037_Node000039" title=" " alt="" coords="845,91,905,122,980,154,1006,163,1004,168,978,159,903,127,842,96"/>
+<area shape="rect" id="Node000040" href="$classMode.html#afe001e103871496be6f7d96906248e77" title=" " alt="" coords="1017,120,1127,145"/>
+<area shape="poly" id="edge40_Node000037_Node000040" title=" " alt="" coords="882,91,1004,116,1002,121,881,96"/>
+<area shape="rect" id="Node000041" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Notify.html#a6933d62a710817a9f6ae4ba03634eae9" title=" " alt="" coords="996,55,1148,95"/>
+<area shape="poly" id="edge41_Node000037_Node000041" title=" " alt="" coords="894,76,982,75,982,80,894,82"/>
+<area shape="poly" id="edge60_Node000050_Node000006" title=" " alt="" coords="621,494,661,513,677,527,686,540,695,553,709,565,734,576,761,584,760,589,733,581,707,570,691,557,681,543,673,530,659,518,618,498"/>
+<area shape="poly" id="edge68_Node000050_Node000020" title=" " alt="" coords="592,494,627,521,662,558,678,588,683,615,690,640,710,664,727,675,746,682,744,687,724,679,706,668,686,642,678,617,673,590,658,561,623,525,589,498"/>
+<area shape="poly" id="edge66_Node000050_Node000037" title=" " alt="" coords="633,468,647,460,658,450,673,428,683,407,691,365,688,323,680,281,672,240,669,197,679,154,690,133,706,111,730,93,733,97,710,115,694,136,684,156,675,198,677,239,685,280,694,322,697,365,688,408,678,431,662,453,650,465,635,473"/>
+<area shape="poly" id="edge64_Node000050_Node000039" title=" " alt="" coords="631,468,646,460,658,450,677,419,684,388,682,357,677,326,673,295,673,264,683,234,706,205,740,181,778,165,819,155,861,150,942,153,1011,164,1010,169,941,158,861,156,820,160,780,170,743,186,710,209,687,237,678,265,678,294,683,325,688,356,689,388,682,421,662,453,649,465,634,473"/>
+<area shape="poly" id="edge65_Node000050_Node000040" title=" " alt="" coords="632,468,646,460,658,450,680,413,687,376,684,339,677,303,670,266,669,230,679,195,690,177,706,160,728,147,758,138,836,127,923,124,1003,126,1003,131,923,129,836,132,759,143,730,152,710,164,695,180,684,197,674,231,675,266,682,302,689,339,692,376,685,415,662,453,649,465,635,473"/>
+<area shape="rect" id="Node000051" href="$classMode.html#a3e5c3a5a842021ff17e70b0a65461af3" title=" " alt="" coords="769,481,869,507"/>
+<area shape="poly" id="edge51_Node000050_Node000051" title=" " alt="" coords="636,483,756,489,755,494,636,489"/>
+<area shape="rect" id="Node000058" href="$classMode.html#acc347b62c670471bde37a38b28d53601" title=" " alt="" coords="774,531,865,556"/>
+<area shape="poly" id="edge58_Node000050_Node000058" title=" " alt="" coords="621,494,709,515,761,528,760,533,707,521,620,499"/>
+<area shape="rect" id="Node000060" href="$classRover.html#aa9f5d109a72d3f5be1c1bf8133d813b5" title=" " alt="" coords="723,432,916,457"/>
+<area shape="poly" id="edge61_Node000050_Node000060" title=" " alt="" coords="635,471,723,457,724,462,636,476"/>
+<area shape="rect" id="Node000062" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAC__Fence.html#a32ddec2d811a21b723c83fca515a2004" title=" " alt="" coords="716,219,923,259"/>
+<area shape="poly" id="edge63_Node000050_Node000062" title=" " alt="" coords="630,468,645,460,658,450,673,427,680,405,681,361,681,315,689,292,706,270,710,266,714,270,710,273,694,295,687,316,686,361,686,406,678,430,662,453,648,465,632,473"/>
+<area shape="rect" id="Node000063" href="/home/dk/projects/ardupilot/docs/tags/libraries$classGCS.html#a49e7272eb586b48b04d970d13ef3d95f" title=" " alt="" coords="742,284,897,309"/>
+<area shape="poly" id="edge67_Node000050_Node000063" title=" " alt="" coords="628,468,658,449,670,434,677,418,680,385,684,351,692,335,706,319,727,305,730,310,710,323,697,338,690,353,686,385,682,419,675,436,662,453,631,473"/>
+<area shape="rect" id="Node000064" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Camera.html#af06fd226c451a1a96a10c5194dfcc2b6" title=" " alt="" coords="708,333,931,359"/>
+<area shape="poly" id="edge69_Node000050_Node000064" title=" " alt="" coords="624,468,658,449,674,430,681,409,688,388,706,368,714,363,717,367,710,372,693,391,686,411,679,432,662,453,626,473"/>
+<area shape="rect" id="Node000065" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Logger.html#a275ff0287cd6da901177b84fed9abf0d" title=" " alt="" coords="731,383,907,408"/>
+<area shape="poly" id="edge70_Node000050_Node000065" title=" " alt="" coords="612,468,659,449,682,433,707,417,728,409,730,414,709,422,685,437,661,454,614,473"/>
+<area shape="rect" id="Node000052" href="$classMode.html#a6594030a202f6ec5918b427b8a5717e4" title=" " alt="" coords="1019,531,1125,556"/>
+<area shape="poly" id="edge52_Node000051_Node000052" title=" " alt="" coords="870,501,1006,528,1005,533,869,506"/>
+<area shape="rect" id="Node000053" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="991,581,1153,621"/>
+<area shape="poly" id="edge53_Node000051_Node000053" title=" " alt="" coords="870,496,901,503,932,516,948,528,957,540,966,553,980,565,993,573,990,577,977,570,962,557,953,544,944,532,929,520,900,508,869,501"/>
+<area shape="rect" id="Node000054" href="$classMode.html#ae5a240ec7efe2623eb88c68beda58a99" title=" " alt="" coords="983,383,1161,408"/>
+<area shape="poly" id="edge54_Node000051_Node000054" title=" " alt="" coords="869,486,900,479,929,466,944,455,953,443,962,430,977,417,990,411,993,415,980,422,966,433,957,446,948,459,932,471,901,484,870,491"/>
+<area shape="rect" id="Node000055" href="$classMode.html#a877262e51b58f132cb52c5977bf13c51" title=" " alt="" coords="983,432,1161,457"/>
+<area shape="poly" id="edge55_Node000051_Node000055" title=" " alt="" coords="869,482,992,457,994,463,870,487"/>
+<area shape="rect" id="Node000056" href="$classMode.html#a1733ae28c2e308db5fca2dd79f477ddb" title=" " alt="" coords="997,481,1147,507"/>
+<area shape="poly" id="edge56_Node000051_Node000056" title=" " alt="" coords="869,491,983,491,983,497,869,497"/>
+<area shape="rect" id="Node000057" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAR__WPNav.html#a6f090d47863c1715392b91197397e1e8" title=" " alt="" coords="1213,481,1399,507"/>
+<area shape="poly" id="edge57_Node000056_Node000057" title=" " alt="" coords="1148,491,1200,491,1200,497,1148,497"/>
+<area shape="rect" id="Node000059" href="$classMode.html#a469e59fc883ef9744f57377209a4036c" title=" " alt="" coords="1023,645,1121,671"/>
+<area shape="poly" id="edge59_Node000058_Node000059" title=" " alt="" coords="865,543,899,550,932,565,949,581,957,599,965,615,980,630,1011,645,1008,650,977,635,961,618,952,601,945,585,929,570,898,555,864,548"/>
+<area shape="rect" id="Node000061" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Vehicle.html#ac4205679aadfedfb9a7b0faa15c10188" title=" " alt="" coords="987,318,1157,358"/>
+<area shape="poly" id="edge62_Node000060_Node000061" title=" " alt="" coords="900,429,929,417,944,406,953,394,962,381,977,368,988,362,990,366,980,372,966,384,957,397,948,409,932,422,902,434"/>
+<area shape="poly" id="edge74_Node000067_Node000050" title=" " alt="" coords="351,569,523,499,525,504,353,574"/>
+<area shape="rect" id="Node000068" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Mission.html#aca08705d731469bf69daa788d93af56b" title=" " alt="" coords="507,572,632,597"/>
+<area shape="poly" id="edge73_Node000067_Node000068" title=" " alt="" coords="403,582,493,582,493,587,403,587"/>
+<area shape="rect" id="Node000069" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Logger.html#ac2908b5ed78f3eb21b72a98e6612152e" title=" " alt="" coords="487,686,652,726"/>
+<area shape="poly" id="edge75_Node000067_Node000069" title=" " alt="" coords="404,593,432,606,449,623,458,639,465,656,480,672,488,677,485,681,477,676,461,659,453,642,445,626,429,611,402,598"/>
+<area shape="rect" id="Node000070" href="$classRover.html#aeabd1fae96b38dd7dc1a948c66686006" title=" " alt="" coords="498,622,641,662"/>
+<area shape="poly" id="edge76_Node000067_Node000070" title=" " alt="" coords="381,595,431,606,485,619,484,624,430,611,380,600"/>
+<area shape="poly" id="edge78_Node000070_Node000006" title=" " alt="" coords="640,625,760,602,761,607,641,631"/>
+<area shape="poly" id="edge81_Node000070_Node000020" title=" " alt="" coords="641,653,746,674,745,679,640,659"/>
+<area shape="rect" id="Node000071" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="743,729,895,769"/>
+<area shape="poly" id="edge77_Node000070_Node000071" title=" " alt="" coords="637,660,661,672,676,683,686,693,695,703,709,713,731,723,729,728,707,718,692,707,682,697,673,687,659,676,635,665"/>
+<area shape="rect" id="Node000072" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__Scheduler.html#a5de68a6345f4b9ce9eb4008ee4a6c161" title=" " alt="" coords="732,793,907,833"/>
+<area shape="poly" id="edge79_Node000070_Node000072" title=" " alt="" coords="642,658,662,672,674,686,681,700,686,727,692,754,698,766,710,779,722,787,719,792,706,783,694,769,687,755,681,728,676,702,669,689,658,676,639,663"/>
+<area shape="rect" id="Node000073" href="/home/dk/projects/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="737,629,902,655"/>
+<area shape="poly" id="edge80_Node000070_Node000073" title=" " alt="" coords="641,639,723,639,723,645,641,645"/>
+</map>

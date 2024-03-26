@@ -1,0 +1,68 @@
+<map id="AP_HAL::AnalogSource::voltage_average" name="AP_HAL::AnalogSource::voltage_average">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2455,248,2624,288"/>
+<area shape="rect" id="Node000002" href="$classAnalogIn__Navio2.html#a9b2982c37915d1c8f0ced3501b681799" title=" " alt="" coords="2212,5,2389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2524,236,2506,196,2480,148,2447,100,2405,59,2386,48,2388,43,2408,55,2451,97,2485,145,2511,193,2529,234"/>
+<area shape="rect" id="Node000003" href="$examples_2AnalogIn_2AnalogIn_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="2275,70,2326,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2518,237,2472,172,2441,138,2405,110,2365,94,2326,87,2327,82,2366,89,2408,106,2445,134,2477,169,2522,234"/>
+<area shape="rect" id="Node000004" href="$classAP__BattMonitor__Analog.html#ad25bd84c3aebc99e11a62a3caf26576b" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="2213,120,2388,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2503,241,2458,207,2405,174,2378,163,2380,158,2408,170,2461,202,2506,237"/>
+<area shape="rect" id="Node000005" href="$classAP__BattMonitor__Synthetic__Current.html#a5f4b25b75ac7fbdc84be5be60876f98e" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="2205,184,2396,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2450,247,2375,227,2376,221,2452,242"/>
+<area shape="rect" id="Node000006" href="$classAP__LeakDetector__Analog.html#aae93200ab71086b8b7678a9cd65e4cc9" title=" " alt="" coords="2208,248,2393,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2441,271,2394,271,2394,265,2441,265"/>
+<area shape="rect" id="Node000007" href="$classAP__RSSI.html#a8730c21d64b6213e0cfd830bed0d0a12" title=" " alt="" coords="2216,313,2385,338"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2443,294,2407,303,2355,315,2354,310,2406,297,2442,289"/>
+<area shape="rect" id="Node000030" href="$classAnalogIn__Navio2.html#a480ccd9fadf59ba5b0b14a153635eb7c" title=" " alt="" coords="2202,363,2399,403"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="2500,298,2457,326,2408,352,2374,365,2372,360,2406,347,2454,321,2497,294"/>
+<area shape="rect" id="Node000031" href="$classAP__WindVane__ModernDevice.html#a6efd9433a2fd4a067187af19b9ed125b" title=" " alt="" coords="2195,427,2407,467"/>
+<area shape="poly" id="edge31_Node000001_Node000031" title=" " alt="" coords="2520,301,2473,360,2442,391,2408,417,2385,429,2383,424,2405,412,2439,387,2469,357,2515,298"/>
+<area shape="rect" id="Node000032" href="$classAP__RangeFinder__analog.html#a79298166e180b5de2cf9f7c9dbcf56ea" title=" " alt="" coords="2211,491,2390,531"/>
+<area shape="poly" id="edge32_Node000001_Node000032" title=" " alt="" coords="2529,302,2511,343,2485,391,2451,439,2408,481,2388,493,2386,488,2405,477,2447,436,2480,388,2506,340,2524,300"/>
+<area shape="rect" id="Node000008" href="$classAP__RSSI.html#aaf433294279d2da28157c6036faee2fa" title=" " alt="" coords="1944,313,2147,338"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="2202,328,2147,328,2147,323,2202,323"/>
+<area shape="rect" id="Node000009" href="$classAP__MSP__Telem__Backend.html#a6ff6b87dffd532ea438701ba76d2b769" title=" " alt="" coords="1713,188,1896,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="2005,309,1846,231,1848,226,2007,304"/>
+<area shape="rect" id="Node000022" href="$classAP__RSSI.html#ad243edc62e00237673d7a9649fa05dd8" title=" " alt="" coords="1719,305,1891,345"/>
+<area shape="poly" id="edge22_Node000008_Node000022" title=" " alt="" coords="1930,328,1891,328,1891,323,1930,323"/>
+<area shape="rect" id="Node000027" href="$classAP__OSD.html#ae0f3a8d857d10b5c0630eca15e653fb9" title=" " alt="" coords="1721,370,1888,395"/>
+<area shape="poly" id="edge27_Node000008_Node000027" title=" " alt="" coords="1978,344,1859,373,1858,367,1977,339"/>
+<area shape="rect" id="Node000010" href="$classAP__MSP__Telem__DJI.html#acc0eb83ea01aa764f1e863fb16b6e7af" title=" " alt="" coords="1461,106,1665,131"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1752,184,1664,147,1622,134,1624,129,1666,141,1754,179"/>
+<area shape="rect" id="Node000011" href="$classAP__MSP__Telem__Backend.html#abeee44f74daeb733a72143855c5413e4" title=" " alt="" coords="1472,156,1655,196"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1699,197,1655,191,1655,185,1700,191"/>
+<area shape="rect" id="Node000016" href="$classAP__MSP__Telem__Backend.html#ad53262effb2cca83263be1f860cc4b3f" title=" " alt="" coords="1466,220,1661,260"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="1700,225,1661,230,1661,224,1699,219"/>
+<area shape="rect" id="Node000012" href="$classAP__MSP__Telem__DJI.html#ade9110ab4affd925a2386e3616caf89e" title=" " alt="" coords="1214,99,1395,139"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1459,156,1395,141,1396,136,1460,150"/>
+<area shape="rect" id="Node000013" href="$classAP__MSP.html#aac6a07b1d018e65ec316652b7d2de3dc" title=" " alt="" coords="341,197,452,222"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1459,179,1056,179,821,179,719,181,617,188,453,205,452,200,617,183,718,176,821,173,1056,173,1459,173"/>
+<area shape="rect" id="Node000014" href="$classAP__MSP.html#a5d0e9a2fb42f362c9fc9fa626e1aef1b" title=" " alt="" coords="191,197,293,222"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="328,212,294,212,294,207,328,207"/>
+<area shape="rect" id="Node000015" href="$classAP__Vehicle.html#ac0f751deebdba5725b2b52862719a15d" title=" " alt="" coords="5,197,143,222"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="177,212,143,212,143,207,177,207"/>
+<area shape="rect" id="Node000017" href="$classAP__MSP__Telem__Backend.html#a121f03edb5161774968ec8afa2cee4fe" title=" " alt="" coords="1197,220,1412,260"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1452,243,1412,243,1412,237,1452,237"/>
+<area shape="rect" id="Node000018" href="$classAP__MSP__Telem__Backend.html#aae04afca8a936c3a19b96934bedbee30" title=" " alt="" coords="961,216,1148,256"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1184,241,1148,240,1148,235,1184,235"/>
+<area shape="rect" id="Node000021" href="$classAP__MSP__Telem__Backend.html#a590b698888ceb16be8bdbbe96a3ab14d" title=" " alt="" coords="963,280,1146,320"/>
+<area shape="poly" id="edge21_Node000017_Node000021" title=" " alt="" coords="1208,266,1139,283,1138,277,1207,261"/>
+<area shape="rect" id="Node000019" href="$classAP__MSP__Telem__Backend.html#ac8cee43a4a52aa7458fec37ec2f368a6" title=" " alt="" coords="731,214,913,269"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="948,241,914,242,914,237,947,236"/>
+<area shape="rect" id="Node000020" href="$classAP__MSP__Telem__Backend.html#a1c5af3ffe2f8da323b049063794d34a9" title=" " alt="" coords="500,217,683,257"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="717,242,683,242,683,236,717,237"/>
+<area shape="poly" id="edge20_Node000020_Node000013" title=" " alt="" coords="486,225,452,220,453,215,487,220"/>
+<area shape="rect" id="Node000023" href="$classAP__LTM__Telem.html#abac7f3c41bf60238063a6d747c58359b" title=" " alt="" coords="1485,305,1642,345"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="1705,328,1642,328,1642,323,1705,323"/>
+<area shape="rect" id="Node000024" href="$classAP__LTM__Telem.html#a1fedb3e18034ffc4996ad178f1784a8e" title=" " alt="" coords="1196,317,1413,342"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="1471,329,1414,330,1413,325,1471,324"/>
+<area shape="rect" id="Node000025" href="$classAP__LTM__Telem.html#a497a8878435646303588caa392066714" title=" " alt="" coords="979,345,1130,370"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="1183,346,1131,352,1130,346,1182,340"/>
+<area shape="rect" id="Node000026" href="$classAP__LTM__Telem.html#a4c3cadc1777b6169879920b6e6753c4f" title=" " alt="" coords="749,345,895,370"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="966,360,896,360,896,355,966,355"/>
+<area shape="rect" id="Node000028" href="$classAP__OSD.html#a508ef8c63d701dbe12cfd8c78e95ec43" title=" " alt="" coords="1486,370,1641,395"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="1708,385,1641,385,1641,380,1708,380"/>
+<area shape="rect" id="Node000029" href="$classAP__OSD.html#a09e7d40118a2fe4de6ecbbb168ebd8b7" title=" " alt="" coords="1253,370,1356,395"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="1472,385,1356,385,1356,380,1472,380"/>
+<area shape="rect" id="Node000033" href="$classAP__RangeFinder__analog.html#abfc8bd429dabb04f5fc400865a6e4d3a" title=" " alt="" coords="1956,491,2135,531"/>
+<area shape="poly" id="edge33_Node000032_Node000033" title=" " alt="" coords="2198,513,2135,513,2135,508,2198,508"/>
+</map>

@@ -662,6 +662,13 @@ struct PACKED log_VER {
     uint8_t build_type;
 };
 
+// struct PACKED log_S3{
+//   LOG_PACKET_HEADER;
+//   uint64_t time_us;
+//   uint16_t degree;
+//   uint16_t distance;
+// };
+
 
 // FMT messages define all message formats other than FMT
 // UNIT messages define units which can be referenced by FMTU messages
@@ -1181,6 +1188,13 @@ struct PACKED log_VER {
 // @Field: ThrOut: Throttle output
 // @Field: FailFlags: bit 0 motor failed, bit 1 motors balanced, should be 2 in normal flight
 
+
+// @LoggerMessage: log_S3
+// @Description: logger for S3 360 
+// @Field: TimeUS: Time since system startup
+// @Field: Degree/AC_ATTITUDE_CONTROL_MAX
+// @FIeld: Distance
+
 // messages for all boards
 #define LOG_COMMON_STRUCTURES \
     { LOG_FORMAT_MSG, sizeof(log_Format), \
@@ -1302,8 +1316,10 @@ LOG_STRUCTURE_FROM_AIS \
     { LOG_VER_MSG, sizeof(log_VER), \
       "VER",   "QBHBBBBIZHB", "TimeUS,BT,BST,Maj,Min,Pat,FWT,GH,FWS,APJ,BU", "s----------", "F----------", false }, \
     { LOG_MOTBATT_MSG, sizeof(log_MotBatt), \
-      "MOTB", "QfffffB",  "TimeUS,LiftMax,BatVolt,ThLimit,ThrAvMx,ThrOut,FailFlags", "s------", "F------" , true }
+      "MOTB", "QfffffB",  "TimeUS,LiftMax,BatVolt,ThLimit,ThrAvMx,ThrOut,FailFlags", "s------", "F------" , true }, \
 
+// {LOG_S3_MSG, sizeof(log_S3), 
+// "LIDR", "Qff", "TimeUS,angle,distance", "sdm","F00",true }
 // message types 0 to 63 reserved for vehicle specific use
 
 // message types for common messages
@@ -1388,6 +1404,7 @@ enum LogMessages : uint8_t {
     LOG_RCOUT2_MSG,
     LOG_RCOUT3_MSG,
     LOG_IDS_FROM_FENCE,
+    //LOG_S3_MSG,
 
     _LOG_LAST_MSG_
 };

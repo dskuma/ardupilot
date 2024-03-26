@@ -1,0 +1,20 @@
+<map id="AP_WindVane_NMEA" name="AP_WindVane_NMEA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,361,262,387"/>
+<area shape="rect" id="Node000002" href="$classAP__WindVane__Backend.html" title=" " alt="" coords="190,95,363,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,131,236,148,210,207,195,268,188,323,186,361,181,361,183,323,190,267,205,205,232,145,246,128"/>
+<area shape="rect" id="Node000003" href="$classAP__WindVane.html" title=" " alt="" coords="400,361,511,387"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="266,135,262,147,247,203,235,249,233,270,236,291,245,313,261,335,283,348,317,358,400,368,400,373,316,363,280,353,258,339,241,315,231,292,228,270,229,248,241,202,257,146,261,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,356,401,339,389,312,385,286,391,239,395,217,396,195,390,172,376,148,359,133,338,123,341,118,362,129,380,145,395,170,401,194,400,217,396,240,391,286,394,310,406,336,421,352"/>
+<area shape="poly" id="edge8_Node000003_Node000003" title=" " alt="" coords="480,352,500,347,518,349,532,358,537,374,530,392,513,401,491,399,468,389,470,384,492,394,512,395,526,388,532,374,528,361,517,354,500,352,482,357"/>
+<area shape="rect" id="Node000004" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="413,95,572,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,135,496,226,490,282,478,338,466,362,461,360,473,336,485,281,491,225,492,135"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="587,100,599,108,590,116,573,119,572,113,588,111,593,108,585,104"/>
+<area shape="rect" id="Node000005" href="$classLowPassFilter.html" title=" " alt="" coords="715,95,884,121"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="783,133,746,176,693,231,629,289,558,340,530,353,502,364,500,359,528,349,555,335,626,285,689,227,742,173,779,130"/>
+<area shape="rect" id="Node000006" href="$classDigitalLPF.html" title=" " alt="" coords="726,5,873,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="802,44,802,95,797,95,797,44"/>
+<area shape="rect" id="Node000007" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="11,95,166,121"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="93,134,109,227,125,283,150,336,170,359,166,363,145,339,120,285,104,228,88,135"/>
+<area shape="rect" id="Node000008" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="91,44,91,95,86,95,86,44"/>
+</map>

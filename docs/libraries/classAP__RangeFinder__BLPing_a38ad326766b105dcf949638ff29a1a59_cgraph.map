@@ -1,0 +1,11 @@
+<map id="AP_RangeFinder_BLPing::get_reading" name="AP_RangeFinder_BLPing::get_reading">
+<area shape="rect" id="Node000001" title="Read serial interface and calculate new distance." alt="" coords="5,47,184,87"/>
+<area shape="rect" id="Node000002" href="$classPingProtocol.html#a9abe3df3aeb4c5706e71f00af3696ea0" title="Get distance from message." alt="" coords="232,5,459,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,47,266,31,267,36,185,52"/>
+<area shape="rect" id="Node000003" href="$classPingProtocol.html#a851b033a919d48054439baa791ed0f07" title="Process a single byte received on serial port return a valid MessageId if there is a message in buffe..." alt="" coords="254,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,65,240,65,240,70,184,70"/>
+<area shape="rect" id="Node000005" href="$classAP__HAL_1_1UARTDriver.html#aad865126c7f40e0a3f66c37a4c708422" title=" " alt="" coords="268,105,423,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,85,255,101,254,106,182,90"/>
+<area shape="rect" id="Node000004" href="$classPingProtocol.html#a693be21eb555665798c4d50e09a7c04a" title="Get the message id available in bufffer." alt="" coords="507,55,724,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="437,65,493,65,493,70,437,70"/>
+</map>

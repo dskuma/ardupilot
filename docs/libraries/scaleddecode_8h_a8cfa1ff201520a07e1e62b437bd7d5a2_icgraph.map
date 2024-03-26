@@ -1,0 +1,35 @@
+<map id="float32ScaledFrom2UnsignedBeBytes" name="float32ScaledFrom2UnsignedBeBytes">
+<area shape="rect" id="Node000001" title="Decode a float from a byte stream by inverse floating point scaling from 2 unsigned bytes in big endi..." alt="" coords="560,389,772,429"/>
+<area shape="rect" id="Node000002" href="$ECUPackets_8c.html#ab4513eba95e2e632578882d9ae5da1e1" title="Decode the ECU_CHTLoopSettings packet." alt="" coords="279,5,494,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,376,643,309,617,223,597,178,573,135,544,94,510,59,493,48,496,43,514,55,549,91,578,132,602,176,622,221,649,307,663,375"/>
+<area shape="rect" id="Node000003" href="$ECUPackets_8c.html#a7d29a22d05ae17470cddc8af58e21fdd" title="Decode the ECU_CHTLoopSettings packet." alt="" coords="279,69,494,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="654,377,637,321,608,252,566,182,540,151,510,123,492,112,495,107,514,119,544,147,570,179,612,250,642,319,659,375"/>
+<area shape="rect" id="Node000004" href="$ECUPackets_8c.html#a00cc722ceaf51e71c354cd4e711d0d25" title="Decode the ECU_Pump2Config packet." alt="" coords="271,133,502,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="649,378,628,334,598,283,558,231,510,187,490,176,492,171,514,183,562,227,602,280,633,332,654,375"/>
+<area shape="rect" id="Node000005" href="$ECUPackets_8c.html#a9faf8792b6cb5fc62ecf480929065b40" title="Decode the ECU_PumpConfig packet." alt="" coords="275,197,498,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="641,380,587,314,551,280,511,252,486,240,488,235,513,247,554,276,591,311,645,377"/>
+<area shape="rect" id="Node000006" href="$ECUPackets_8c.html#a8c747cb002588989590b69bc5154456b" title="Decode the ECU_PumpDebug packet." alt="" coords="275,261,499,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="626,383,573,348,511,316,478,304,480,299,513,311,576,344,629,379"/>
+<area shape="rect" id="Node000007" href="$ECUPackets_8c.html#a3c5f3729188d0c8c4ab0359b9ee0263b" title="Decode the ECU_RPMLoopCalibration packet." alt="" coords="269,325,504,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="564,389,474,368,475,363,565,384"/>
+<area shape="rect" id="Node000008" href="$ECUPackets_8c.html#a8d39e3421fffce32ccc4661c39603824" title="Decode the ECU_TelemetrySlow0 packet." alt="" coords="283,389,490,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="546,412,490,412,490,407,546,407"/>
+<area shape="rect" id="Node000009" href="$ECUPackets_8c.html#ad5cafd5d90dc935d920faa6d34b3570a" title="Decode the ECU_TelemetrySlow1 packet." alt="" coords="283,453,490,493"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="565,435,475,456,474,451,564,430"/>
+<area shape="rect" id="Node000010" href="$ECUPackets_8c.html#a7182f91357cb8db102b74e0f360147aa" title="Decode the ECU_TelemetrySlow2 packet." alt="" coords="283,517,490,557"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="629,440,576,475,513,508,480,520,478,515,511,503,573,470,626,435"/>
+<area shape="rect" id="Node000011" href="$ECUPackets_8c.html#a7a85ffb2a339d5de9a72912ee1e45653" title="Decode the ECU_ThrottleCommand packet." alt="" coords="276,581,497,621"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="645,442,591,508,554,542,513,572,488,584,486,579,511,567,551,538,587,504,641,439"/>
+<area shape="rect" id="Node000012" href="$ESCDefines_8c.html#ae7ed3f39d87057974b99a96ea4609b39" title="Decode a ESC_ControlLoopCommon_t from a byte array." alt="" coords="261,697,512,722"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="658,443,639,495,609,559,568,624,542,654,514,680,476,699,474,694,510,675,539,650,564,621,605,557,634,493,653,441"/>
+<area shape="rect" id="Node000013" href="$ESCPackets_8c.html#a05dde6f3b4a2c01d3fdb8a357e5ff8a6" title="Decode a ESC_RPMControlLoopSettings_t from a byte array." alt="" coords="5,593,213,633"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="656,443,637,489,607,543,566,595,541,618,513,636,490,644,459,649,382,650,296,643,213,633,214,628,296,638,382,644,458,643,488,639,511,631,538,613,562,592,602,540,632,487,651,441"/>
+<area shape="rect" id="Node000014" href="$ESCPackets_8c.html#a7f315b4657a3058c0a8daf5450fd1c1a" title="Decode the ESC_RPMControlLoopSettings packet." alt="" coords="5,785,213,825"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="662,443,647,507,620,587,600,629,576,669,548,705,514,737,480,759,443,777,364,801,286,812,214,815,214,810,285,807,363,795,441,772,477,754,510,733,544,702,572,666,596,626,615,585,642,505,657,442"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="305,696,260,680,236,664,212,648,183,636,185,631,215,643,239,659,263,675,307,691"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="325,728,262,750,214,776,182,788,180,783,212,771,260,746,324,723"/>
+<area shape="rect" id="Node000015" href="$ESCPackets_8c.html#a60d898260dfe80772019339bd1f2b1bd" title="Decode the ESC_VoltageControlLoopSettings packet." alt="" coords="11,657,208,697"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="263,698,208,691,209,686,263,692"/>
+<area shape="rect" id="Node000016" href="$ESCPackets_8c.html#a9ffd94bc8caddeaec5370ca385608695" title="Decode the ESC_VoltageControlLoopSettings packet." alt="" coords="6,721,213,761"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="263,726,213,732,212,727,263,721"/>
+</map>

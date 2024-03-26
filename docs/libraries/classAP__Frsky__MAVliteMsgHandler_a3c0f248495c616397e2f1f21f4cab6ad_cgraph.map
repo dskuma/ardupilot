@@ -1,0 +1,51 @@
+<map id="AP_Frsky_MAVliteMsgHandler::handle_command_preflight_reboot" name="AP_Frsky_MAVliteMsgHandler::handle_command_preflight_reboot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,252,261,292"/>
+<area shape="rect" id="Node000002" href="$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="309,122,472,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,250,231,212,308,171,323,164,325,169,311,176,234,216,169,254"/>
+<area shape="rect" id="Node000003" href="$AP__Math_8cpp.html#a74db690fa0d764d7e0900a9c97f629b2" title=" " alt="" coords="353,186,429,212"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,250,339,211,340,216,205,255"/>
+<area shape="rect" id="Node000004" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="357,260,425,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,270,343,270,343,275,262,275"/>
+<area shape="rect" id="Node000005" href="$classAP__Vehicle.html#adfea30d579ab9d05e228d3e91854dd53" title=" " alt="" coords="319,309,462,334"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="239,290,311,304,310,309,238,295"/>
+<area shape="rect" id="Node000023" href="$namespaceAP.html#a930025da7cb316754df99a6e26205e98" title=" " alt="" coords="343,484,438,509"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="159,291,366,472,363,476,156,295"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="354,261,346,251,350,241,366,235,391,233,422,237,434,246,431,250,420,242,391,238,367,240,354,245,351,251,358,258"/>
+<area shape="rect" id="Node000006" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="773,27,925,67"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="454,307,470,294,490,263,496,232,495,200,489,167,484,135,484,104,494,74,518,45,547,26,579,13,613,6,647,3,716,8,776,21,775,26,715,13,647,9,613,11,580,18,550,31,522,49,498,76,489,105,489,135,494,166,500,199,502,232,495,265,474,298,457,311"/>
+<area shape="rect" id="Node000007" href="$classAP__HAL_1_1UARTDriver.html#ad6b8239c111f17b8d3e58f65860dba21" title=" " alt="" coords="537,59,692,99"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="453,307,470,294,486,272,493,250,494,204,494,157,501,133,518,109,524,103,528,107,522,113,506,135,499,158,499,204,499,250,491,274,474,298,456,311"/>
+<area shape="rect" id="Node000008" href="$classAP__Param.html#a148701a80b7a045d03afe890265fcbfd" title=" " alt="" coords="551,124,678,149"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="452,307,470,294,483,278,490,262,493,228,497,194,504,177,518,160,537,147,540,151,522,164,509,179,502,195,498,229,495,263,488,281,474,298,455,311"/>
+<area shape="rect" id="Node000010" href="$classAP__HAL_1_1RCOutput.html#a6852e3aa22747f045dc71972e97d7de6" title=" " alt="" coords="523,174,706,214"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="448,306,470,294,486,277,494,260,502,242,518,224,526,218,529,223,522,228,506,245,499,262,490,280,474,298,450,311"/>
+<area shape="rect" id="Node000011" href="$classAP__HAL_1_1Scheduler.html#a9fc1cebafebb6588842f4f0e18c7a996" title=" " alt="" coords="539,238,691,278"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="436,306,530,279,532,284,437,311"/>
+<area shape="rect" id="Node000012" href="$classAP__HAL_1_1Scheduler.html#a5cb50b637d5fd3e5f9220bc23db0fb3f" title=" " alt="" coords="527,302,703,342"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="462,319,513,319,513,324,462,324"/>
+<area shape="rect" id="Node000013" href="$classAP__HAL_1_1HAL.html#aa8bb0f38f4f9f9117f77cb356c68f04f" title=" " alt="" coords="539,366,690,392"/>
+<area shape="poly" id="edge14_Node000005_Node000013" title=" " alt="" coords="442,332,552,360,551,365,440,337"/>
+<area shape="rect" id="Node000014" href="$classAP__Vehicle.html#acb9e5dd9ffb778b87dfa3441103a4923" title=" " alt="" coords="537,416,692,470"/>
+<area shape="poly" id="edge15_Node000005_Node000014" title=" " alt="" coords="412,332,460,365,521,401,535,407,532,412,519,405,457,369,409,337"/>
+<area shape="rect" id="Node000015" href="$classAP__Notify.html#af0f7003f65d99efcffa33d7060c56ac9" title="update &#45; allow updates of leds that cannot be updated during a timed interrupt" alt="" coords="546,494,683,520"/>
+<area shape="poly" id="edge16_Node000005_Node000015" title=" " alt="" coords="401,333,445,403,480,444,522,479,535,487,532,491,518,484,476,448,441,406,396,336"/>
+<area shape="rect" id="Node000017" href="$classSRV__Channels.html#a5976965c2465650e93edae38fba70c34" title=" " alt="" coords="539,544,690,584"/>
+<area shape="poly" id="edge18_Node000005_Node000017" title=" " alt="" coords="401,333,456,436,491,492,522,529,530,535,527,539,518,533,487,495,451,439,396,336"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="669,121,708,108,796,70,798,75,710,113,670,126"/>
+<area shape="rect" id="Node000009" href="$classAP__HAL_1_1Scheduler.html#a11ba6b24b490a55c24e9b1096d9f2790" title=" " alt="" coords="773,116,925,156"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="679,134,759,134,759,139,679,139"/>
+<area shape="rect" id="Node000016" href="$classNotifyDevice.html#aff1aa508c273feabcf70db8f970c93b7" title=" " alt="" coords="769,473,928,498"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="683,498,755,491,756,497,684,503"/>
+<area shape="rect" id="Node000018" href="$classSRV__Channels.html#a6bdc435846b87498670af6018e094f64" title=" " alt="" coords="773,522,924,548"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="690,552,759,543,760,549,691,557"/>
+<area shape="rect" id="Node000020" href="$classSRV__Channels.html#a3d06352d58d90ae7934ef500505b937f" title=" " alt="" coords="771,572,926,597"/>
+<area shape="poly" id="edge21_Node000017_Node000020" title=" " alt="" coords="691,568,758,574,757,579,690,573"/>
+<area shape="rect" id="Node000022" href="$classAP__HAL_1_1RCOutput.html#ade771f122696035c1e831ccc63a33893" title=" " alt="" coords="757,621,940,646"/>
+<area shape="poly" id="edge23_Node000017_Node000022" title=" " alt="" coords="677,582,758,607,785,615,784,620,757,612,676,587"/>
+<area shape="rect" id="Node000019" href="$classAP__HAL_1_1RCOutput.html#a9683d68d15b6e722c44e098bbb12e60a" title=" " alt="" coords="989,522,1168,548"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="924,532,976,532,976,538,924,538"/>
+<area shape="rect" id="Node000021" href="$classAP__HAL_1_1RCOutput.html#a3b81b9e1e60a7dfcfacb2430e7705b8e" title=" " alt="" coords="988,572,1169,597"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="926,582,974,582,974,587,926,587"/>
+<area shape="rect" id="Node000024" href="$classAP__Vehicle.html#ae543e9dbe7fc6f8a9277d8d97b148f53" title=" " alt="" coords="520,609,709,634"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="406,507,454,550,487,573,521,594,540,602,538,607,519,599,484,578,451,554,403,511"/>
+</map>

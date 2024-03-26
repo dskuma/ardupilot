@@ -1,0 +1,35 @@
+<map id="float32ScaledTo2UnsignedBeBytes" name="float32ScaledTo2UnsignedBeBytes">
+<area shape="rect" id="Node000001" title="Encode a float on a byte stream by floating point scaling to fit in 2 unsigned bytes in big endian or..." alt="" coords="560,389,753,429"/>
+<area shape="rect" id="Node000002" href="$ECUPackets_8c.html#ad3495327339797913e67cfe3b7d5aab6" title="Create the ECU_CHTLoopSettings packet." alt="" coords="279,5,494,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,376,637,309,612,223,594,178,571,135,544,94,510,59,493,47,496,43,514,55,548,91,576,132,599,176,617,221,642,308,654,375"/>
+<area shape="rect" id="Node000003" href="$ECUPackets_8c.html#abd2aa9c6170489889b10ec3919276df5" title="Create the ECU_CHTLoopSettings packet." alt="" coords="279,69,494,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="646,376,630,321,603,252,564,182,539,151,510,123,492,112,495,107,514,119,543,147,568,179,608,250,635,319,651,375"/>
+<area shape="rect" id="Node000004" href="$ECUPackets_8c.html#ab04c12461d55ca290b52ca2adc631e1e" title="Create the ECU_Pump2Config packet." alt="" coords="271,133,502,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="641,378,622,334,594,282,557,231,535,208,510,188,490,176,493,171,514,183,538,204,561,227,598,280,627,332,646,376"/>
+<area shape="rect" id="Node000005" href="$ECUPackets_8c.html#a403d837b75d3554a09503e09a98e7dd9" title="Create the ECU_PumpConfig packet." alt="" coords="275,197,498,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="633,379,583,314,549,280,511,252,486,240,489,235,513,247,552,276,587,310,638,376"/>
+<area shape="rect" id="Node000006" href="$ECUPackets_8c.html#ac8a9980f3419f3746a33813b46d2a3b3" title="Create the ECU_PumpDebug packet." alt="" coords="275,261,499,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="619,383,569,348,511,316,480,304,482,299,513,311,572,344,622,379"/>
+<area shape="rect" id="Node000007" href="$ECUPackets_8c.html#aa1e9b7efd4b3218e044d843a7452e500" title="Create the ECU_RPMLoopCalibration packet." alt="" coords="269,325,504,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="558,389,471,368,472,363,559,383"/>
+<area shape="rect" id="Node000008" href="$ECUPackets_8c.html#a5495b2d1d867f507e3f68e43666da651" title="Create the ECU_TelemetrySlow0 packet." alt="" coords="283,389,490,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="547,412,490,412,490,407,547,407"/>
+<area shape="rect" id="Node000009" href="$ECUPackets_8c.html#a9f700f6fc6d2e167ec2e53712ba8e888" title="Create the ECU_TelemetrySlow1 packet." alt="" coords="283,453,490,493"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="559,435,472,456,471,451,558,430"/>
+<area shape="rect" id="Node000010" href="$ECUPackets_8c.html#ad18fca58be13e70cc3eb7f1b3004e0fa" title="Create the ECU_TelemetrySlow2 packet." alt="" coords="283,517,490,557"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="622,440,572,475,513,508,482,520,480,515,511,503,569,471,619,436"/>
+<area shape="rect" id="Node000011" href="$ECUPackets_8c.html#aed4164c4521dcae4efab7cde9d57065f" title="Create the ECU_ThrottleCommand packet." alt="" coords="276,581,497,621"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="638,443,587,508,552,543,513,572,489,584,486,579,511,567,549,539,583,505,633,439"/>
+<area shape="rect" id="Node000012" href="$ESCDefines_8c.html#a49bc9030f635dfaf7bd34df50dfa8414" title="Encode a ESC_ControlLoopCommon_t into a byte array." alt="" coords="261,697,512,722"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="650,443,633,496,605,560,566,624,542,654,514,680,477,699,474,694,510,675,538,650,562,621,600,557,628,494,644,442"/>
+<area shape="rect" id="Node000013" href="$ESCPackets_8c.html#ad2e06df18ff034fa684a1f088c0ce377" title="Encode a ESC_RPMControlLoopSettings_t into a byte array." alt="" coords="5,593,213,633"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="648,444,630,490,602,544,564,595,540,618,513,636,490,644,459,649,382,650,296,644,213,633,214,628,296,638,382,645,459,644,488,639,511,631,537,613,560,592,598,541,625,487,643,442"/>
+<area shape="rect" id="Node000014" href="$ESCPackets_8c.html#a12f33e84c620d0710abd847665a958d7" title="Create the ESC_RPMControlLoopSettings packet." alt="" coords="5,785,213,825"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="654,444,641,507,616,587,597,629,574,669,547,705,514,737,480,759,443,777,404,791,365,801,286,813,214,815,214,810,285,808,364,796,403,786,441,773,477,755,510,733,543,702,570,666,592,626,611,585,636,506,648,443"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="305,696,260,680,236,664,212,648,183,636,185,631,215,643,239,659,263,675,307,691"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="325,728,262,750,214,776,182,788,180,783,212,771,260,746,324,723"/>
+<area shape="rect" id="Node000015" href="$ESCPackets_8c.html#a327b640605bd4613fa68717ea0880cef" title="Create the ESC_VoltageControlLoopSettings packet." alt="" coords="11,657,208,697"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="263,698,208,691,209,686,263,692"/>
+<area shape="rect" id="Node000016" href="$ESCPackets_8c.html#a00bed8bec5e9c3050bac94076be0397f" title="Create the ESC_VoltageControlLoopSettings packet." alt="" coords="6,721,213,761"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="263,726,213,732,212,727,263,721"/>
+</map>

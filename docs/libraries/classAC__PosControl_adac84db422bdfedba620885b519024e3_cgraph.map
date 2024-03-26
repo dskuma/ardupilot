@@ -1,0 +1,51 @@
+<map id="AC_PosControl::relax_z_controller" name="AC_PosControl::relax_z_controller">
+<area shape="rect" id="Node000001" title="This function decays the output acceleration by 95% every half second to achieve a smooth transition ..." alt="" coords="5,405,164,445"/>
+<area shape="rect" id="Node000002" href="$classAP__Motors.html#a6641c5398dea1388547dff3db5d95a86" title=" " alt="" coords="459,5,634,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,404,146,337,224,243,272,193,325,143,381,96,440,55,452,49,454,53,443,60,384,100,328,147,276,196,228,247,151,340,102,407"/>
+<area shape="rect" id="Node000003" href="$classAC__PosControl.html#a1799d9d50a7da6ee30d0c464e8fee636" title=" " alt="" coords="229,405,376,445"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,423,216,423,216,428,164,428"/>
+<area shape="rect" id="Node000023" href="$classAC__PID.html#ad6b79d1ca6b17dd3d51a43aa90119412" title=" " alt="" coords="212,634,393,659"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="107,444,281,622,277,626,104,447"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="310,404,391,201,401,158,405,123,414,90,424,73,439,55,446,50,449,54,443,59,429,76,419,92,411,124,406,159,396,202,315,406"/>
+<area shape="rect" id="Node000004" href="$classAC__PID.html#a8cb8a136be5506f38d92fd39c0936451" title=" " alt="" coords="503,70,590,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="310,404,380,234,417,148,439,106,463,92,489,84,490,89,465,97,443,110,422,150,385,236,315,406"/>
+<area shape="rect" id="Node000005" href="$classAP__InertialNav.html#a869cf86b5d1e3af1dbb81a0c12241182" title=" " alt="" coords="473,120,620,160"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="307,404,322,357,349,294,387,227,412,197,440,170,459,158,462,162,443,174,416,200,392,230,353,296,327,359,312,406"/>
+<area shape="rect" id="Node000006" href="$classAC__AttitudeControl.html#aa53f84c0932b9aca1479eb8856ab384f" title=" " alt="" coords="473,184,620,224"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="311,404,330,367,358,321,395,274,440,234,459,223,462,227,443,238,399,278,363,325,334,370,316,406"/>
+<area shape="rect" id="Node000007" href="$classAP__InertialNav.html#a5533adf71652b68491afdb875e939e03" title=" " alt="" coords="471,248,623,288"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="319,403,370,351,403,322,440,298,457,289,459,294,443,302,407,327,373,355,323,407"/>
+<area shape="rect" id="Node000008" href="$classAC__PosControl.html#a479b684cd6bdce0f2174ddec2b9d6359" title=" " alt="" coords="473,312,620,352"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="344,403,440,362,462,354,464,359,442,366,347,408"/>
+<area shape="rect" id="Node000011" href="$classAC__PosControl.html#aaba369d68aee2f1a4f1a4dcdb96c6f0c" title="initialise ekf z axis reset check" alt="" coords="473,376,620,416"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="376,414,459,404,460,409,377,419"/>
+<area shape="rect" id="Node000015" href="$classAC__PID.html#a307aaed51e687c98cd7f5fc676303eb8" title=" " alt="" coords="500,441,593,466"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="377,431,487,444,486,449,376,436"/>
+<area shape="rect" id="Node000016" href="$classAC__PID.html#a2fd30f6413ff1b18c387542450e15bb3" title=" " alt="" coords="473,490,620,515"/>
+<area shape="poly" id="edge16_Node000003_Node000016" title=" " alt="" coords="353,443,442,475,475,484,474,489,441,480,352,448"/>
+<area shape="rect" id="Node000017" href="$classAC__PID__Basic.html#acf8d5c3693cf767c8f86e1ebc3aaf08d" title=" " alt="" coords="471,540,623,580"/>
+<area shape="poly" id="edge17_Node000003_Node000017" title=" " alt="" coords="328,443,379,484,443,524,460,532,458,537,440,529,375,488,325,447"/>
+<area shape="rect" id="Node000018" href="$namespaceAP.html#acdeafe5406efd2650ba54d24d3aecb7c" title=" " alt="" coords="491,605,602,630"/>
+<area shape="poly" id="edge18_Node000003_Node000018" title=" " alt="" coords="317,444,337,477,365,516,401,556,443,590,479,605,477,610,440,594,397,560,361,520,333,480,313,447"/>
+<area shape="rect" id="Node000020" href="$classAC__PID.html#a0ae837f35a5f8886c192e0400b1c5b4c" title=" " alt="" coords="463,654,631,679"/>
+<area shape="poly" id="edge20_Node000003_Node000020" title=" " alt="" coords="313,445,330,487,357,540,395,595,418,619,443,641,452,646,449,650,440,645,414,623,391,598,353,543,325,489,308,447"/>
+<area shape="rect" id="Node000021" href="$classAC__PID__Basic.html#a6b05796ca1bf136603934f8fe34e6be0" title=" " alt="" coords="441,727,652,753"/>
+<area shape="poly" id="edge21_Node000003_Node000021" title=" " alt="" coords="315,444,373,574,410,644,443,690,465,707,490,720,488,724,462,711,439,694,406,647,368,577,310,447"/>
+<area shape="rect" id="Node000022" href="$classAP__Scheduler.html#af1bc5555760961e84b32c1acff063ff5" title=" " alt="" coords="464,777,629,802"/>
+<area shape="poly" id="edge23_Node000003_Node000022" title=" " alt="" coords="316,445,353,522,396,622,407,664,411,700,419,732,428,747,443,763,454,771,450,775,440,767,424,750,414,734,405,701,402,665,391,624,348,524,312,447"/>
+<area shape="rect" id="Node000009" href="$classAP__AHRS__View.html#ae1751184800789c5e93606583973661d" title=" " alt="" coords="700,319,911,345"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="620,329,686,329,686,335,620,335"/>
+<area shape="rect" id="Node000010" href="$classAP__AHRS.html#a68a0c485537e20cc9f73cc6af910bccb" title=" " alt="" coords="990,319,1162,345"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="911,329,976,329,976,335,911,335"/>
+<area shape="rect" id="Node000012" href="$classAP__AHRS__View.html#a80c4de83ab71dea544f53a7464cd2b80" title=" " alt="" coords="706,376,905,416"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="620,393,692,393,692,399,620,399"/>
+<area shape="rect" id="Node000013" href="$classAP__AHRS.html#abce04780653c748a98fb52f6bee72e83" title=" " alt="" coords="959,383,1193,409"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="905,393,945,393,945,399,905,399"/>
+<area shape="rect" id="Node000014" href="$classAP__AHRS.html#a13dcf78333b50371c176bf5b6be77251" title=" " alt="" coords="1241,383,1440,409"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1193,393,1227,393,1227,399,1193,399"/>
+<area shape="rect" id="Node000019" href="$classAP__Scheduler.html#a0826068d9555266bdda5efd19c4b891a" title=" " alt="" coords="702,605,909,630"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="602,615,688,615,688,620,602,620"/>
+<area shape="poly" id="edge22_Node000021_Node000021" title=" " alt="" coords="507,729,499,719,503,709,520,703,547,701,581,705,591,709,594,715,590,718,587,713,580,710,547,706,521,708,507,713,504,718,511,725"/>
+<area shape="rect" id="Node000024" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="501,826,593,851"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="313,658,331,690,360,732,398,776,443,812,464,823,488,830,486,835,462,828,440,817,394,780,356,736,327,693,308,661"/>
+</map>

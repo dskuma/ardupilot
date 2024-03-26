@@ -1,0 +1,9 @@
+<map id="encodeECU_ThrottleCurvePacket" name="encodeECU_ThrottleCurvePacket">
+<area shape="rect" id="Node000001" title="Create the ECU_ThrottleCurve packet." alt="" coords="5,63,240,88"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="321,5,448,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,60,312,31,313,36,182,65"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#a8b233f0bd3049d8da94dbb818b4748f6" title="Encode a float on a byte stream by floating point scaling to fit in 1 unsigned byte." alt="" coords="288,55,481,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,73,274,73,274,78,240,78"/>
+<area shape="rect" id="Node000004" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="313,120,456,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,85,313,114,312,120,181,91"/>
+</map>

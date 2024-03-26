@@ -82,7 +82,6 @@ public:
     // prx_instance should be set to the proximity sensor backend instance number
     void set_face_attributes(const Face &face, float pitch, float yaw, float distance, uint8_t prx_instance);
     void set_face_attributes(const Face &face, float yaw, float distance, uint8_t prx_instance) { set_face_attributes(face, 0, yaw, distance, prx_instance); }
-
     // update boundary points used for simple avoidance based on a single sector and pitch distance changing
     //   the boundary points lie on the line between sectors meaning two boundary points may be updated based on a single sector's distance changing
     //   the boundary point is set to the shortest distance found in the two adjacent sectors, this is a conservative boundary around the vehicle

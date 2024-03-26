@@ -1,0 +1,15 @@
+<map id="encodeESC_TempSensorConfigPacket" name="encodeESC_TempSensorConfigPacket">
+<area shape="rect" id="Node000001" title="Create the ESC_TempSensorConfig packet." alt="" coords="5,97,227,137"/>
+<area shape="rect" id="Node000002" href="$ESCVelocityProtocol_8h.html#ae26ac4eee8e1853b6b09acf72bba0a8b" title="Complete a packet after the data have been encoded." alt="" coords="283,5,459,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,94,209,66,274,39,298,32,300,37,276,45,212,71,156,99"/>
+<area shape="rect" id="Node000003" href="$fieldencode_8c.html#ab6a7a46e38876d6c478aa95dcbd92043" title="Encode a 4 byte float on a big endian byte stream." alt="" coords="304,55,439,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,94,291,80,292,85,221,99"/>
+<area shape="rect" id="Node000005" href="$ESCVelocityProtocol_8h.html#a1ea9c054da75c49566d8a20b17654532" title=" " alt="" coords="275,104,468,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,114,261,114,261,119,227,119"/>
+<area shape="rect" id="Node000006" href="$fieldencode_8c.html#a0d287f0c08630b8e4e8cfe3f0e7a67f9" title="Encode a signed 2 byte integer on a big endian byte stream." alt="" coords="310,153,433,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="221,134,297,149,296,154,220,139"/>
+<area shape="rect" id="Node000007" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="306,203,437,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,134,212,161,276,187,303,196,301,201,274,193,210,166,154,139"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#a674c88e2aaa16d72cdff8da4877991c9" title="Encode a unsigned 4 byte integer on a big endian byte stream." alt="" coords="516,55,647,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="439,65,502,65,502,70,439,70"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="AP_BattMonitor_Analog::read" name="AP_BattMonitor_Analog::read">
+<area shape="rect" id="Node000001" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="5,120,180,160"/>
+<area shape="rect" id="Node000002" href="$classAP__BattMonitor__Analog.html#af999d244a878a1b4a163d5d0cadf16d2" title="returns true if battery monitor provides current info" alt="" coords="233,5,408,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,117,170,86,227,55,243,48,245,53,229,60,172,91,124,122"/>
+<area shape="rect" id="Node000003" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="259,70,383,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,117,256,96,257,101,173,123"/>
+<area shape="rect" id="Node000007" href="$classAP__HAL_1_1AnalogSource.html#af7d269467bc07c84c585f231309b1ce0" title=" " alt="" coords="236,120,405,160"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="180,137,222,137,222,143,180,143"/>
+<area shape="rect" id="Node000008" href="$classAP__BattMonitor__Backend.html#a4ffb7dda1da9a88da5aa398687b7b3da" title=" " alt="" coords="228,184,413,224"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="165,158,236,178,235,183,164,163"/>
+<area shape="rect" id="Node000010" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title=" " alt="" coords="236,248,405,288"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="119,158,169,196,229,234,243,240,241,245,227,238,166,200,116,162"/>
+<area shape="rect" id="Node000004" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="501,70,607,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,80,487,80,487,85,383,85"/>
+<area shape="rect" id="Node000005" href="$hrt_8c.html#a8e056f016b4bb5d52754d890a539c433" title=" " alt="" coords="695,46,835,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="608,74,681,66,681,71,608,79"/>
+<area shape="rect" id="Node000006" href="$hrt_8c.html#a723fef85be7bacb834af35445a891c18" title=" " alt="" coords="723,95,806,121"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="608,86,710,99,709,104,607,92"/>
+<area shape="rect" id="Node000009" href="$classAP__BattMonitor__Backend.html#ad71141c064a3117c3af4d25e40d38943" title=" " alt="" coords="461,184,647,224"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="414,201,448,201,448,207,414,207"/>
+</map>

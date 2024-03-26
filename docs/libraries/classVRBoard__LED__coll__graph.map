@@ -1,0 +1,18 @@
+<map id="VRBoard_LED" name="VRBoard_LED">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,5,576,31"/>
+<area shape="rect" id="Node000002" href="$classRGBLed.html" title=" " alt="" coords="337,5,410,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,15,465,15,465,21,423,21"/>
+<area shape="rect" id="Node000003" href="$classNotifyDevice.html" title=" " alt="" coords="60,40,167,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,41,336,20,337,25,181,46"/>
+<area shape="rect" id="Node000004" href="$classAP__Notify.html" title=" " alt="" coords="331,131,416,156"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="181,50,244,59,277,67,308,80,341,103,364,129,361,132,337,107,305,84,275,72,243,64,180,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,129,150,68,152,63,324,124"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="359,116,363,108,373,104,382,107,387,114,386,131,381,130,382,115,379,111,373,109,367,112,363,118"/>
+<area shape="rect" id="Node000005" href="$structAP__Notify_1_1notify__flags__and__values__type.html" title="notify_flags_type &#45; bitmask of notification flags" alt="" coords="30,117,197,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,138,245,139,330,141,330,146,245,145,210,144"/>
+<area shape="rect" id="Node000006" href="$structAP__Notify_1_1notify__events__type.html" title="notify_events_type &#45; bitmask of active events." alt="" coords="5,181,221,207"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="224,177,306,161,333,153,334,159,307,166,225,182"/>
+<area shape="rect" id="Node000007" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="34,284,193,309"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="154,276,226,240,305,193,356,154,359,158,308,198,228,244,156,280"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="81,269,91,261,113,257,132,260,143,266,146,276,141,285,136,282,141,275,139,269,130,265,113,263,93,266,85,273"/>
+</map>

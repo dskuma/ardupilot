@@ -1,0 +1,23 @@
+<map id="AP_InertialSensor_Backend::apply_gyro_filters" name="AP_InertialSensor_Backend::apply_gyro_filters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,204,251"/>
+<area shape="rect" id="Node000002" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="314,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,210,134,173,164,127,203,80,251,40,274,28,300,21,301,26,276,33,253,44,207,83,168,130,138,176,118,212"/>
+<area shape="rect" id="Node000004" href="$classLowPassFilter2p.html#a98a931a77f5b12f13ecb84fd57a4b7d4" title=" " alt="" coords="266,55,437,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,209,173,149,210,117,251,89,265,82,267,87,253,94,213,121,176,153,123,213"/>
+<area shape="rect" id="Node000005" href="$classNotchFilter.html#a13aa77b79ddd9b9352ec3d05295b56e8" title=" " alt="" coords="283,104,420,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,209,185,174,251,140,275,131,277,136,253,144,188,178,135,214"/>
+<area shape="rect" id="Node000006" href="$classAP__AHRS.html#a45099ecf0bb54674f1ad44f9be8ea4b9" title=" " alt="" coords="267,154,436,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="191,209,252,194,254,199,192,214"/>
+<area shape="rect" id="Node000007" href="$classVector3.html#a10ec61590d353989a44ca7ba9e279cf8" title=" " alt="" coords="294,219,409,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,229,280,229,280,234,204,234"/>
+<area shape="rect" id="Node000008" href="$classVector3.html#a3d258ebac882ccca247bb65def39ca87" title=" " alt="" coords="291,268,412,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="205,249,278,263,277,269,204,254"/>
+<area shape="rect" id="Node000009" href="$classNotchFilter.html#a5130b287910d9279de9dd7a7ce6a3cd1" title=" " alt="" coords="284,317,419,343"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="142,249,194,276,253,302,280,311,278,316,251,307,192,281,140,254"/>
+<area shape="rect" id="Node000010" href="$classLowPassFilter2p.html#af1bb2eb09cd16b94660d8187ffb7d99b" title=" " alt="" coords="268,367,435,392"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="126,250,180,301,215,328,253,352,272,360,270,365,251,356,212,333,177,305,122,253"/>
+<area shape="rect" id="Node000011" href="$classAP__InertialSensor__Backend.html#a542bbc54234fc25df5d38231d38b1b41" title=" " alt="" coords="252,417,451,457"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="120,250,172,323,210,365,254,401,265,408,263,413,250,406,206,369,168,327,116,253"/>
+<area shape="rect" id="Node000003" href="$classAP__AHRS.html#af481888f56602f793fc8d9895d14a8c9" title=" " alt="" coords="499,5,677,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,15,485,15,485,21,389,21"/>
+</map>

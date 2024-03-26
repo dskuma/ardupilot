@@ -1,0 +1,9 @@
+<map id="encodeECU_ResetEngineTimePacket" name="encodeECU_ResetEngineTimePacket">
+<area shape="rect" id="Node000001" title="Create the ECU_ResetEngineTime packet." alt="" coords="5,47,223,87"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="279,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,45,269,31,270,36,208,50"/>
+<area shape="rect" id="Node000003" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="271,55,413,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,65,256,65,256,70,223,70"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#a056b9a034394ebdace24e76944913fcf" title="Encode a unsigned 3 byte integer on a big endian byte stream." alt="" coords="277,104,407,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,85,270,98,269,104,206,90"/>
+</map>

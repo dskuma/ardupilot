@@ -1,0 +1,19 @@
+<map id="uint24ToBeBytes" name="uint24ToBeBytes">
+<area shape="rect" id="Node000001" title="Encode a unsigned 3 byte integer on a big endian byte stream." alt="" coords="271,227,401,253"/>
+<area shape="rect" id="Node000002" href="$ECUPackets_8c.html#aa05544b7a0078c0c3e6c95265bdeed58" title="Create the ECU_ResetEngineTime packet." alt="" coords="5,5,223,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,215,309,180,287,138,257,96,221,59,202,48,204,43,224,55,262,92,291,135,313,178,328,213"/>
+<area shape="rect" id="Node000003" href="$ECUPackets_8c.html#a9f700f6fc6d2e167ec2e53712ba8e888" title="Create the ECU_TelemetrySlow1 packet." alt="" coords="11,69,217,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,218,276,170,250,145,221,124,198,112,200,107,224,119,254,141,280,166,320,214"/>
+<area shape="rect" id="Node000004" href="$ECUPackets_8c.html#ade89a185b337d51a2f756ce37ed82507" title="Create the ECU_TotalEngineTime packet." alt="" coords="9,133,219,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,223,222,188,188,176,190,171,224,183,300,218"/>
+<area shape="rect" id="Node000005" href="$ServoPackets_8c.html#a194b21fb0ec0ff99c4c62818c542fd7d" title="Create the Servo_Address packet." alt="" coords="11,198,217,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,232,210,226,211,221,257,227"/>
+<area shape="rect" id="Node000006" href="$ServoPackets_8c.html#a7eb034527f3a9d13654773a263c586f5" title="Create the Servo_Address packet." alt="" coords="11,248,217,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,253,218,258,217,252,257,247"/>
+<area shape="rect" id="Node000007" href="$scaledencode_8c.html#af80c1e3a09c3e5010755ad9fe342c4d0" title="Encode a float on a byte stream by floating point scaling to fit in 3 unsigned bytes in big endian or..." alt="" coords="17,312,211,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="303,262,224,302,191,314,189,309,222,298,301,257"/>
+<area shape="rect" id="Node000008" href="$scaledencode_8c.html#a8648dff705e5212a5caa53bb2be95c64" title="Encode a int32_t on a byte stream by integer scaling to fit in 3 unsigned bytes in big endian order." alt="" coords="15,376,213,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="321,266,281,317,254,343,224,366,201,378,198,374,221,362,251,339,277,313,317,263"/>
+<area shape="rect" id="Node000009" href="$scaledencode_8c.html#a84274a9cd5155c8cfb1f70e3cf3f43e0" title="Encode a uint32_t on a byte stream by integer scaling to fit in 3 unsigned bytes in big endian order." alt="" coords="11,440,217,480"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="329,267,314,303,292,347,262,392,224,430,205,442,202,438,221,426,258,389,287,345,309,301,324,265"/>
+</map>

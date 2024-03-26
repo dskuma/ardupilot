@@ -1,0 +1,15 @@
+<map id="encodeESC_RPMControlLoopSettingsPacketStructure" name="encodeESC_RPMControlLoopSettingsPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ESC_RPMControlLoopSettings packet." alt="" coords="5,99,213,139"/>
+<area shape="rect" id="Node000002" href="$ESCDefines_8c.html#a49bc9030f635dfaf7bd34df50dfa8414" title="Encode a ESC_ControlLoopCommon_t into a byte array." alt="" coords="261,5,512,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,97,201,72,260,47,313,31,315,37,262,53,203,77,151,102"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#a6139bc16730455d9047aa1e9d4f29c02" title="Encode a float on a byte stream by floating point scaling to fit in 2 unsigned bytes in big endian or..." alt="" coords="560,42,753,82"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="213,104,261,98,546,69,547,75,262,103,214,109"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="801,79,932,104"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="214,113,788,92,788,97,214,118"/>
+<area shape="rect" id="Node000005" href="$ESCVelocityProtocol_8h.html#ae26ac4eee8e1853b6b09acf72bba0a8b" title="Complete a packet after the data have been encoded." alt="" coords="299,157,475,183"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,136,303,152,302,157,213,141"/>
+<area shape="rect" id="Node000006" href="$ESCVelocityProtocol_8h.html#a1ea9c054da75c49566d8a20b17654532" title=" " alt="" coords="290,207,483,232"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="145,137,199,166,262,193,290,201,289,206,260,198,197,171,143,142"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,28,547,41,546,47,465,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="754,73,788,78,787,83,753,78"/>
+</map>

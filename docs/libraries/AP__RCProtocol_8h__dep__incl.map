@@ -1,0 +1,126 @@
+<map id="libraries/AP_RCProtocol/AP_RCProtocol.h" name="libraries/AP_RCProtocol/AP_RCProtocol.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3502,5,3677,45"/>
+<area shape="rect" id="Node000002" href="$AP__HAL__ChibiOS_2RCInput_8h.html" title=" " alt="" coords="440,101,627,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3488,30,2454,48,1708,68,940,96,627,115,627,110,940,91,1707,62,2454,43,3488,25"/>
+<area shape="rect" id="Node000008" href="$AP__HAL__ESP32_2RCInput_8h.html" title=" " alt="" coords="1532,101,1708,141"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="3488,34,1708,118,1708,113,3488,29"/>
+<area shape="rect" id="Node000012" href="$RCInput__RCProtocol_8cpp.html" title=" " alt="" coords="2242,101,2425,141"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="3488,29,3293,31,3032,41,2736,61,2585,76,2438,96,2401,103,2400,98,2437,91,2584,71,2735,55,3032,35,3293,26,3488,24"/>
+<area shape="rect" id="Node000013" href="$AP__HAL__SITL_2Scheduler_8cpp.html" title=" " alt="" coords="2449,101,2612,141"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="3488,30,3322,33,3107,43,2866,63,2744,78,2624,96,2592,103,2590,98,2624,91,2743,73,2865,58,3107,38,3322,28,3488,24"/>
+<area shape="rect" id="Node000014" href="$iofirmware_8h.html" title=" " alt="" coords="953,101,1135,141"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="3488,32,2675,54,2104,73,1520,96,1136,116,1136,111,1520,91,2104,68,2675,49,3488,26"/>
+<area shape="rect" id="Node000017" href="$AP__RCProtocol_8cpp.html" title=" " alt="" coords="2821,284,2995,324"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="3489,36,3247,59,3131,76,3047,96,2997,114,2957,131,2925,155,2896,197,2889,219,2890,242,2901,283,2896,284,2884,242,2884,218,2891,195,2921,152,2954,126,2995,109,3046,91,3130,70,3247,53,3488,31"/>
+<area shape="rect" id="Node000018" href="$AP__RCProtocol__Backend_8cpp.html" title=" " alt="" coords="4359,101,4569,141"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="3691,29,3983,50,4162,68,4340,91,4382,98,4381,103,4340,96,4161,73,3983,55,3690,35"/>
+<area shape="rect" id="Node000019" href="$AP__RCProtocol__Backend_8h.html" title=" " alt="" coords="2636,101,2831,141"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="3488,34,3195,54,3016,72,2838,96,2799,103,2798,98,2837,91,3016,67,3195,49,3488,29"/>
+<area shape="rect" id="Node000030" href="$AP__RCProtocol__CRSF_8cpp.html" title=" " alt="" coords="3444,284,3631,324"/>
+<area shape="poly" id="edge36_Node000001_Node000030" title=" " alt="" coords="3691,31,3847,51,3930,67,4006,88,4068,115,4092,130,4109,148,4119,168,4121,189,4113,213,4095,238,4080,251,4060,261,4009,276,3948,283,3881,285,3747,284,3689,284,3644,287,3631,289,3631,283,3644,281,3689,278,3747,278,3881,280,3948,278,4008,270,4058,256,4077,246,4091,234,4108,210,4116,189,4114,169,4105,151,4088,135,4066,119,4004,93,3929,72,3846,56,3691,37"/>
+<area shape="rect" id="Node000031" href="$AP__RCProtocol__CRSF_8h.html" title=" " alt="" coords="2906,196,3081,236"/>
+<area shape="poly" id="edge37_Node000001_Node000031" title=" " alt="" coords="3489,37,3289,59,3196,76,3130,96,3093,118,3060,145,3010,198,3006,194,3056,141,3090,113,3128,91,3195,71,3288,54,3488,32"/>
+<area shape="rect" id="Node000033" href="$AP__RCProtocol__FPort_8h.html" title=" " alt="" coords="3303,196,3478,236"/>
+<area shape="poly" id="edge41_Node000001_Node000033" title=" " alt="" coords="3561,57,3413,197,3409,194,3558,53"/>
+<area shape="rect" id="Node000035" href="$AP__RCProtocol__GHST_8cpp.html" title=" " alt="" coords="3867,284,4058,324"/>
+<area shape="poly" id="edge44_Node000001_Node000035" title=" " alt="" coords="3690,26,3796,32,3910,43,4011,62,4051,75,4080,91,4115,123,4137,158,4141,177,4141,196,4136,217,4125,237,4111,254,4095,267,4058,286,4056,281,4092,263,4108,250,4120,235,4131,215,4136,196,4136,178,4132,160,4111,127,4077,96,4049,80,4010,67,3909,49,3795,37,3690,32"/>
+<area shape="rect" id="Node000036" href="$AP__RCProtocol__GHST_8h.html" title=" " alt="" coords="3701,196,3875,236"/>
+<area shape="poly" id="edge45_Node000001_Node000036" title=" " alt="" coords="3621,53,3770,194,3766,197,3617,57"/>
+<area shape="rect" id="Node000037" href="$AP__RCProtocol__SBUS_8h.html" title=" " alt="" coords="4258,196,4433,236"/>
+<area shape="poly" id="edge48_Node000001_Node000037" title=" " alt="" coords="3690,25,3830,30,3989,41,4136,61,4196,74,4240,91,4272,113,4300,141,4337,194,4333,198,4296,145,4269,117,4237,96,4194,79,4135,66,3989,47,3829,36,3690,31"/>
+<area shape="rect" id="Node000040" href="$test__sbus_8cpp.html" title=" " alt="" coords="4713,284,4887,324"/>
+<area shape="poly" id="edge74_Node000001_Node000040" title=" " alt="" coords="3691,26,3840,31,4013,42,4175,61,4240,75,4289,91,4308,103,4320,118,4331,132,4348,146,4421,179,4526,217,4735,281,4734,287,4524,222,4419,184,4345,150,4327,136,4316,121,4305,107,4287,96,4239,80,4174,67,4013,48,3840,36,3691,31"/>
+<area shape="rect" id="Node000041" href="$AP__RCProtocol__SRXL_8h.html" title=" " alt="" coords="3502,196,3677,236"/>
+<area shape="poly" id="edge53_Node000001_Node000041" title=" " alt="" coords="3592,59,3592,195,3587,195,3587,59"/>
+<area shape="rect" id="Node000043" href="$AP__RCProtocol__SRXL2_8cpp.html" title=" " alt="" coords="4082,284,4278,324"/>
+<area shape="poly" id="edge56_Node000001_Node000043" title=" " alt="" coords="3691,24,3807,27,3934,38,3994,46,4047,58,4092,73,4123,91,4142,112,4157,137,4176,190,4183,243,4184,283,4178,284,4178,243,4170,192,4152,139,4138,115,4120,95,4089,77,4046,63,3993,52,3933,43,3806,33,3691,29"/>
+<area shape="rect" id="Node000044" href="$AP__RCProtocol__SRXL2_8h.html" title=" " alt="" coords="3900,196,4081,236"/>
+<area shape="poly" id="edge57_Node000001_Node000044" title=" " alt="" coords="3643,49,3951,193,3949,198,3641,54"/>
+<area shape="rect" id="Node000045" href="$SoftSerial_8h.html" title=" " alt="" coords="3141,101,3315,141"/>
+<area shape="poly" id="edge60_Node000001_Node000045" title=" " alt="" coords="3504,51,3302,103,3300,98,3502,46"/>
+<area shape="rect" id="Node000047" href="$RCProtocolDecoder_8cpp.html" title=" " alt="" coords="4593,93,4812,148"/>
+<area shape="poly" id="edge72_Node000001_Node000047" title=" " alt="" coords="3690,26,3860,32,4082,43,4331,62,4582,91,4593,92,4593,98,4581,96,4331,67,4082,48,3860,37,3690,31"/>
+<area shape="rect" id="Node000048" href="$RCProtocolTest_8cpp.html" title=" " alt="" coords="4837,93,5027,148"/>
+<area shape="poly" id="edge73_Node000001_Node000048" title=" " alt="" coords="3690,23,3898,25,4180,34,4501,54,4664,70,4824,91,4837,93,4836,98,4824,96,4664,76,4500,60,4180,39,3898,30,3690,29"/>
+<area shape="rect" id="Node000049" href="$AP__SerialManager_8cpp.html" title=" " alt="" coords="5052,101,5249,141"/>
+<area shape="poly" id="edge75_Node000001_Node000049" title=" " alt="" coords="3690,26,4374,47,4759,66,4919,78,5040,91,5080,98,5079,103,5040,96,4918,83,4759,72,4374,53,3690,32"/>
+<area shape="rect" id="Node000003" href="$AP__HAL__ChibiOS__Private_8h.html" title=" " alt="" coords="217,196,415,236"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,149,361,198,359,193,476,144"/>
+<area shape="rect" id="Node000005" href="$ChibiOS_2RCInput_8cpp.html" title=" " alt="" coords="440,196,627,236"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,154,536,196,531,196,531,154"/>
+<area shape="rect" id="Node000006" href="$AP__HAL__ChibiOS_2Scheduler_8cpp.html" title=" " alt="" coords="5,196,192,236"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="433,146,187,199,186,193,432,141"/>
+<area shape="rect" id="Node000007" href="$iofirmware_8cpp.html" title=" " alt="" coords="651,196,848,236"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="590,144,707,193,705,198,588,149"/>
+<area shape="rect" id="Node000004" href="$HAL__ChibiOS__Class_8cpp.html" title=" " alt="" coords="223,284,409,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,250,319,284,313,284,313,250"/>
+<area shape="rect" id="Node000009" href="$HAL__ESP32__Class_8cpp.html" title=" " alt="" coords="1432,196,1608,236"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1592,152,1542,198,1538,194,1588,148"/>
+<area shape="rect" id="Node000010" href="$ESP32_2RCInput_8cpp.html" title=" " alt="" coords="1632,196,1808,236"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1652,148,1702,194,1698,198,1648,152"/>
+<area shape="rect" id="Node000011" href="$AP__HAL__ESP32_2Scheduler_8cpp.html" title=" " alt="" coords="1232,196,1408,236"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1547,147,1381,198,1380,193,1545,142"/>
+<area shape="poly" id="edge14_Node000014_Node000007" title=" " alt="" coords="972,147,810,198,808,193,971,142"/>
+<area shape="rect" id="Node000015" href="$mixer_8cpp.html" title=" " alt="" coords="872,196,1035,236"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1018,152,974,198,970,194,1014,149"/>
+<area shape="rect" id="Node000016" href="$rc_8cpp.html" title=" " alt="" coords="1059,196,1207,236"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1073,149,1117,194,1113,198,1069,152"/>
+<area shape="poly" id="edge20_Node000019_Node000001" title=" " alt="" coords="2835,95,2861,91,3039,67,3216,49,3501,29,3502,34,3216,54,3039,72,2862,96,2836,100"/>
+<area shape="rect" id="Node000020" href="$AP__RCProtocol__DSM_8h.html" title=" " alt="" coords="2054,196,2229,236"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="2647,146,2624,151,2517,167,2433,176,2348,184,2240,199,2229,200,2229,195,2240,193,2348,179,2432,171,2516,162,2624,145,2646,141"/>
+<area shape="rect" id="Node000022" href="$AP__RCProtocol__IBUS_8h.html" title=" " alt="" coords="2253,196,2427,236"/>
+<area shape="poly" id="edge24_Node000019_Node000022" title=" " alt="" coords="2642,146,2625,151,2421,199,2420,193,2623,145,2641,141"/>
+<area shape="rect" id="Node000024" href="$AP__RCProtocol__PPMSum_8h.html" title=" " alt="" coords="1832,196,2029,236"/>
+<area shape="poly" id="edge27_Node000019_Node000024" title=" " alt="" coords="2648,146,2624,151,2461,171,2333,178,2205,183,2042,199,2030,200,2029,195,2041,193,2205,178,2333,173,2461,166,2624,145,2647,141"/>
+<area shape="rect" id="Node000026" href="$AP__RCProtocol__ST24_8h.html" title=" " alt="" coords="2451,196,2626,236"/>
+<area shape="poly" id="edge30_Node000019_Node000026" title=" " alt="" coords="2683,149,2579,198,2577,194,2680,144"/>
+<area shape="rect" id="Node000028" href="$AP__RCProtocol__SUMD_8h.html" title=" " alt="" coords="2650,196,2830,236"/>
+<area shape="poly" id="edge33_Node000019_Node000028" title=" " alt="" coords="2738,154,2741,196,2736,196,2733,155"/>
+<area shape="poly" id="edge22_Node000020_Node000017" title=" " alt="" coords="2242,234,2402,250,2527,257,2651,264,2808,281,2821,283,2820,288,2808,287,2651,270,2527,263,2402,256,2242,239"/>
+<area shape="rect" id="Node000021" href="$AP__RCProtocol__DSM_8cpp.html" title=" " alt="" coords="1970,284,2155,324"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="2117,248,2082,286,2078,282,2113,244"/>
+<area shape="poly" id="edge25_Node000022_Node000017" title=" " alt="" coords="2442,234,2626,258,2808,281,2821,283,2820,289,2808,287,2626,263,2441,239"/>
+<area shape="rect" id="Node000023" href="$AP__RCProtocol__IBUS_8cpp.html" title=" " alt="" coords="2180,284,2367,324"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="2319,249,2290,285,2286,282,2315,245"/>
+<area shape="poly" id="edge28_Node000024_Node000017" title=" " alt="" coords="2044,233,2259,251,2428,256,2595,262,2808,281,2821,283,2820,288,2808,287,2595,267,2428,261,2259,257,2043,239"/>
+<area shape="rect" id="Node000025" href="$AP__RCProtocol__PPMSum_8cpp.html" title=" " alt="" coords="1734,284,1946,324"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="1903,247,1862,286,1858,282,1899,243"/>
+<area shape="poly" id="edge31_Node000026_Node000017" title=" " alt="" coords="2634,237,2828,281,2827,287,2632,242"/>
+<area shape="rect" id="Node000027" href="$AP__RCProtocol__ST24_8cpp.html" title=" " alt="" coords="2391,284,2577,324"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="2521,249,2498,285,2494,282,2517,246"/>
+<area shape="poly" id="edge34_Node000028_Node000017" title=" " alt="" coords="2790,240,2872,282,2870,286,2788,245"/>
+<area shape="rect" id="Node000029" href="$AP__RCProtocol__SUMD_8cpp.html" title=" " alt="" coords="2601,284,2796,324"/>
+<area shape="poly" id="edge35_Node000028_Node000029" title=" " alt="" coords="2727,250,2710,285,2705,283,2723,247"/>
+<area shape="poly" id="edge38_Node000031_Node000017" title=" " alt="" coords="2967,248,2929,286,2925,282,2963,244"/>
+<area shape="poly" id="edge39_Node000031_Node000030" title=" " alt="" coords="3095,234,3266,258,3432,281,3444,283,3443,289,3432,287,3265,263,3094,239"/>
+<area shape="rect" id="Node000032" href="$AP__CRSF__Telem_8cpp.html" title=" " alt="" coords="3020,284,3207,324"/>
+<area shape="poly" id="edge40_Node000031_Node000032" title=" " alt="" coords="3033,242,3088,282,3085,286,3030,247"/>
+<area shape="poly" id="edge42_Node000033_Node000017" title=" " alt="" coords="3290,239,3008,287,2996,289,2995,284,3008,281,3289,234"/>
+<area shape="rect" id="Node000034" href="$AP__RCProtocol__FPort_8cpp.html" title=" " alt="" coords="3231,284,3420,324"/>
+<area shape="poly" id="edge43_Node000033_Node000034" title=" " alt="" coords="3370,249,3342,285,3338,282,3366,245"/>
+<area shape="poly" id="edge46_Node000036_Node000017" title=" " alt="" coords="3687,239,3496,257,3346,263,3197,268,3008,287,2996,288,2995,283,3008,281,3197,263,3346,257,3495,252,3687,234"/>
+<area shape="poly" id="edge47_Node000036_Node000035" title=" " alt="" coords="3840,240,3926,282,3923,286,3837,244"/>
+<area shape="poly" id="edge50_Node000037_Node000017" title=" " alt="" coords="4245,228,4093,239,3788,250,3550,253,3312,260,3173,270,3008,287,2996,288,2995,283,3008,281,3172,265,3312,255,3550,247,3788,245,4093,233,4244,223"/>
+<area shape="rect" id="Node000038" href="$Linux_2RCInput_8cpp.html" title=" " alt="" coords="4517,284,4688,324"/>
+<area shape="poly" id="edge49_Node000037_Node000038" title=" " alt="" coords="4416,238,4547,281,4545,287,4414,243"/>
+<area shape="rect" id="Node000039" href="$AP__RCProtocol__SBUS_8cpp.html" title=" " alt="" coords="4302,284,4493,324"/>
+<area shape="poly" id="edge51_Node000037_Node000039" title=" " alt="" coords="4366,246,4388,282,4384,285,4362,249"/>
+<area shape="poly" id="edge52_Node000037_Node000040" title=" " alt="" coords="4447,234,4713,284,4712,289,4446,239"/>
+<area shape="poly" id="edge54_Node000041_Node000017" title=" " alt="" coords="3488,239,3353,255,3247,263,3141,271,3008,287,2996,288,2995,283,3008,281,3141,266,3246,258,3352,250,3488,234"/>
+<area shape="rect" id="Node000042" href="$AP__RCProtocol__SRXL_8cpp.html" title=" " alt="" coords="3655,284,3843,324"/>
+<area shape="poly" id="edge55_Node000041_Node000042" title=" " alt="" coords="3637,240,3716,282,3713,286,3635,245"/>
+<area shape="poly" id="edge58_Node000044_Node000017" title=" " alt="" coords="3886,239,3753,252,3639,259,3445,262,3253,266,3140,273,3008,287,2996,288,2995,283,3008,281,3140,268,3253,261,3445,257,3639,253,3752,246,3886,233"/>
+<area shape="poly" id="edge59_Node000044_Node000043" title=" " alt="" coords="4046,239,4140,282,4137,286,4043,244"/>
+<area shape="poly" id="edge62_Node000045_Node000020" title=" " alt="" coords="3127,132,2628,167,2240,199,2229,200,2229,195,2240,193,2628,162,3127,126"/>
+<area shape="poly" id="edge65_Node000045_Node000022" title=" " alt="" coords="3127,131,2818,156,2629,175,2439,199,2428,200,2427,195,2438,193,2628,170,2818,150,3126,126"/>
+<area shape="poly" id="edge69_Node000045_Node000026" title=" " alt="" coords="3127,135,2902,162,2638,199,2627,200,2626,195,2637,193,2902,157,3126,130"/>
+<area shape="poly" id="edge70_Node000045_Node000028" title=" " alt="" coords="3128,144,2831,200,2830,195,3127,139"/>
+<area shape="poly" id="edge61_Node000045_Node000031" title=" " alt="" coords="3169,148,3042,198,3040,193,3167,143"/>
+<area shape="poly" id="edge63_Node000045_Node000033" title=" " alt="" coords="3274,145,3359,194,3356,198,3271,150"/>
+<area shape="poly" id="edge64_Node000045_Node000036" title=" " alt="" coords="3330,135,3690,193,3701,195,3700,201,3689,199,3329,140"/>
+<area shape="poly" id="edge66_Node000045_Node000037" title=" " alt="" coords="3330,128,4258,205,4257,210,3329,133"/>
+<area shape="poly" id="edge67_Node000045_Node000041" title=" " alt="" coords="3315,142,3517,193,3516,199,3314,147"/>
+<area shape="poly" id="edge68_Node000045_Node000044" title=" " alt="" coords="3329,129,3584,155,3888,193,3900,195,3899,200,3888,199,3583,160,3329,134"/>
+<area shape="rect" id="Node000046" href="$SoftSerial_8cpp.html" title=" " alt="" coords="3105,196,3279,236"/>
+<area shape="poly" id="edge71_Node000045_Node000046" title=" " alt="" coords="3218,154,3202,197,3197,195,3213,152"/>
+</map>

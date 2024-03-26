@@ -1,0 +1,19 @@
+<map id="uint24FromBeBytes" name="uint24FromBeBytes">
+<area shape="rect" id="Node000001" title="Decode a unsigned 3 byte integer from a big endian byte stream." alt="" coords="271,227,421,253"/>
+<area shape="rect" id="Node000002" href="$ECUPackets_8c.html#a6fcd66dd259cfae5fb082bf2a72041b1" title="Decode the ECU_ResetEngineTime packet." alt="" coords="5,5,223,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,216,316,181,291,138,260,96,221,59,201,48,204,43,224,55,264,92,296,135,320,178,337,214"/>
+<area shape="rect" id="Node000003" href="$ECUPackets_8c.html#ad5cafd5d90dc935d920faa6d34b3570a" title="Decode the ECU_TelemetrySlow1 packet." alt="" coords="11,69,217,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,218,281,170,252,145,221,124,197,112,199,107,224,119,256,141,284,166,329,215"/>
+<area shape="rect" id="Node000004" href="$ECUPackets_8c.html#a8700dfb61add9d1f3c6b5e9eedcdd5fe" title="Decode the ECU_TotalEngineTime packet." alt="" coords="9,133,219,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,224,222,188,187,176,188,171,224,183,308,219"/>
+<area shape="rect" id="Node000005" href="$ServoPackets_8c.html#ad4405fa117458f581af77f70fdbfb2ad" title="Decode the Servo_Address packet." alt="" coords="11,198,217,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="256,231,214,226,215,221,257,226"/>
+<area shape="rect" id="Node000006" href="$ServoPackets_8c.html#abb6bdb9e6bb456cd4fc824461776cd8d" title="Decode the Servo_Address packet." alt="" coords="11,248,217,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,253,218,258,217,253,257,248"/>
+<area shape="rect" id="Node000007" href="$scaleddecode_8c.html#a6236aa5906391280a0dd2a71c41314a1" title="Decode a float from a byte stream by inverse floating point scaling from 3 unsigned bytes in big endi..." alt="" coords="8,312,220,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="311,262,224,302,190,314,188,309,222,298,308,257"/>
+<area shape="rect" id="Node000008" href="$scaleddecode_8c.html#a12ff306b5f8cad8393198ca3ee9c5bd1" title="Decode a int32_t from a byte stream by inverse integer scaling from 3 unsigned bytes in big endian or..." alt="" coords="14,376,214,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="329,265,285,316,256,343,224,366,200,378,197,373,221,362,253,339,282,313,325,262"/>
+<area shape="rect" id="Node000009" href="$scaleddecode_8c.html#ad7c586b3c7d1b5dffa3c49a4fe27b7eb" title="Decode a uint32_t from a byte stream by inverse integer scaling from 3 unsigned bytes in big endian o..." alt="" coords="10,440,218,480"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="337,266,321,303,297,347,264,392,224,430,204,442,202,438,221,426,260,388,292,344,316,301,333,264"/>
+</map>

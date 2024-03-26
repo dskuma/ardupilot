@@ -1,0 +1,26 @@
+<map id="shape_pos_vel_accel" name="shape_pos_vel_accel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="931,174,1089,200"/>
+<area shape="rect" id="Node000002" href="$classAC__PosControl.html#aac7767196f350fc19e01e1bd1102abb6" title=" " alt="" coords="718,23,877,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,169,826,65,829,61,980,164"/>
+<area shape="rect" id="Node000005" href="$classAC__PosControl.html#a460ab5cfeac1ea4e9dcbad398c0bcaf6" title=" " alt="" coords="488,231,647,271"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="953,206,883,222,759,239,647,249,647,244,759,233,882,216,952,201"/>
+<area shape="rect" id="Node000007" href="$classAC__PosControl.html#ad87e71a2e7c54935777585c7f4ffec57" title="update_pos_offset_z &#45; updates the vertical offsets used by terrain following" alt="" coords="712,167,883,207"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="917,190,883,190,883,184,917,184"/>
+<area shape="rect" id="Node000003" href="$classAC__PosControl.html#aa86a3a68e62272f2aba5cde6485a7031" title=" " alt="" coords="485,23,649,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="704,46,649,46,649,40,704,40"/>
+<area shape="rect" id="Node000004" href="$classAC__Circle.html#a8ee0ff9ded0e7f2766431b35f91bb1cd" title="update &#45; update circle controller" alt="" coords="256,13,393,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="713,22,664,14,592,9,520,9,394,19,393,14,519,4,592,3,664,8,714,17"/>
+<area shape="rect" id="Node000006" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,202,179,242"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="474,248,179,230,179,224,475,243"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="712,213,640,234,639,228,711,208"/>
+<area shape="rect" id="Node000008" href="$classAC__WPNav.html#a603ec5c1a7654ccd9a227565cdbee275" title="advance_wp_target_along_track &#45; move target location along track from origin to destination" alt="" coords="476,167,659,207"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="698,190,659,190,659,184,698,184"/>
+<area shape="rect" id="Node000010" href="$classAC__PosControl.html#a33fde699ed47d800ff74d3e465506cde" title=" " alt="" coords="471,88,664,142"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="719,165,654,145,656,140,720,160"/>
+<area shape="rect" id="Node000009" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="227,181,423,206"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="463,193,423,194,423,188,462,187"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="213,210,179,214,178,209,213,204"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="479,85,360,41,362,36,480,80"/>
+<area shape="rect" id="Node000011" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="257,102,393,128"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="457,118,393,118,393,112,457,112"/>
+</map>

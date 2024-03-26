@@ -1,0 +1,11 @@
+<map id="AC_PosControl::get_roll_cd" name="AC_PosControl::get_roll_cd">
+<area shape="rect" id="Node000001" title="Outputs." alt="" coords="212,73,359,113"/>
+<area shape="rect" id="Node000002" href="$classAC__Circle.html#a509ae9e616c3ac9bf23b112b2cc2bc39" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="14,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,70,163,45,129,33,131,28,165,39,228,65"/>
+<area shape="rect" id="Node000003" href="$classAC__Loiter.html#a29713979050711ccc67a486f3692a5b1" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="14,55,155,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,84,155,79,156,74,199,79"/>
+<area shape="rect" id="Node000004" href="$classAC__WPNav.html#a09359f3f218efd8b5a39a8218a5ddea0" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="9,104,160,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,106,161,110,160,105,198,100"/>
+<area shape="rect" id="Node000005" href="$classAC__Loiter.html#a223b900f1c94d4b24b1a8941f52d79ca" title="initialize&#39;s position and feed&#45;forward velocity from current pos and velocity" alt="" coords="5,153,164,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,120,165,143,128,156,126,151,163,138,222,115"/>
+</map>

@@ -1,0 +1,58 @@
+<map id="_i2c_scl_low" name="_i2c_scl_low">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1328,280,1431,305"/>
+<area shape="rect" id="Node000002" href="$i2c__sw_8c.html#ab227f6b1a85d5d4a22c5d13cf9620fba" title=" " alt="" coords="1193,229,1280,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1329,278,1272,257,1274,252,1331,273"/>
+<area shape="rect" id="Node000014" href="$i2c__sw_8c.html#ab071acae707061582b9eb3c1a79ef84f" title=" " alt="" coords="578,155,701,180"/>
+<area shape="poly" id="edge33_Node000001_Node000014" title=" " alt="" coords="1356,272,1269,185,1209,136,1144,92,1091,65,1047,49,1002,38,942,29,843,10,801,11,751,28,713,55,684,91,662,127,648,156,643,153,657,125,679,88,710,52,748,24,800,6,843,4,943,23,1003,33,1049,44,1093,60,1147,88,1212,131,1273,181,1360,268"/>
+<area shape="rect" id="Node000016" href="$i2c__sw_8c.html#a64766e039e2b959a86b0daf404723215" title=" " alt="" coords="790,305,902,331"/>
+<area shape="poly" id="edge34_Node000001_Node000016" title=" " alt="" coords="1314,298,902,318,902,313,1314,293"/>
+<area shape="rect" id="Node000022" href="$i2c__sw_8c.html#ab98fce2c01c154197ac4fee0fdc2cc05" title=" " alt="" coords="792,355,900,380"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="1314,304,901,363,900,357,1314,299"/>
+<area shape="rect" id="Node000003" href="$i2c__sw_8c.html#a9e458f7e66bae83a4b7293833ea200f8" title=" " alt="" coords="595,255,684,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1180,247,684,268,684,263,1179,242"/>
+<area shape="rect" id="Node000013" href="$i2c__sw_8c.html#a119145afd8baedcadde4a4c9f5a112b8" title=" " alt="" coords="991,204,1145,229"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="1179,236,1145,231,1146,226,1180,231"/>
+<area shape="rect" id="Node000019" href="$group__drivers__periph__i2c.html#ga88cfeb1f124bff5994dcec3f3d793910" title="Initialize the given I2C bus." alt="" coords="1033,103,1103,128"/>
+<area shape="poly" id="edge27_Node000002_Node000019" title=" " alt="" coords="1206,223,1085,130,1088,126,1209,219"/>
+<area shape="rect" id="Node000004" href="$group__drivers__periph__i2c.html#gaee3ebf6dc831a91afb67f415e2684432" title="Convenience function for reading bytes from a device." alt="" coords="407,255,527,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,270,527,270,527,265,581,265"/>
+<area shape="rect" id="Node000009" href="$group__drivers__periph__i2c.html#ga5051aa259c80b7ccda04288f44efe71f" title="Convenience function for writing several bytes onto the bus." alt="" coords="405,205,529,231"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="581,253,512,233,513,228,582,248"/>
+<area shape="rect" id="Node000005" href="$group__drivers__periph__i2c.html#ga81892c4377781abc093395752ed3209b" title="Convenience function for reading one byte from a device." alt="" coords="203,304,317,329"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,286,315,307,314,301,399,281"/>
+<area shape="rect" id="Node000006" href="$group__drivers__periph__i2c.html#gaa5631bfa7696e4edcb0e25b90cb2ac21" title="Convenience function for reading several bytes from a given register address." alt="" coords="204,255,316,280"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="393,270,316,270,316,265,393,265"/>
+<area shape="rect" id="Node000008" href="$classESP32_1_1I2CDevice.html#acda87a68781e50471e6e8c20a7ec0541" title=" " alt="" coords="163,205,357,231"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="399,254,314,233,315,228,401,249"/>
+<area shape="rect" id="Node000007" href="$group__drivers__periph__i2c.html#ga223edc17aeddf3e261caaca9d06e5664" title="Convenience function for reading one byte from a given register address." alt="" coords="7,255,113,280"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="190,270,113,270,113,265,190,265"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="401,237,315,257,314,252,399,231"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="391,221,358,221,358,215,391,215"/>
+<area shape="rect" id="Node000010" href="$group__drivers__periph__i2c.html#ga1bdea58c7f2e4f08832dc6ba8f1a2be1" title="Convenience function for writing a single byte onto the bus." alt="" coords="201,156,319,181"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="399,205,314,184,315,179,401,200"/>
+<area shape="rect" id="Node000011" href="$group__drivers__periph__i2c.html#ga9bd61b70ce4c94bc42c6fe37fdfb5156" title="Convenience function for writing data to a given register address." alt="" coords="202,107,318,132"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="439,199,401,172,356,147,317,134,319,129,358,142,404,168,442,195"/>
+<area shape="rect" id="Node000012" href="$group__drivers__periph__i2c.html#gae8c4e544f489eb0abe0be1c3b0327cd2" title="Convenience function for writing one byte to a given register address." alt="" coords="5,107,115,132"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="188,122,115,122,115,117,188,117"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="976,205,942,201,701,175,701,170,943,195,977,200"/>
+<area shape="rect" id="Node000015" href="$i2c__sw_8c.html#acbe55377b54e054392d3eb8edb8f526b" title=" " alt="" coords="579,205,700,231"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="977,220,700,221,700,215,977,214"/>
+<area shape="poly" id="edge21_Node000013_Node000016" title=" " alt="" coords="1028,238,876,308,874,303,1026,233"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="592,188,579,196,565,209,556,221,546,233,531,246,510,257,507,252,528,241,542,229,551,217,561,205,576,192,589,184"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="583,187,512,208,511,203,581,182"/>
+<area shape="poly" id="edge19_Node000015_Node000004" title=" " alt="" coords="582,237,513,257,512,252,581,232"/>
+<area shape="poly" id="edge20_Node000015_Node000009" title=" " alt="" coords="565,221,530,221,530,215,565,215"/>
+<area shape="rect" id="Node000017" href="$i2c__sw_8c.html#a9b0647fa634c4187e8e0f24a4b273370" title=" " alt="" coords="579,353,699,379"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="778,336,695,356,694,351,777,331"/>
+<area shape="rect" id="Node000018" href="$i2c__sw_8c.html#abfae32d084f61f89f5ff8678bb4681d8" title=" " alt="" coords="577,304,701,329"/>
+<area shape="poly" id="edge24_Node000016_Node000018" title=" " alt="" coords="776,320,702,320,702,314,777,315"/>
+<area shape="poly" id="edge23_Node000017_Node000004" title=" " alt="" coords="588,350,576,344,524,312,483,282,486,278,527,308,579,340,590,345"/>
+<area shape="poly" id="edge25_Node000018_Node000004" title=" " alt="" coords="581,303,512,283,513,278,582,298"/>
+<area shape="poly" id="edge26_Node000018_Node000009" title=" " alt="" coords="585,300,576,295,561,282,551,270,542,258,528,246,505,233,507,228,531,241,546,254,555,266,565,278,579,291,588,296"/>
+<area shape="rect" id="Node000020" href="$classESP32_1_1I2CDeviceManager.html#ae339d9be7bdce3f514b74f99ae879dfa" title=" " alt="" coords="749,38,943,78"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="1019,106,923,81,925,75,1021,101"/>
+<area shape="rect" id="Node000021" href="$ICM20789_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="817,103,875,128"/>
+<area shape="poly" id="edge29_Node000019_Node000021" title=" " alt="" coords="1019,118,876,118,876,113,1019,113"/>
+<area shape="poly" id="edge31_Node000022_Node000017" title=" " alt="" coords="778,370,700,369,700,364,778,364"/>
+<area shape="poly" id="edge32_Node000022_Node000018" title=" " alt="" coords="779,354,691,332,692,327,781,349"/>
+</map>

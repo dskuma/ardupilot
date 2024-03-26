@@ -1,0 +1,93 @@
+<map id="AP_InertialSensor_ADIS1647x::update" name="AP_InertialSensor_ADIS1647x::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,705,220,745"/>
+<area shape="rect" id="Node000002" href="$classAP__InertialSensor__Backend.html#a97dc76b814691f3cf2cd3cd8ce7fdade" title=" " alt="" coords="268,613,467,653"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,703,297,656,299,661,170,708"/>
+<area shape="rect" id="Node000038" href="$classAP__InertialSensor__Backend.html#a0f4714d809faf5262faf0239b3864bd5" title=" " alt="" coords="268,769,467,809"/>
+<area shape="poly" id="edge42_Node000001_Node000038" title=" " alt="" coords="194,743,275,763,273,769,192,748"/>
+<area shape="rect" id="Node000003" href="$classAP__InertialSensor__Backend.html#a1c06b8b61f4565cf8dd89fbf89924120" title=" " alt="" coords="515,549,713,589"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,611,523,590,524,595,446,616"/>
+<area shape="rect" id="Node000004" href="$classAP__InertialSensor__Backend.html#a22c62b02745b6844e9d2c3459bf50a68" title=" " alt="" coords="515,613,713,653"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="467,631,501,631,501,636,467,636"/>
+<area shape="rect" id="Node000005" href="$classAP__InertialSensor__Backend.html#a523c61a47a111426d88de34c13a49a29" title=" " alt="" coords="515,485,713,525"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="393,611,447,573,513,535,529,528,532,533,516,540,450,578,396,615"/>
+<area shape="rect" id="Node000035" href="$classLowPassFilter2p.html#ac6157f65625e34dec2f7af4474dfb923" title=" " alt="" coords="537,677,691,717"/>
+<area shape="poly" id="edge39_Node000002_Node000035" title=" " alt="" coords="446,651,524,671,523,676,445,656"/>
+<area shape="rect" id="Node000006" href="$classAccelCalibrator.html#a6a1dabb3c4a2e7d16cfafd6943dd529d" title=" " alt="" coords="785,421,936,461"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="691,483,771,462,773,467,693,488"/>
+<area shape="rect" id="Node000007" href="$classAccelCalibrator.html#a32fa0d479b35c9ca0283542a6420b7cf" title=" " alt="" coords="783,485,939,525"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="714,503,769,503,769,508,714,508"/>
+<area shape="rect" id="Node000031" href="$classVector3.html#aea2118489e224823ebc77519739988dd" title=" " alt="" coords="774,606,947,631"/>
+<area shape="poly" id="edge35_Node000005_Node000031" title=" " alt="" coords="684,523,714,535,776,566,829,596,826,601,774,570,712,540,682,528"/>
+<area shape="rect" id="Node000034" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="807,655,914,681"/>
+<area shape="poly" id="edge38_Node000005_Node000034" title=" " alt="" coords="698,523,715,535,727,549,734,563,739,591,745,617,752,630,763,642,795,658,793,663,760,646,747,633,740,619,734,592,729,565,723,552,712,539,695,528"/>
+<area shape="rect" id="Node000008" href="$classAccelCalibrator.html#aa57c1a456f515d2a85e83ca0efa7129a" title=" " alt="" coords="1010,495,1182,535"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="939,506,996,508,996,513,939,511"/>
+<area shape="rect" id="Node000009" href="$classAccelCalibrator.html#abb7fc0441ba375be7f5b4104c8a031c1" title=" " alt="" coords="1010,343,1182,383"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="938,484,958,471,974,453,982,433,989,413,1006,393,1013,388,1016,392,1010,397,994,416,987,435,979,455,962,475,941,488"/>
+<area shape="rect" id="Node000011" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="1269,559,1385,585"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="923,523,1008,544,1139,561,1256,568,1255,573,1139,566,1008,549,922,528"/>
+<area shape="rect" id="Node000018" href="$classAccelCalibrator.html#add787b3abf29b965e5c6946516c45a04" title=" " alt="" coords="1011,198,1181,223"/>
+<area shape="poly" id="edge17_Node000007_Node000018" title=" " alt="" coords="937,486,958,471,972,455,981,439,988,406,992,371,1006,330,1039,276,1072,233,1076,236,1043,279,1010,332,997,372,993,407,986,440,977,458,962,475,940,490"/>
+<area shape="rect" id="Node000025" href="$classAccelCalibrator.html#a2243497b1553a96ec4589da2489ad379" title=" " alt="" coords="1021,431,1171,471"/>
+<area shape="poly" id="edge27_Node000007_Node000025" title=" " alt="" coords="938,485,1007,468,1009,474,939,490"/>
+<area shape="rect" id="Node000010" href="$classAccelCalibrator.html#af8d0574188598eae96b08857480ad453" title=" " alt="" coords="1473,292,1623,332"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1182,353,1422,328,1459,323,1460,328,1423,333,1182,358"/>
+<area shape="rect" id="Node000012" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="1499,559,1597,585"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1385,569,1485,569,1485,575,1385,575"/>
+<area shape="rect" id="Node000013" href="$hrt_8c.html#a7dd7d90aadd8f76f26da7d5abfad6fe8" title=" " alt="" coords="1676,559,1775,585"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1598,569,1662,569,1662,575,1598,575"/>
+<area shape="rect" id="Node000014" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="1833,534,1940,559"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1774,562,1819,555,1820,560,1775,567"/>
+<area shape="rect" id="Node000017" href="$div1000_8h.html#aece9e7f123414c41d0426fbadca097d8" title=" " alt="" coords="1825,583,1948,609"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="1775,577,1812,582,1811,587,1774,582"/>
+<area shape="rect" id="Node000015" href="$hrt_8c.html#a5b4ffc7ff86bd5b893c4a98834e80200" title=" " alt="" coords="1996,510,2107,535"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1940,536,1982,530,1983,535,1941,542"/>
+<area shape="rect" id="Node000016" href="$hrt_8c.html#a723fef85be7bacb834af35445a891c18" title=" " alt="" coords="2010,559,2093,585"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="1941,552,1997,561,1996,566,1940,557"/>
+<area shape="poly" id="edge25_Node000018_Node000010" title=" " alt="" coords="1136,221,1233,249,1351,275,1460,295,1459,301,1350,281,1231,255,1134,226"/>
+<area shape="rect" id="Node000019" href="$classAccelCalibrator.html#a1e5a725c1a4b4df4a14372d49c20dbeb" title=" " alt="" coords="1250,69,1405,109"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1112,196,1163,159,1231,119,1246,112,1249,117,1233,124,1166,163,1115,200"/>
+<area shape="rect" id="Node000020" href="$classAccelCalibrator.html#a653b8264d41b2939ffd66021bcc51efc" title=" " alt="" coords="1232,5,1423,45"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="1103,196,1151,130,1188,90,1230,55,1240,49,1243,54,1234,60,1192,94,1155,133,1107,200"/>
+<area shape="rect" id="Node000021" href="$classAccelCalibrator.html#a5312d7144403c18866ad2b6c7e9464f0" title=" " alt="" coords="1471,145,1625,185"/>
+<area shape="poly" id="edge23_Node000018_Node000021" title=" " alt="" coords="1144,221,1201,233,1271,242,1347,243,1385,239,1422,232,1467,214,1507,191,1510,196,1470,219,1423,237,1386,245,1347,248,1270,247,1200,238,1143,226"/>
+<area shape="rect" id="Node000023" href="$classAccelCalibrator.html#ac296f9ff2412d12b09c47b6bdc186c61" title=" " alt="" coords="1252,133,1403,173"/>
+<area shape="poly" id="edge24_Node000018_Node000023" title=" " alt="" coords="1147,195,1238,173,1240,178,1149,201"/>
+<area shape="rect" id="Node000024" href="$AP__Math_8h.html#af69d1a89ae71588659f2e63b82c5dfeb" title=" " alt="" coords="1276,198,1379,223"/>
+<area shape="poly" id="edge26_Node000018_Node000024" title=" " alt="" coords="1182,208,1262,208,1262,213,1182,213"/>
+<area shape="poly" id="edge21_Node000020_Node000010" title=" " alt="" coords="1409,43,1425,55,1439,73,1448,90,1456,122,1460,157,1473,196,1498,241,1525,280,1521,283,1494,243,1468,198,1455,158,1451,123,1443,91,1435,76,1421,59,1405,47"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="1399,43,1424,55,1477,93,1521,134,1517,137,1474,97,1421,60,1397,48"/>
+<area shape="rect" id="Node000022" href="$AP__Math_8h.html#a34f41fcf2bc527b1728ae04423dfba46" title=" " alt="" coords="1529,13,1567,38"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="1423,23,1515,23,1515,28,1423,28"/>
+<area shape="poly" id="edge32_Node000025_Node000011" title=" " alt="" coords="1164,468,1186,480,1201,494,1210,508,1219,521,1234,534,1269,552,1266,557,1230,538,1215,524,1206,511,1197,498,1182,485,1161,473"/>
+<area shape="poly" id="edge34_Node000025_Node000025" title=" " alt="" coords="1053,431,1051,421,1057,412,1073,406,1096,404,1123,407,1137,414,1135,419,1121,412,1096,409,1074,411,1061,416,1056,422,1058,430"/>
+<area shape="rect" id="Node000026" href="$malloc_8c.html#a2807e26a012717736641384f91ab2563" title=" " alt="" coords="1297,499,1357,525"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="1172,468,1284,498,1283,503,1170,473"/>
+<area shape="rect" id="Node000029" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="1303,401,1351,426"/>
+<area shape="poly" id="edge31_Node000025_Node000029" title=" " alt="" coords="1171,436,1289,417,1290,422,1171,441"/>
+<area shape="rect" id="Node000030" href="$classAccelCalibrator.html#a0689e99155c87b32bd0fa72402e297a1" title=" " alt="" coords="1238,450,1417,475"/>
+<area shape="poly" id="edge33_Node000025_Node000030" title=" " alt="" coords="1171,452,1224,455,1224,460,1171,457"/>
+<area shape="rect" id="Node000027" href="$malloc_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title=" " alt="" coords="1515,499,1581,525"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="1358,509,1501,509,1501,515,1358,515"/>
+<area shape="rect" id="Node000028" href="$malloc_8c.html#ad8aac7aa28f6dea23cb5bc9c3268e330" title=" " alt="" coords="1673,499,1777,525"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="1581,509,1660,509,1660,515,1581,515"/>
+<area shape="rect" id="Node000032" href="$classMatrix3.html#aa39c6a81d6ba09446739ec82c168556b" title=" " alt="" coords="1008,610,1184,635"/>
+<area shape="poly" id="edge36_Node000031_Node000032" title=" " alt="" coords="948,617,994,618,994,624,948,623"/>
+<area shape="rect" id="Node000033" href="$classVector3.html#aa89a62959f071f001dfe23dd58599d78" title=" " alt="" coords="1037,659,1155,685"/>
+<area shape="poly" id="edge37_Node000031_Node000033" title=" " alt="" coords="918,629,1027,654,1025,659,917,634"/>
+<area shape="rect" id="Node000036" href="$classDigitalBiquadFilter.html#a04934227f74d578b794f779505dc285c" title=" " alt="" coords="789,705,932,745"/>
+<area shape="poly" id="edge40_Node000035_Node000036" title=" " alt="" coords="692,703,776,713,775,718,691,709"/>
+<area shape="rect" id="Node000037" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="1050,713,1142,738"/>
+<area shape="poly" id="edge41_Node000036_Node000037" title=" " alt="" coords="932,723,1036,723,1036,728,932,728"/>
+<area shape="poly" id="edge49_Node000038_Node000035" title=" " alt="" coords="414,767,514,727,535,719,537,724,516,732,416,772"/>
+<area shape="rect" id="Node000039" href="$classAP__InertialSensor__Backend.html#a59097fa5de1bd4e2f7f6be5af59655f5" title=" " alt="" coords="515,856,713,896"/>
+<area shape="poly" id="edge43_Node000038_Node000039" title=" " alt="" coords="426,807,544,849,542,854,424,812"/>
+<area shape="rect" id="Node000040" href="$classAP__InertialSensor__Backend.html#afdd78543c893ea81747541957c208fa7" title=" " alt="" coords="515,920,713,960"/>
+<area shape="poly" id="edge44_Node000038_Node000040" title=" " alt="" coords="390,808,445,856,479,883,516,906,529,912,527,917,513,910,476,887,441,860,387,812"/>
+<area shape="rect" id="Node000041" href="$classAP__InertialSensor__Backend.html#ab87bfb3044d9424c700b6def136a3a6a" title=" " alt="" coords="515,741,713,781"/>
+<area shape="poly" id="edge45_Node000038_Node000041" title=" " alt="" coords="467,775,501,771,501,777,467,781"/>
+<area shape="rect" id="Node000042" href="$classAP__InertialSensor__Backend.html#a2cb5f7c79466358c74cb9a5497c5cc5b" title=" " alt="" coords="761,788,960,828"/>
+<area shape="poly" id="edge47_Node000038_Node000042" title=" " alt="" coords="467,790,747,801,747,806,467,796"/>
+<area shape="poly" id="edge46_Node000041_Node000034" title=" " alt="" coords="686,739,712,727,736,709,760,691,793,679,795,684,763,696,739,713,715,732,688,744"/>
+<area shape="poly" id="edge48_Node000042_Node000011" title=" " alt="" coords="960,806,1014,801,1071,791,1129,774,1183,748,1226,714,1263,673,1291,631,1312,596,1316,598,1296,634,1267,676,1230,718,1185,753,1131,779,1073,796,1014,806,960,811"/>
+</map>

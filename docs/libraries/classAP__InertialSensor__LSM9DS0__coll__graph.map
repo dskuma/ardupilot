@@ -1,0 +1,136 @@
+<map id="AP_InertialSensor_LSM9DS0" name="AP_InertialSensor_LSM9DS0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2120,1863,2324,1888"/>
+<area shape="rect" id="Node000002" href="$classAP__InertialSensor__Backend.html" title=" " alt="" coords="1749,1727,1948,1752"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1928,1753,2010,1774,2097,1804,2155,1832,2202,1860,2200,1865,2153,1837,2095,1808,2009,1779,1926,1758"/>
+<area shape="rect" id="Node000003" href="$classAP__InertialSensor.html" title=" " alt="" coords="2154,1487,2290,1512"/>
+<area shape="poly" id="edge13_Node000003_Node000002" title=" " alt="" coords="1939,1722,2036,1703,2095,1686,2118,1667,2139,1645,2174,1595,2199,1547,2214,1511,2219,1513,2204,1549,2179,1598,2143,1648,2122,1671,2097,1691,2038,1708,1940,1727"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2218,1526,2206,1574,2183,1633,2167,1663,2148,1691,2125,1717,2097,1738,2073,1750,2048,1758,1994,1764,1942,1762,1897,1755,1898,1749,1943,1757,1994,1759,2046,1753,2071,1745,2095,1733,2121,1713,2144,1688,2163,1660,2178,1631,2201,1572,2213,1525"/>
+<area shape="poly" id="edge22_Node000003_Node000003" title=" " alt="" coords="2186,1472,2196,1464,2222,1460,2243,1462,2256,1468,2259,1478,2253,1488,2249,1485,2254,1478,2252,1472,2242,1467,2222,1465,2198,1468,2189,1476"/>
+<area shape="rect" id="Node000004" href="$classAP__AccelCal__Client.html" title=" " alt="" coords="1318,807,1465,832"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1478,803,1580,794,1640,794,1703,797,1767,806,1831,820,1892,842,1949,872,1991,902,2028,937,2060,977,2089,1019,2136,1111,2171,1206,2195,1297,2210,1379,2223,1486,2217,1487,2205,1380,2190,1298,2166,1207,2132,1113,2085,1022,2056,980,2024,941,1987,906,1947,876,1890,847,1829,825,1766,811,1702,803,1640,799,1581,800,1479,808"/>
+<area shape="rect" id="Node000018" href="$classAP__AccelCal.html" title=" " alt="" coords="1797,887,1900,912"/>
+<area shape="poly" id="edge60_Node000018_Node000004" title=" " alt="" coords="1464,833,1492,841,1515,850,1798,890,1797,895,1514,855,1490,846,1463,838"/>
+<area shape="rect" id="Node000005" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,1581,164,1607"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="178,1591,424,1591,1163,1591,1444,1587,1725,1566,1961,1538,2153,1508,2154,1513,1962,1543,1726,1571,1445,1593,1163,1597,424,1597,178,1597"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="55,1567,64,1558,85,1555,102,1557,112,1563,115,1573,110,1583,105,1580,110,1572,108,1567,100,1562,85,1560,67,1563,59,1571"/>
+<area shape="rect" id="Node000007" href="$classHarmonicNotchFilterParams.html" title=" " alt="" coords="323,1632,527,1657"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="132,1609,189,1625,256,1635,323,1640,323,1645,256,1640,187,1630,130,1614"/>
+<area shape="rect" id="Node000024" href="$structAP__Param_1_1Info.html" title=" " alt="" coords="365,1349,485,1375"/>
+<area shape="poly" id="edge31_Node000024_Node000005" title=" " alt="" coords="112,1571,305,1433,401,1373,404,1377,308,1438,116,1575"/>
+<area shape="rect" id="Node000006" href="$classAP__InertialSensor_1_1HarmonicNotch.html" title=" " alt="" coords="1777,1598,1921,1638"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1934,1618,2014,1612,2055,1604,2095,1592,2129,1574,2161,1552,2207,1510,2210,1514,2164,1556,2132,1579,2097,1596,2057,1609,2014,1617,1934,1624"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="541,1642,868,1641,1268,1635,1776,1618,1777,1624,1268,1641,868,1646,541,1647"/>
+<area shape="rect" id="Node000008" href="$classNotchFilterParams.html" title=" " alt="" coords="14,1660,155,1685"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="169,1663,323,1650,323,1656,169,1668"/>
+<area shape="rect" id="Node000009" href="$classHarmonicNotchFilter.html" title=" " alt="" coords="1313,1517,1469,1557"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="1484,1550,1777,1603,1776,1608,1483,1555"/>
+<area shape="rect" id="Node000010" href="$classNotchFilter.html" title=" " alt="" coords="828,1528,1005,1553"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1019,1537,1313,1535,1313,1540,1019,1542"/>
+<area shape="rect" id="Node000011" href="$classVector3.html" title=" " alt="" coords="371,1448,480,1473"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="456,1479,507,1509,537,1524,569,1534,635,1546,704,1552,769,1552,828,1548,828,1554,769,1557,703,1557,635,1552,567,1539,535,1528,505,1514,453,1483"/>
+<area shape="rect" id="Node000014" href="$classDigitalBiquadFilter.html" title=" " alt="" coords="845,1397,988,1437"/>
+<area shape="poly" id="edge17_Node000014_Node000011" title=" " alt="" coords="493,1451,568,1443,845,1420,845,1425,568,1449,494,1456"/>
+<area shape="rect" id="Node000016" href="$classDigitalLPF.html" title=" " alt="" coords="831,1464,1003,1489"/>
+<area shape="poly" id="edge20_Node000016_Node000011" title=" " alt="" coords="494,1460,831,1471,830,1477,494,1466"/>
+<area shape="rect" id="Node000012" href="$classVector3.html" title=" " alt="" coords="360,80,491,105"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="458,110,535,156,645,211,709,236,777,256,846,270,915,275,1850,275,1875,279,1899,288,1922,303,1944,323,1984,377,2021,447,2054,531,2084,625,2110,727,2134,833,2171,1046,2198,1242,2222,1486,2217,1487,2192,1243,2166,1047,2128,834,2105,728,2079,627,2049,533,2016,450,1980,380,1940,326,1919,307,1897,293,1874,284,1850,281,915,281,845,276,775,262,708,241,643,216,532,161,455,115"/>
+<area shape="rect" id="Node000046" href="$structAccelCalibrator_1_1AccelSample.html" title=" " alt="" coords="1055,5,1268,31"/>
+<area shape="poly" id="edge63_Node000046_Node000012" title=" " alt="" coords="470,73,516,57,567,45,698,27,829,16,952,12,1054,12,1054,18,952,18,830,22,698,32,569,50,518,62,472,78"/>
+<area shape="rect" id="Node000048" href="$structAccelCalibrator_1_1param__t.html" title=" " alt="" coords="825,67,1008,92"/>
+<area shape="poly" id="edge66_Node000048_Node000012" title=" " alt="" coords="505,92,633,92,779,89,825,86,825,91,779,94,633,97,505,97"/>
+<area shape="rect" id="Node000013" href="$classLowPassFilter2p.html" title=" " alt="" coords="1515,1408,1725,1433"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="1739,1424,1841,1432,1948,1443,2065,1463,2166,1484,2165,1489,2064,1468,1948,1449,1841,1437,1739,1429"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1002,1414,1514,1417,1514,1423,1002,1420"/>
+<area shape="rect" id="Node000015" href="$classLowPassFilter.html" title=" " alt="" coords="1523,1480,1717,1505"/>
+<area shape="poly" id="edge18_Node000003_Node000015" title=" " alt="" coords="1731,1491,2154,1496,2154,1501,1731,1497"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1016,1476,1522,1488,1522,1493,1016,1482"/>
+<area shape="rect" id="Node000017" href="$structAP__InertialSensor_1_1PeakHoldState.html" title=" " alt="" coords="1777,1662,1921,1702"/>
+<area shape="poly" id="edge21_Node000003_Node000017" title=" " alt="" coords="1934,1671,2027,1657,2067,1647,2095,1637,2134,1608,2168,1573,2211,1511,2215,1514,2172,1576,2138,1612,2097,1642,2068,1653,2028,1662,1935,1676"/>
+<area shape="poly" id="edge23_Node000003_Node000018" title=" " alt="" coords="1867,922,2215,1485,2210,1488,1863,925"/>
+<area shape="rect" id="Node000019" href="$classGCS__MAVLINK.html" title="MAVLink transport control class." alt="" coords="1334,856,1449,881"/>
+<area shape="poly" id="edge24_Node000018_Node000019" title=" " alt="" coords="1449,882,1515,895,1592,902,1669,904,1797,900,1797,905,1669,909,1591,907,1514,901,1448,888"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="845,415,988,440"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="1002,417,1077,413,1156,414,1225,423,1251,432,1270,444,1280,459,1287,478,1293,525,1291,581,1285,643,1279,704,1276,761,1280,809,1286,827,1294,842,1312,856,1334,864,1333,869,1309,860,1290,845,1281,829,1275,810,1271,761,1274,704,1280,642,1286,581,1288,525,1282,479,1276,461,1266,448,1249,437,1223,428,1155,420,1077,419,1002,422"/>
+<area shape="rect" id="Node000021" href="$structGCS__MAVLINK_1_1stream__entries.html" title=" " alt="" coords="832,465,1001,505"/>
+<area shape="poly" id="edge26_Node000019_Node000021" title=" " alt="" coords="1015,463,1079,459,1148,464,1182,472,1214,484,1244,501,1270,523,1284,550,1289,588,1284,683,1279,778,1282,815,1294,842,1312,856,1335,864,1333,869,1310,860,1290,845,1277,817,1273,778,1279,683,1283,588,1279,552,1266,526,1241,505,1212,489,1180,477,1147,469,1079,464,1015,468"/>
+<area shape="rect" id="Node000022" href="$classAP__Param.html" title=" " alt="" coords="873,1276,960,1301"/>
+<area shape="poly" id="edge27_Node000019_Node000022" title=" " alt="" coords="951,1267,999,1243,1054,1222,1087,1215,1116,1213,1168,1218,1192,1218,1216,1216,1240,1207,1266,1189,1300,1155,1327,1114,1348,1069,1363,1023,1381,938,1387,881,1392,882,1386,939,1369,1024,1353,1071,1332,1116,1304,1158,1270,1193,1242,1211,1217,1221,1192,1224,1168,1223,1116,1219,1087,1220,1055,1227,1001,1248,953,1272"/>
+<area shape="poly" id="edge28_Node000022_Node000022" title=" " alt="" coords="869,1264,873,1258,882,1253,917,1249,944,1252,960,1258,965,1268,956,1278,952,1274,959,1267,957,1262,943,1257,917,1255,884,1258,876,1262,873,1267"/>
+<area shape="rect" id="Node000025" href="$structAP__Param_1_1param__override.html" title=" " alt="" coords="1292,1224,1491,1249"/>
+<area shape="poly" id="edge33_Node000025_Node000022" title=" " alt="" coords="974,1291,1109,1294,1189,1290,1267,1279,1319,1265,1363,1247,1365,1252,1320,1270,1269,1285,1189,1295,1109,1299,974,1296"/>
+<area shape="rect" id="Node000028" href="$structAP__Param_1_1defaults__list.html" title=" " alt="" coords="1304,1336,1479,1361"/>
+<area shape="poly" id="edge37_Node000028_Node000022" title=" " alt="" coords="948,1307,997,1335,1055,1358,1126,1369,1199,1371,1267,1366,1325,1359,1326,1364,1267,1372,1199,1376,1126,1375,1054,1363,994,1340,945,1311"/>
+<area shape="rect" id="Node000023" href="$classStorageAccess.html" title=" " alt="" coords="367,1135,484,1160"/>
+<area shape="poly" id="edge57_Node000019_Node000023" title=" " alt="" coords="498,1143,690,1137,931,1126,1147,1108,1224,1096,1267,1082,1293,1062,1315,1036,1350,978,1373,922,1385,881,1390,883,1378,924,1355,981,1320,1039,1297,1065,1269,1087,1225,1101,1148,1113,931,1132,690,1143,498,1149"/>
+<area shape="poly" id="edge29_Node000022_Node000023" title=" " alt="" coords="481,1161,569,1185,628,1195,674,1199,721,1205,780,1219,844,1246,895,1273,893,1278,841,1251,778,1225,720,1210,674,1204,627,1200,567,1190,479,1167"/>
+<area shape="poly" id="edge30_Node000022_Node000024" title=" " alt="" coords="499,1349,873,1292,874,1298,499,1354"/>
+<area shape="poly" id="edge32_Node000022_Node000025" title=" " alt="" coords="1278,1246,1055,1267,961,1283,960,1278,1054,1262,1278,1241"/>
+<area shape="rect" id="Node000026" href="$classObjectBuffer__TS.html" title=" " alt="" coords="328,1202,523,1242"/>
+<area shape="poly" id="edge34_Node000022_Node000026" title=" " alt="" coords="537,1234,873,1280,873,1286,536,1240"/>
+<area shape="rect" id="Node000027" href="$classByteBuffer.html" title=" " alt="" coords="39,829,130,855"/>
+<area shape="poly" id="edge35_Node000026_Node000027" title=" " alt="" coords="91,868,100,920,117,986,146,1057,166,1089,190,1119,222,1146,258,1169,297,1186,335,1199,333,1204,295,1191,256,1173,219,1151,186,1123,162,1092,142,1059,112,988,95,921,86,869"/>
+<area shape="rect" id="Node000039" href="$classObjectBuffer.html" title=" " alt="" coords="568,554,779,594"/>
+<area shape="poly" id="edge51_Node000039_Node000027" title=" " alt="" coords="111,819,195,757,249,723,305,692,379,660,454,632,589,591,591,597,456,637,381,664,308,696,252,727,198,762,114,823"/>
+<area shape="rect" id="Node000040" href="$classObjectBuffer.html" title=" " alt="" coords="568,1057,779,1097"/>
+<area shape="poly" id="edge53_Node000040_Node000027" title=" " alt="" coords="105,864,138,906,184,957,242,1007,274,1029,308,1046,372,1068,440,1080,507,1084,568,1084,568,1089,507,1090,440,1085,371,1073,306,1051,271,1033,239,1011,180,961,133,910,101,868"/>
+<area shape="rect" id="Node000042" href="$classObjectBuffer.html" title=" " alt="" coords="320,443,531,483"/>
+<area shape="poly" id="edge56_Node000042_Node000027" title=" " alt="" coords="88,815,98,767,117,707,146,642,164,612,186,584,225,549,269,520,315,498,357,481,359,486,317,503,272,525,228,553,190,588,169,615,150,645,122,709,103,769,93,816"/>
+<area shape="poly" id="edge36_Node000022_Node000028" title=" " alt="" coords="1290,1345,1177,1336,1054,1321,960,1302,961,1296,1055,1315,1177,1330,1291,1340"/>
+<area shape="poly" id="edge38_Node000028_Node000028" title=" " alt="" coords="1347,1323,1359,1313,1391,1309,1417,1312,1432,1318,1436,1328,1428,1338,1424,1334,1431,1327,1428,1322,1416,1317,1391,1315,1361,1318,1351,1327"/>
+<area shape="rect" id="Node000029" href="$classAP__SerialManager_1_1UARTState.html" title=" " alt="" coords="808,1188,1025,1213"/>
+<area shape="poly" id="edge39_Node000019_Node000029" title=" " alt="" coords="993,1183,1054,1171,1164,1164,1225,1157,1249,1150,1266,1141,1297,1113,1322,1079,1342,1041,1357,1003,1377,931,1386,881,1391,882,1383,933,1362,1005,1347,1044,1326,1081,1301,1116,1270,1146,1251,1155,1226,1162,1165,1169,1055,1177,993,1188"/>
+<area shape="rect" id="Node000030" href="$structGCS__MAVLINK_1_1LastRadioStatus.html" title=" " alt="" coords="803,316,1031,341"/>
+<area shape="poly" id="edge40_Node000019_Node000030" title=" " alt="" coords="1045,320,1112,320,1178,325,1233,336,1255,345,1270,356,1277,368,1281,388,1285,444,1284,600,1282,755,1285,812,1294,842,1312,856,1335,864,1333,869,1310,861,1290,845,1280,813,1276,755,1279,599,1280,444,1276,389,1272,370,1266,360,1252,350,1232,342,1177,331,1112,326,1045,325"/>
+<area shape="rect" id="Node000031" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="839,707,994,732"/>
+<area shape="poly" id="edge41_Node000019_Node000031" title=" " alt="" coords="1008,710,1071,712,1140,722,1208,743,1240,760,1270,780,1281,796,1283,812,1285,827,1294,841,1313,853,1335,861,1333,866,1310,858,1290,845,1280,829,1278,813,1276,798,1266,784,1238,764,1206,748,1139,727,1070,717,1007,715"/>
+<area shape="rect" id="Node000032" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="342,707,509,732"/>
+<area shape="poly" id="edge42_Node000031_Node000032" title=" " alt="" coords="523,717,839,717,839,722,523,722"/>
+<area shape="rect" id="Node000033" href="$structAP__Param_1_1ParamToken.html" title=" " alt="" coords="830,592,1003,617"/>
+<area shape="poly" id="edge43_Node000019_Node000033" title=" " alt="" coords="982,587,1049,578,1127,578,1166,584,1204,595,1239,612,1270,636,1288,661,1294,687,1291,713,1285,739,1278,765,1275,791,1279,816,1294,842,1312,855,1335,863,1333,868,1310,860,1290,845,1274,818,1269,791,1273,764,1279,738,1286,712,1288,688,1283,664,1266,640,1236,616,1202,600,1165,589,1126,583,1050,583,982,592"/>
+<area shape="rect" id="Node000034" href="$structGCS__MAVLINK_1_1deferred__message__t.html" title=" " alt="" coords="827,642,1006,682"/>
+<area shape="poly" id="edge44_Node000019_Node000034" title=" " alt="" coords="1020,655,1092,656,1165,661,1228,672,1252,681,1270,692,1284,710,1289,730,1284,768,1279,805,1282,824,1294,842,1312,855,1335,863,1333,868,1310,860,1290,845,1278,826,1273,806,1279,767,1283,730,1279,713,1266,696,1250,685,1227,677,1164,666,1092,661,1020,661"/>
+<area shape="rect" id="Node000035" href="$structGCS__MAVLINK_1_1deferred__message__bucket__t.html" title=" " alt="" coords="827,849,1006,889"/>
+<area shape="poly" id="edge45_Node000019_Node000035" title=" " alt="" coords="1020,866,1334,866,1334,871,1020,871"/>
+<area shape="rect" id="Node000036" href="$classBitmask.html" title=" " alt="" coords="337,815,513,840"/>
+<area shape="poly" id="edge47_Node000019_Node000036" title=" " alt="" coords="527,819,568,818,765,814,919,816,1072,826,1268,846,1334,856,1333,861,1268,851,1072,832,919,822,765,820,568,823,527,825"/>
+<area shape="poly" id="edge46_Node000035_Node000036" title=" " alt="" coords="527,833,828,859,827,864,527,838"/>
+<area shape="rect" id="Node000037" href="$classMAVLink__routing.html" title=" " alt="" coords="851,1012,982,1037"/>
+<area shape="poly" id="edge48_Node000019_Node000037" title=" " alt="" coords="996,1029,1057,1029,1127,1025,1199,1012,1267,988,1304,964,1336,934,1380,880,1384,883,1340,938,1307,968,1269,992,1200,1017,1127,1030,1057,1035,996,1034"/>
+<area shape="rect" id="Node000038" href="$structMAVLink__routing_1_1route.html" title=" " alt="" coords="339,1012,512,1037"/>
+<area shape="poly" id="edge49_Node000037_Node000038" title=" " alt="" coords="526,1022,851,1022,851,1027,526,1027"/>
+<area shape="poly" id="edge50_Node000019_Node000039" title=" " alt="" coords="792,560,930,550,1078,543,1202,544,1245,550,1270,560,1283,583,1288,617,1285,701,1280,785,1284,819,1294,842,1312,856,1335,863,1333,869,1310,860,1290,845,1279,820,1275,785,1279,700,1283,617,1278,585,1266,564,1244,555,1202,550,1079,548,931,555,792,566"/>
+<area shape="poly" id="edge52_Node000019_Node000040" title=" " alt="" coords="793,1078,919,1080,1057,1075,1182,1062,1231,1050,1267,1036,1289,1020,1310,1001,1343,957,1368,914,1383,881,1387,883,1373,916,1348,960,1314,1004,1293,1024,1269,1040,1232,1056,1182,1067,1058,1081,919,1085,793,1084"/>
+<area shape="rect" id="Node000041" href="$structGCS__MAVLINK_1_1ftp__state.html" title=" " alt="" coords="827,365,1007,391"/>
+<area shape="poly" id="edge54_Node000019_Node000041" title=" " alt="" coords="1021,371,1093,372,1166,377,1229,389,1253,399,1270,411,1281,427,1288,447,1294,499,1291,560,1285,626,1278,693,1275,754,1279,806,1285,826,1294,842,1312,856,1334,864,1333,869,1309,860,1290,845,1280,828,1274,807,1269,755,1273,693,1279,626,1286,560,1289,499,1283,449,1276,429,1266,415,1250,403,1227,394,1166,383,1093,377,1021,377"/>
+<area shape="poly" id="edge55_Node000041_Node000042" title=" " alt="" coords="544,440,842,388,843,393,545,445"/>
+<area shape="rect" id="Node000043" href="$classJitterCorrection.html" title=" " alt="" coords="857,913,977,939"/>
+<area shape="poly" id="edge58_Node000019_Node000043" title=" " alt="" coords="990,917,1268,886,1333,876,1334,881,1268,891,991,922"/>
+<area shape="rect" id="Node000044" href="$classLocation.html" title=" " alt="" coords="878,963,955,988"/>
+<area shape="poly" id="edge59_Node000019_Node000044" title=" " alt="" coords="969,972,1106,962,1187,950,1267,930,1324,906,1370,879,1372,884,1327,910,1269,935,1188,955,1106,968,969,977"/>
+<area shape="rect" id="Node000045" href="$classAccelCalibrator.html" title=" " alt="" coords="1788,67,1909,92"/>
+<area shape="poly" id="edge61_Node000003_Node000045" title=" " alt="" coords="1895,95,1944,120,2001,156,2055,202,2079,229,2098,258,2121,308,2141,371,2158,445,2172,529,2195,715,2210,913,2218,1106,2222,1277,2223,1487,2218,1487,2217,1277,2213,1106,2204,914,2189,716,2167,530,2153,446,2136,372,2116,310,2094,261,2074,232,2051,206,1998,160,1942,125,1893,100"/>
+<area shape="poly" id="edge62_Node000045_Node000046" title=" " alt="" coords="1282,21,1489,34,1726,57,1788,66,1788,71,1725,62,1489,40,1282,26"/>
+<area shape="rect" id="Node000047" href="$unionAccelCalibrator_1_1param__u.html" title=" " alt="" coords="1298,67,1485,92"/>
+<area shape="poly" id="edge64_Node000045_Node000047" title=" " alt="" coords="1498,77,1787,77,1787,82,1498,82"/>
+<area shape="poly" id="edge65_Node000047_Node000048" title=" " alt="" coords="1022,77,1298,77,1298,82,1022,82"/>
+<area shape="rect" id="Node000049" href="$classVectorN.html" title=" " alt="" coords="813,117,1020,157"/>
+<area shape="poly" id="edge67_Node000047_Node000049" title=" " alt="" coords="1033,123,1268,97,1316,89,1317,95,1268,102,1034,129"/>
+<area shape="rect" id="Node000050" href="$classAP__HAL_1_1OwnPtr.html" title=" " alt="" coords="1769,1850,1928,1890"/>
+<area shape="poly" id="edge68_Node000001_Node000050" title=" " alt="" coords="1942,1871,1972,1871,2120,1873,2120,1878,1972,1877,1941,1876"/>
+<area shape="rect" id="Node000051" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="1329,1857,1454,1883"/>
+<area shape="poly" id="edge69_Node000050_Node000051" title=" " alt="" coords="1468,1867,1769,1867,1769,1873,1468,1873"/>
+<area shape="rect" id="Node000052" href="$unionAP__HAL_1_1Device_1_1DeviceId.html" title=" " alt="" coords="821,1827,1012,1852"/>
+<area shape="poly" id="edge70_Node000051_Node000052" title=" " alt="" coords="1026,1844,1329,1863,1328,1869,1026,1849"/>
+<area shape="rect" id="Node000053" href="$structAP__HAL_1_1Device_1_1DeviceStructure.html" title=" " alt="" coords="307,1827,544,1852"/>
+<area shape="poly" id="edge71_Node000052_Node000053" title=" " alt="" coords="558,1837,821,1837,821,1842,558,1842"/>
+<area shape="rect" id="Node000054" href="$structAP__HAL_1_1Device_1_1checkreg.html" title=" " alt="" coords="821,1887,1013,1912"/>
+<area shape="poly" id="edge72_Node000051_Node000054" title=" " alt="" coords="1027,1902,1143,1903,1268,1895,1345,1880,1346,1885,1268,1901,1143,1908,1027,1908"/>
+<area shape="rect" id="Node000055" href="$classAP__HAL_1_1Semaphore.html" title=" " alt="" coords="1771,1915,1926,1940"/>
+<area shape="poly" id="edge73_Node000001_Node000055" title=" " alt="" coords="1940,1913,2096,1891,2136,1885,2137,1891,2096,1897,1940,1918"/>
+<area shape="rect" id="Node000056" href="$classAP__HAL_1_1DigitalSource.html" title=" " alt="" coords="1765,1972,1932,1997"/>
+<area shape="poly" id="edge74_Node000001_Node000056" title=" " alt="" coords="1945,1974,2020,1962,2095,1942,2154,1915,2201,1886,2204,1890,2157,1919,2097,1947,2021,1968,1946,1980"/>
+<area shape="rect" id="Node000057" href="$classLowPassFilter2p.html" title=" " alt="" coords="1756,1800,1941,1825"/>
+<area shape="poly" id="edge75_Node000001_Node000057" title=" " alt="" coords="1955,1821,2096,1842,2175,1860,2174,1865,2096,1847,1954,1826"/>
+<area shape="rect" id="Node000058" href="$classDigitalBiquadFilter.html" title=" " alt="" coords="1320,1793,1463,1833"/>
+<area shape="poly" id="edge76_Node000057_Node000058" title=" " alt="" coords="1476,1810,1756,1810,1756,1815,1476,1815"/>
+</map>

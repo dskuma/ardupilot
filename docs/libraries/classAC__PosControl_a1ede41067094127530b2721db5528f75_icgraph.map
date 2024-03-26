@@ -1,0 +1,16 @@
+<map id="AC_PosControl::handle_ekf_xy_reset" name="AC_PosControl::handle_ekf_xy_reset">
+<area shape="rect" id="Node000001" title="handle_ekf_xy_reset &#45; check for ekf position reset and adjust loiter or brake target position" alt="" coords="689,41,859,81"/>
+<area shape="rect" id="Node000002" href="$classAC__PosControl.html#a7de4126a9d187d523e23700d015e0478" title=" " alt="" coords="477,9,635,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,49,635,43,636,38,676,44"/>
+<area shape="rect" id="Node000003" href="$classAC__PosControl.html#ab71db0f35377ec2265517a91a0afa4a5" title=" " alt="" coords="471,73,641,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="676,78,642,83,641,77,675,73"/>
+<area shape="rect" id="Node000004" href="$classAC__Loiter.html#aeb9de62ab04f35ffba3a6d1ff479bf5a" title="run the loiter controller" alt="" coords="256,5,393,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,70,470,63,422,45,382,33,383,28,424,39,472,58,490,65"/>
+<area shape="rect" id="Node000005" href="$classAC__Circle.html#a8ee0ff9ded0e7f2766431b35f91bb1cd" title="update &#45; update circle controller" alt="" coords="256,55,393,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="456,84,393,77,394,72,457,79"/>
+<area shape="rect" id="Node000006" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="227,104,423,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,106,423,109,423,104,456,100"/>
+<area shape="rect" id="Node000007" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,122,179,162"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="499,121,462,134,423,143,360,151,295,155,179,152,179,147,295,149,359,146,422,138,461,128,497,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,131,179,135,178,130,213,126"/>
+</map>

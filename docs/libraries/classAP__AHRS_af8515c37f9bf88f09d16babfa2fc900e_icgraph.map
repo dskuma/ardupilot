@@ -1,0 +1,17 @@
+<map id="AP_AHRS::getControlLimits" name="AP_AHRS::getControlLimits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="692,45,891,70"/>
+<area shape="rect" id="Node000002" href="$classAC__Loiter.html#a1c307789bd8c2bdf754aa6fd8e053fb1" title=" " alt="" coords="471,5,644,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="684,45,644,40,644,35,685,40"/>
+<area shape="rect" id="Node000004" href="$classAC__PosControl.html#ab71db0f35377ec2265517a91a0afa4a5" title=" " alt="" coords="472,69,643,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="685,75,643,80,643,75,684,69"/>
+<area shape="rect" id="Node000003" href="$classAC__Loiter.html#aeb9de62ab04f35ffba3a6d1ff479bf5a" title="run the loiter controller" alt="" coords="256,13,393,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,28,393,28,393,23,456,23"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="478,68,422,52,379,41,380,35,423,47,479,63"/>
+<area shape="rect" id="Node000005" href="$classAC__Circle.html#a8ee0ff9ded0e7f2766431b35f91bb1cd" title="update &#45; update circle controller" alt="" coords="256,62,393,87"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="458,86,393,82,394,76,458,80"/>
+<area shape="rect" id="Node000006" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="227,111,423,137"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="459,107,411,114,410,109,458,101"/>
+<area shape="rect" id="Node000007" href="$classAC__WPNav__OA.html#accf19b87aa0f2ce811241039bbf8a8b4" title="run the wp controller" alt="" coords="5,129,179,169"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="511,118,469,138,423,152,360,162,296,165,179,162,179,156,295,160,359,156,422,147,467,133,509,114"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="213,139,179,143,178,137,213,134"/>
+</map>

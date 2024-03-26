@@ -1,0 +1,13 @@
+<map id="encodeECU_GovernorSettingsPacketStructure" name="encodeECU_GovernorSettingsPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ECU_GovernorSettings packet." alt="" coords="5,85,221,125"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="303,5,429,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,82,268,41,299,32,300,37,270,46,162,87"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#a8b233f0bd3049d8da94dbb818b4748f6" title="Encode a float on a byte stream by floating point scaling to fit in 1 unsigned byte." alt="" coords="269,55,463,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,89,255,85,256,91,222,95"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#ab6a7a46e38876d6c478aa95dcbd92043" title="Encode a 4 byte float on a big endian byte stream." alt="" coords="299,120,433,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,114,285,121,284,126,221,119"/>
+<area shape="rect" id="Node000006" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="295,169,437,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,122,270,154,302,163,301,168,269,159,170,127"/>
+<area shape="rect" id="Node000005" href="$fieldencode_8c.html#a674c88e2aaa16d72cdff8da4877991c9" title="Encode a unsigned 4 byte integer on a big endian byte stream." alt="" coords="511,120,641,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,130,497,130,497,135,434,135"/>
+</map>

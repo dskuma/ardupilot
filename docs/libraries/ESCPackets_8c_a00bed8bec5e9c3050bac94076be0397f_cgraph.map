@@ -1,0 +1,13 @@
+<map id="encodeESC_VoltageControlLoopSettingsPacketStructure" name="encodeESC_VoltageControlLoopSettingsPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ESC_VoltageControlLoopSettings packet." alt="" coords="5,55,212,95"/>
+<area shape="rect" id="Node000002" href="$ESCDefines_8c.html#a49bc9030f635dfaf7bd34df50dfa8414" title="Encode a ESC_ControlLoopCommon_t into a byte array." alt="" coords="260,13,511,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,54,300,38,301,43,213,59"/>
+<area shape="rect" id="Node000005" href="$ESCVelocityProtocol_8h.html#ae26ac4eee8e1853b6b09acf72bba0a8b" title="Complete a packet after the data have been encoded." alt="" coords="297,62,473,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,72,284,72,284,77,212,77"/>
+<area shape="rect" id="Node000006" href="$ESCVelocityProtocol_8h.html#a1ea9c054da75c49566d8a20b17654532" title=" " alt="" coords="289,111,482,137"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,90,301,106,300,112,212,96"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#a6139bc16730455d9047aa1e9d4f29c02" title="Encode a float on a byte stream by floating point scaling to fit in 2 unsigned bytes in big endian or..." alt="" coords="559,5,752,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,23,545,23,545,28,511,28"/>
+<area shape="rect" id="Node000004" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="800,13,931,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="752,23,786,23,786,28,752,28"/>
+</map>

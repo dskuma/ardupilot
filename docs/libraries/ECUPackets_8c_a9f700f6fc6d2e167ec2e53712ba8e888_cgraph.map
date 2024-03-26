@@ -1,0 +1,17 @@
+<map id="encodeECU_TelemetrySlow1PacketStructure" name="encodeECU_TelemetrySlow1PacketStructure">
+<area shape="rect" id="Node000001" title="Create the ECU_TelemetrySlow1 packet." alt="" coords="5,137,212,177"/>
+<area shape="rect" id="Node000002" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="303,5,430,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,134,184,86,220,61,259,40,289,28,291,33,261,44,223,66,188,91,132,138"/>
+<area shape="rect" id="Node000003" href="$scaledencode_8c.html#aa99578b964cd500b1564b9024f1eba4a" title="Encode a float on a byte stream by floating point scaling to fit in 1 signed byte." alt="" coords="260,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,134,259,90,291,81,292,86,261,95,153,139"/>
+<area shape="rect" id="Node000004" href="$scaledencode_8c.html#a8b233f0bd3049d8da94dbb818b4748f6" title="Encode a float on a byte stream by floating point scaling to fit in 1 unsigned byte." alt="" coords="270,105,463,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,141,256,136,257,141,212,147"/>
+<area shape="rect" id="Node000005" href="$scaledencode_8c.html#a6139bc16730455d9047aa1e9d4f29c02" title="Encode a float on a byte stream by floating point scaling to fit in 2 unsigned bytes in big endian or..." alt="" coords="270,169,463,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,167,257,172,256,178,212,172"/>
+<area shape="rect" id="Node000007" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="295,233,438,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="153,174,261,218,292,227,291,233,259,223,151,179"/>
+<area shape="rect" id="Node000008" href="$fieldencode_8c.html#a056b9a034394ebdace24e76944913fcf" title="Encode a unsigned 3 byte integer on a big endian byte stream." alt="" coords="301,283,432,308"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,175,188,222,224,247,261,268,289,278,287,283,259,272,221,251,185,226,129,179"/>
+<area shape="rect" id="Node000006" href="$fieldencode_8c.html#a10484029024d49e0e071557ac04c554f" title="Encode a unsigned 2 byte integer on a big endian byte stream." alt="" coords="521,176,652,201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="464,186,507,186,507,191,464,191"/>
+</map>

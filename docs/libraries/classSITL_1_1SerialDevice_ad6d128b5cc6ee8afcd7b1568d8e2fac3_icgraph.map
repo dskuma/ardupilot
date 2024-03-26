@@ -1,0 +1,154 @@
+<map id="SITL::SerialDevice::write_to_autopilot" name="SITL::SerialDevice::write_to_autopilot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2081,787,2229,827"/>
+<area shape="rect" id="Node000002" href="$classSITL_1_1RF__Wasp.html#a6444881e50e08f786c411eb5c77a078e" title=" " alt="" coords="1843,787,2006,827"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2068,809,2006,809,2006,804,2068,804"/>
+<area shape="rect" id="Node000010" href="$classSITL_1_1VectorNav.html#a3ed9a4111ae492304e8fbf449319acc3" title=" " alt="" coords="1841,69,2009,109"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2150,773,2141,633,2121,438,2106,339,2086,248,2061,174,2047,145,2031,123,2007,106,2011,101,2035,119,2051,142,2066,172,2091,247,2111,338,2126,437,2147,632,2155,773"/>
+<area shape="rect" id="Node000012" href="$classSITL_1_1PS__LightWare__SF45B.html#ab223565718d0c09364f4ad399b9c6051" title=" " alt="" coords="1852,851,1997,891"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="2070,833,1998,853,1997,848,2069,828"/>
+<area shape="rect" id="Node000017" href="$classSITL_1_1MicroStrain.html#a4ff83cf7e5a8c25020b7fb1d468e93e3" title=" " alt="" coords="1855,440,1994,480"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="2143,774,2128,724,2105,661,2073,595,2031,534,2000,505,1965,482,1968,478,2003,500,2035,530,2078,592,2110,659,2134,722,2149,773"/>
+<area shape="rect" id="Node000024" href="$classSITL_1_1InertialLabs.html#a0e89f33acb5425736c6661e644f9cb5f" title=" " alt="" coords="1858,197,1991,237"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="2148,773,2136,656,2113,500,2097,421,2078,349,2056,291,2031,251,2013,237,1991,228,1993,223,2016,232,2035,248,2061,288,2083,348,2102,420,2118,499,2141,656,2154,772"/>
+<area shape="rect" id="Node000026" href="$classSITL_1_1VectorNav.html#ab88ea3562a136a7fd7de545e7be4146b" title=" " alt="" coords="1843,133,2006,173"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="2149,773,2139,644,2117,469,2101,380,2082,299,2059,232,2045,207,2031,187,2005,169,2008,164,2035,183,2050,204,2063,230,2087,297,2107,379,2122,468,2144,644,2155,773"/>
+<area shape="rect" id="Node000027" href="$classSITL_1_1VectorNav.html#a18323b165a353d8e227707503b13c54f" title=" " alt="" coords="1843,5,2006,45"/>
+<area shape="poly" id="edge31_Node000001_Node000027" title=" " alt="" coords="2151,773,2144,621,2125,407,2110,297,2089,197,2063,115,2048,83,2031,59,2005,40,2008,36,2035,55,2053,81,2068,113,2094,196,2115,297,2130,406,2149,621,2156,773"/>
+<area shape="rect" id="Node000028" href="$classSITL_1_1ADSB.html#a60b0a4c7cca2bd66de544034b3bca385" title=" " alt="" coords="1835,917,2014,942"/>
+<area shape="poly" id="edge33_Node000001_Node000028" title=" " alt="" coords="2126,838,2085,873,2035,905,1997,919,1995,914,2032,900,2082,869,2123,834"/>
+<area shape="rect" id="Node000030" href="$classSITL_1_1FETtecOneWireESC.html#a56c738b8f1d12d06e590418d7833e2b4" title=" " alt="" coords="1833,968,2016,1008"/>
+<area shape="poly" id="edge35_Node000001_Node000030" title=" " alt="" coords="2138,840,2095,899,2067,929,2035,956,2007,970,2005,966,2032,951,2063,925,2091,895,2133,837"/>
+<area shape="rect" id="Node000040" href="$classSITL_1_1PS__RPLidar.html#a1af135d34f1ad8d1bd0c25f8b40f0f79" title=" " alt="" coords="1841,261,2009,301"/>
+<area shape="poly" id="edge49_Node000001_Node000040" title=" " alt="" coords="2147,773,2132,670,2107,535,2091,468,2073,406,2053,356,2031,322,2007,303,2010,299,2035,318,2058,354,2078,405,2096,466,2112,534,2137,669,2152,772"/>
+<area shape="rect" id="Node000041" href="$classSITL_1_1PS__RPLidar.html#af5ca2aaf3ddaa71c87059482c4ca45f9" title=" " alt="" coords="1568,116,1751,156"/>
+<area shape="poly" id="edge73_Node000001_Node000041" title=" " alt="" coords="2147,773,2131,678,2106,556,2072,440,2053,396,2031,366,2005,347,1979,339,1953,338,1926,341,1898,343,1870,342,1842,334,1814,315,1799,297,1792,279,1789,241,1786,205,1780,187,1766,170,1750,158,1753,153,1770,166,1784,185,1792,204,1794,241,1797,277,1804,294,1818,311,1845,329,1871,337,1898,338,1925,335,1952,333,1980,334,2008,342,2035,362,2057,393,2077,438,2111,555,2136,677,2152,773"/>
+<area shape="rect" id="Node000043" href="$classSITL_1_1EFI__MegaSquirt.html#a2624a8e12bad919d14ed53fc59181e02" title=" " alt="" coords="1845,544,2004,584"/>
+<area shape="poly" id="edge53_Node000001_Node000043" title=" " alt="" coords="2141,774,2126,734,2102,686,2071,639,2032,598,2003,582,2006,577,2035,594,2075,635,2107,683,2130,731,2146,772"/>
+<area shape="rect" id="Node000045" href="$classSITL_1_1SerialRangeFinder.html#a2a469e8e58eb39170e709cce8cf04ab6" title=" " alt="" coords="1837,672,2012,712"/>
+<area shape="poly" id="edge56_Node000001_Node000045" title=" " alt="" coords="2113,781,2032,733,1988,715,1990,710,2035,728,2116,776"/>
+<area shape="rect" id="Node000046" href="$classSITL_1_1SerialRangeFinder.html#afbaa6ffc26387252b7d28da16355760c" title=" " alt="" coords="1572,665,1747,705"/>
+<area shape="poly" id="edge72_Node000001_Node000046" title=" " alt="" coords="2067,786,2033,777,1815,727,1740,708,1741,703,1817,721,2034,772,2068,781"/>
+<area shape="rect" id="Node000048" href="$classSITL_1_1ADSB__Sagetech__MXS.html#a3047e3aeea95038179b554f3103d48f3" title=" " alt="" coords="1816,1162,2033,1217"/>
+<area shape="poly" id="edge62_Node000001_Node000048" title=" " alt="" coords="2154,841,2145,905,2125,988,2109,1032,2090,1075,2065,1115,2035,1151,2020,1164,2016,1160,2031,1147,2061,1112,2085,1072,2104,1030,2120,986,2140,904,2149,840"/>
+<area shape="rect" id="Node000051" href="$classSITL_1_1ADSB__Sagetech__MXS.html#a036b9071aeef5c2befbae6d01ec731fe" title=" " alt="" coords="1084,1297,1244,1351"/>
+<area shape="poly" id="edge83_Node000001_Node000051" title=" " alt="" coords="2147,841,2132,882,2109,932,2077,981,2057,1003,2035,1022,2005,1039,1976,1046,1948,1047,1922,1045,1895,1043,1869,1045,1844,1054,1818,1073,1802,1093,1795,1114,1796,1159,1797,1182,1796,1204,1787,1226,1769,1248,1705,1260,1563,1279,1245,1317,1244,1312,1563,1274,1704,1255,1767,1243,1783,1224,1790,1203,1792,1182,1790,1159,1790,1114,1797,1091,1814,1069,1841,1049,1868,1039,1895,1037,1922,1039,1949,1041,1976,1041,2003,1034,2032,1018,2053,999,2072,977,2104,929,2127,880,2142,839"/>
+<area shape="rect" id="Node000053" href="$classSITL_1_1ADSB__Sagetech__MXS.html#a47390b27950b071831f94d30fbb0c4c9" title=" " alt="" coords="1816,1083,2033,1138"/>
+<area shape="poly" id="edge67_Node000001_Node000053" title=" " alt="" coords="2149,841,2135,890,2112,949,2079,1011,2059,1040,2035,1066,2008,1085,2005,1081,2032,1062,2054,1037,2075,1008,2107,947,2130,888,2144,839"/>
+<area shape="rect" id="Node000054" href="$classSITL_1_1AIS.html#a6645e0b1c0fa446d77eaabe7581955a4" title=" " alt="" coords="1859,1241,1990,1266"/>
+<area shape="poly" id="edge69_Node000001_Node000054" title=" " alt="" coords="2158,840,2154,920,2149,970,2139,1025,2123,1081,2102,1135,2073,1186,2035,1230,2015,1244,1991,1252,1990,1247,2012,1239,2032,1226,2068,1183,2097,1133,2118,1079,2134,1024,2143,970,2149,919,2152,840"/>
+<area shape="rect" id="Node000055" href="$classSITL_1_1CRSF.html#a841fc81d97a734932ac9f36ef4158a0c" title=" " alt="" coords="1853,1290,1996,1315"/>
+<area shape="poly" id="edge70_Node000001_Node000055" title=" " alt="" coords="2153,841,2138,941,2113,1073,2097,1138,2079,1197,2058,1246,2035,1279,2017,1292,1997,1300,1995,1295,2015,1287,2031,1275,2054,1243,2074,1196,2092,1137,2108,1072,2133,941,2147,840"/>
+<area shape="rect" id="Node000056" href="$classSITL_1_1SerialProximitySensor.html#a90e09c3c0eb73c1922c09579f0ba4ded" title=" " alt="" coords="1824,1340,2025,1380"/>
+<area shape="poly" id="edge71_Node000001_Node000056" title=" " alt="" coords="2153,841,2139,951,2115,1096,2099,1169,2081,1236,2059,1291,2035,1328,2019,1342,2015,1338,2031,1325,2055,1288,2076,1234,2094,1168,2110,1095,2134,950,2148,841"/>
+<area shape="rect" id="Node000057" href="$classSITL_1_1PS__TeraRangerTower.html#a9c793b25ad999dd7c81989dbcdcd046c" title=" " alt="" coords="1829,1404,2020,1444"/>
+<area shape="poly" id="edge74_Node000001_Node000057" title=" " alt="" coords="2154,841,2142,963,2120,1128,2104,1212,2085,1288,2062,1351,2035,1394,2021,1406,2017,1402,2031,1390,2057,1348,2080,1286,2099,1211,2115,1127,2137,963,2149,841"/>
+<area shape="rect" id="Node000059" href="$classSITL_1_1PS__RPLidar.html#ab72a26648d1f920e739f983601dd3f72" title=" " alt="" coords="1833,376,2016,416"/>
+<area shape="poly" id="edge76_Node000001_Node000059" title=" " alt="" coords="2151,773,2144,702,2126,610,2111,561,2091,513,2064,469,2032,430,2015,418,2018,413,2035,426,2069,466,2095,511,2116,559,2131,608,2149,701,2156,773"/>
+<area shape="rect" id="Node000061" href="$classSITL_1_1IntelligentEnergy24.html#ae2769920aef7840a771016ce60e53b5f" title=" " alt="" coords="1833,1468,2017,1508"/>
+<area shape="poly" id="edge79_Node000001_Node000061" title=" " alt="" coords="2155,840,2145,974,2124,1158,2108,1252,2089,1338,2065,1409,2051,1437,2035,1458,2018,1472,2015,1467,2031,1454,2046,1434,2060,1407,2084,1337,2103,1251,2119,1158,2140,974,2150,840"/>
+<area shape="rect" id="Node000063" href="$classSITL_1_1RichenPower.html#aa02bfc0d1a353252fe61ad1c867f3989" title=" " alt="" coords="1850,1532,1999,1572"/>
+<area shape="poly" id="edge81_Node000001_Node000063" title=" " alt="" coords="2156,841,2148,986,2128,1190,2113,1294,2092,1389,2067,1467,2052,1498,2035,1522,2019,1535,2001,1544,1998,1540,2016,1531,2031,1518,2047,1495,2062,1465,2087,1388,2107,1293,2123,1189,2142,986,2150,840"/>
+<area shape="rect" id="Node000065" href="$classSITL_1_1Vicon.html#ae890015fbef19bd017c5dc039fc50749" title=" " alt="" coords="1831,608,2019,648"/>
+<area shape="poly" id="edge84_Node000001_Node000065" title=" " alt="" coords="2133,776,2091,718,2063,688,2032,662,2010,651,2013,646,2035,658,2067,684,2096,714,2138,773"/>
+<area shape="rect" id="Node000003" href="$classSITL_1_1RF__Wasp.html#a3f2fa167715bbe8616efc9cd93628c79" title=" " alt="" coords="1319,698,1489,723"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1835,786,1767,771,1620,744,1488,724,1489,719,1621,739,1769,765,1836,781"/>
+<area shape="rect" id="Node000004" href="$classHALSITL_1_1SITL__State__Common.html#a203ad4f71c8f1cac590d11e0f98b23ea" title=" " alt="" coords="1078,468,1250,508"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1330,695,1304,681,1259,640,1221,592,1192,546,1173,510,1177,507,1197,544,1225,589,1263,636,1307,676,1333,691"/>
+<area shape="rect" id="Node000005" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title=" " alt="" coords="856,468,1007,508"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1064,491,1007,491,1007,485,1064,485"/>
+<area shape="rect" id="Node000006" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title=" " alt="" coords="625,468,776,508"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="843,491,776,491,776,485,843,485"/>
+<area shape="rect" id="Node000007" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title=" " alt="" coords="411,468,561,508"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="611,491,561,491,561,485,611,485"/>
+<area shape="rect" id="Node000008" href="$classHALSITL_1_1Scheduler.html#a332cd2e17889c12f84b469eaf9f24fc8" title=" " alt="" coords="200,468,363,508"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="397,491,363,491,363,485,397,485"/>
+<area shape="rect" id="Node000009" href="$classHALSITL_1_1Scheduler.html#a8b298eda68e2de4c5c082f02dda3abd9" title=" " alt="" coords="5,468,152,508"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="186,491,152,491,152,485,186,485"/>
+<area shape="rect" id="Node000011" href="$classSITL_1_1VectorNav.html#a2024757fdd32ad959d2caa464637ff20" title=" " alt="" coords="1571,15,1747,41"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1827,70,1715,43,1716,38,1828,64"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="1557,20,1495,21,1429,30,1364,50,1334,65,1307,85,1266,127,1234,178,1210,233,1193,289,1181,344,1174,394,1168,468,1163,467,1168,393,1176,343,1188,288,1205,231,1230,175,1262,124,1304,81,1332,61,1362,45,1428,25,1495,16,1557,15"/>
+<area shape="rect" id="Node000013" href="$classSITL_1_1PS__LightWare__SF45B.html#a4a98b9a5d88138cb615f336c785a8d08" title=" " alt="" coords="1573,781,1745,835"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1838,853,1745,831,1746,826,1840,848"/>
+<area shape="rect" id="Node000016" href="$classSITL_1_1PS__LightWare__SF45B.html#ad7bff9c3f9a7dbe952f40aac9cadec4e" title=" " alt="" coords="1555,860,1764,900"/>
+<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="1838,876,1764,879,1764,874,1838,871"/>
+<area shape="rect" id="Node000014" href="$classSITL_1_1PS__LightWare__SF45B.html#ac2791a0c3d67aae3798a44ba5872a6c8" title=" " alt="" coords="1318,824,1490,864"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1560,825,1491,835,1490,829,1559,819"/>
+<area shape="rect" id="Node000015" href="$classSITL_1_1PS__LightWare__SF45B.html#a4a044df1f3a51c76d11a356a95e0e839" title=" " alt="" coords="1091,824,1237,864"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1304,847,1237,847,1237,841,1304,841"/>
+<area shape="poly" id="edge17_Node000016_Node000014" title=" " alt="" coords="1540,866,1490,859,1491,853,1541,861"/>
+<area shape="rect" id="Node000018" href="$classSITL_1_1MicroStrain5.html#a0776cc3fdb14c1d977d8368e245d4502" title=" " alt="" coords="1585,436,1733,476"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="1842,461,1734,460,1734,454,1842,456"/>
+<area shape="rect" id="Node000019" href="$classSITL_1_1MicroStrain7.html#a889146df0955429c3090e72ddeaf986d" title=" " alt="" coords="1585,500,1733,540"/>
+<area shape="poly" id="edge20_Node000017_Node000019" title=" " alt="" coords="1842,481,1734,506,1733,501,1841,476"/>
+<area shape="rect" id="Node000020" href="$classSITL_1_1MicroStrain5.html#aa93e1d0c69fde22d0cfb5d83afae937e" title=" " alt="" coords="1585,308,1733,348"/>
+<area shape="poly" id="edge21_Node000017_Node000020" title=" " alt="" coords="1841,445,1814,430,1798,413,1790,395,1782,378,1766,362,1732,345,1735,340,1770,358,1786,375,1794,393,1802,410,1818,426,1843,440"/>
+<area shape="rect" id="Node000021" href="$classSITL_1_1MicroStrain7.html#acb4067fff4fc8e0099bbe82e5e4f42a4" title=" " alt="" coords="1585,372,1733,412"/>
+<area shape="poly" id="edge22_Node000017_Node000021" title=" " alt="" coords="1841,442,1733,413,1734,408,1843,436"/>
+<area shape="rect" id="Node000022" href="$classSITL_1_1MicroStrain.html#a760af0e2334bc59c07037059200fcf0b" title=" " alt="" coords="1590,244,1729,284"/>
+<area shape="poly" id="edge23_Node000017_Node000022" title=" " alt="" coords="1841,447,1814,430,1800,413,1793,396,1789,362,1786,329,1779,314,1766,298,1748,285,1728,276,1730,272,1751,281,1770,294,1784,311,1791,328,1795,362,1798,395,1805,410,1818,426,1844,443"/>
+<area shape="rect" id="Node000023" href="$classSITL_1_1MicroStrain.html#a1c440602759eb5e9a732078ac4f4e382" title=" " alt="" coords="1335,336,1473,376"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="1578,290,1552,299,1452,338,1450,333,1550,293,1576,285"/>
+<area shape="poly" id="edge25_Node000023_Node000004" title=" " alt="" coords="1356,385,1203,470,1200,466,1353,380"/>
+<area shape="rect" id="Node000025" href="$classSITL_1_1InertialLabs.html#a7ec18829c6d6ef4c23c951fdd7899f43" title=" " alt="" coords="1337,95,1471,135"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="1844,204,1814,187,1797,166,1791,144,1784,123,1766,106,1730,90,1691,80,1651,75,1611,74,1533,82,1467,97,1466,92,1532,77,1610,69,1651,69,1692,74,1732,85,1770,102,1788,120,1796,142,1802,163,1818,183,1846,199"/>
+<area shape="poly" id="edge28_Node000025_Node000004" title=" " alt="" coords="1348,144,1326,159,1307,176,1279,213,1254,253,1215,337,1188,413,1172,468,1167,467,1183,412,1210,335,1249,251,1275,210,1303,173,1323,155,1345,139"/>
+<area shape="poly" id="edge30_Node000026_Node000011" title=" " alt="" coords="1829,132,1814,123,1798,108,1790,92,1781,77,1766,62,1725,43,1728,38,1770,58,1786,73,1794,89,1803,105,1818,119,1832,128"/>
+<area shape="poly" id="edge32_Node000027_Node000011" title=" " alt="" coords="1829,29,1748,30,1748,24,1829,24"/>
+<area shape="rect" id="Node000029" href="$classSITL_1_1ADSB.html#ab3e315badbb7cfe2160487549b61e5a5" title=" " alt="" coords="1586,925,1733,950"/>
+<area shape="poly" id="edge34_Node000028_Node000029" title=" " alt="" coords="1822,935,1733,938,1733,932,1822,930"/>
+<area shape="rect" id="Node000031" href="$classSITL_1_1FETtecOneWireESC.html#a393a847fafaa03ef52eb400b8dd578d9" title=" " alt="" coords="1305,969,1503,1023"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="1819,992,1503,997,1503,992,1819,987"/>
+<area shape="rect" id="Node000035" href="$classSITL_1_1FETtecOneWireESC.html#a719cdd4f8a7b68ef5c1dc291dee5c4c2" title=" " alt="" coords="1566,1077,1753,1131"/>
+<area shape="poly" id="edge40_Node000030_Node000035" title=" " alt="" coords="1848,1015,1817,1029,1793,1044,1769,1060,1730,1079,1727,1074,1767,1055,1790,1039,1815,1024,1846,1011"/>
+<area shape="rect" id="Node000036" href="$classSITL_1_1FETtecOneWireESC.html#ac978a8be8d4c19fbb036fa16254e3726" title=" " alt="" coords="1313,1066,1495,1121"/>
+<area shape="poly" id="edge43_Node000030_Node000036" title=" " alt="" coords="1821,1012,1496,1078,1495,1072,1819,1006"/>
+<area shape="rect" id="Node000037" href="$classSITL_1_1FETtecOneWireESC.html#a8c6e58e58ae5f81ff6831d8c4c6ee95e" title=" " alt="" coords="1568,1156,1751,1196"/>
+<area shape="poly" id="edge44_Node000030_Node000037" title=" " alt="" coords="1833,1017,1818,1029,1806,1043,1800,1057,1795,1085,1790,1115,1782,1130,1770,1145,1751,1158,1748,1154,1766,1141,1778,1127,1785,1113,1790,1085,1795,1055,1802,1040,1814,1025,1830,1013"/>
+<area shape="rect" id="Node000039" href="$classSITL_1_1FETtecOneWireESC.html#a8f8149fc217b8945e4b4a73eb5d53ab2" title=" " alt="" coords="840,1213,1023,1253"/>
+<area shape="poly" id="edge47_Node000030_Node000039" title=" " alt="" coords="1831,1017,1818,1028,1803,1051,1797,1074,1798,1121,1800,1144,1798,1167,1789,1189,1770,1210,1753,1218,1728,1225,1656,1235,1561,1241,1450,1244,1217,1244,1023,1239,1023,1234,1217,1239,1450,1239,1561,1236,1656,1230,1727,1220,1751,1213,1766,1206,1784,1186,1793,1166,1794,1144,1793,1121,1791,1073,1798,1049,1814,1025,1827,1013"/>
+<area shape="rect" id="Node000032" href="$classSITL_1_1FETtecOneWireESC.html#a36ca59d7521413486ed5b7472cda42e3" title=" " alt="" coords="1071,1073,1257,1113"/>
+<area shape="poly" id="edge37_Node000031_Node000032" title=" " alt="" coords="1324,1031,1215,1076,1213,1071,1322,1026"/>
+<area shape="rect" id="Node000033" href="$classSITL_1_1FETtecOneWireESC.html#a03c8b0d202092684ffffb0e96e33a288" title=" " alt="" coords="840,1089,1023,1129"/>
+<area shape="poly" id="edge38_Node000032_Node000033" title=" " alt="" coords="1057,1103,1023,1106,1023,1100,1057,1098"/>
+<area shape="rect" id="Node000034" href="$classSITL_1_1FETtecOneWireESC.html#a3fe33bc741e56bf2385db56cca5820b3" title=" " alt="" coords="609,1156,792,1196"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="849,1136,772,1158,770,1153,848,1131"/>
+<area shape="poly" id="edge41_Node000035_Node000036" title=" " alt="" coords="1552,1102,1496,1100,1496,1094,1552,1097"/>
+<area shape="poly" id="edge42_Node000036_Node000032" title=" " alt="" coords="1299,1096,1258,1096,1258,1091,1299,1091"/>
+<area shape="rect" id="Node000038" href="$classSITL_1_1FETtecOneWireESC.html#a390ab89cc350c0761a15fec3c6612a8f" title=" " alt="" coords="1073,1156,1255,1196"/>
+<area shape="poly" id="edge45_Node000037_Node000038" title=" " alt="" coords="1554,1179,1256,1179,1256,1173,1554,1173"/>
+<area shape="poly" id="edge46_Node000038_Node000034" title=" " alt="" coords="1059,1179,792,1179,792,1173,1059,1173"/>
+<area shape="poly" id="edge48_Node000039_Node000034" title=" " alt="" coords="836,1213,781,1199,782,1193,838,1207"/>
+<area shape="poly" id="edge50_Node000040_Node000041" title=" " alt="" coords="1827,260,1814,251,1797,231,1789,210,1782,189,1766,170,1748,158,1750,154,1770,166,1787,187,1795,208,1802,228,1818,247,1830,255"/>
+<area shape="rect" id="Node000042" href="$classSITL_1_1PS__RPLidar.html#ae2431cca19f4c9d86fc51de79bbbf04f" title=" " alt="" coords="1313,187,1495,213"/>
+<area shape="poly" id="edge51_Node000041_Node000042" title=" " alt="" coords="1566,162,1456,190,1455,185,1565,157"/>
+<area shape="poly" id="edge52_Node000042_Node000004" title=" " alt="" coords="1386,225,1184,469,1180,466,1382,221"/>
+<area shape="rect" id="Node000044" href="$classSITL_1_1EFI__MegaSquirt.html#a827cf4d83b02d918b2678a7ab02fc473" title=" " alt="" coords="1325,468,1483,508"/>
+<area shape="poly" id="edge54_Node000043_Node000044" title=" " alt="" coords="1832,577,1768,581,1697,579,1622,571,1550,555,1535,548,1525,539,1501,522,1473,511,1475,506,1504,518,1528,535,1538,543,1552,549,1623,566,1697,574,1768,575,1832,572"/>
+<area shape="poly" id="edge55_Node000044_Node000004" title=" " alt="" coords="1311,491,1250,491,1250,485,1311,485"/>
+<area shape="poly" id="edge57_Node000045_Node000046" title=" " alt="" coords="1824,692,1747,690,1747,685,1824,687"/>
+<area shape="poly" id="edge61_Node000046_Node000003" title=" " alt="" coords="1559,698,1489,705,1489,700,1558,693"/>
+<area shape="poly" id="edge58_Node000046_Node000004" title=" " alt="" coords="1558,691,1498,687,1433,678,1367,662,1304,637,1262,609,1226,574,1176,510,1180,507,1230,571,1266,605,1307,632,1368,657,1434,673,1499,682,1558,685"/>
+<area shape="rect" id="Node000047" href="$classSITL_1_1RF__LightWareSerial.html#aeaccb2f5f32cce0254471c5ab2361b4f" title=" " alt="" coords="1313,583,1495,623"/>
+<area shape="poly" id="edge59_Node000046_Node000047" title=" " alt="" coords="1583,664,1466,625,1468,620,1585,659"/>
+<area shape="poly" id="edge60_Node000047_Node000004" title=" " alt="" coords="1325,580,1304,572,1245,541,1195,511,1197,506,1248,536,1306,567,1327,575"/>
+<area shape="rect" id="Node000049" href="$classSITL_1_1ADSB__Sagetech__MXS.html#a759e55f52ebe877618abb7c1ed3d8d1d" title=" " alt="" coords="1551,1321,1768,1361"/>
+<area shape="poly" id="edge63_Node000048_Node000049" title=" " alt="" coords="1823,1226,1818,1230,1802,1248,1794,1266,1786,1285,1770,1305,1738,1324,1735,1319,1766,1301,1782,1283,1790,1264,1798,1245,1814,1226,1820,1222"/>
+<area shape="rect" id="Node000050" href="$classSITL_1_1ADSB__Sagetech__MXS.html#a9d5898af7f7da6bddb7e821a51122eec" title=" " alt="" coords="1324,1322,1484,1377"/>
+<area shape="poly" id="edge64_Node000049_Node000050" title=" " alt="" coords="1537,1348,1484,1350,1484,1344,1537,1343"/>
+<area shape="poly" id="edge65_Node000050_Node000051" title=" " alt="" coords="1310,1342,1244,1335,1244,1330,1310,1337"/>
+<area shape="rect" id="Node000052" href="$classSITL_1_1ADSB__Sagetech__MXS.html#adbc27297ae0bd76e3317698f65737a82" title=" " alt="" coords="851,1304,1011,1344"/>
+<area shape="poly" id="edge66_Node000051_Node000052" title=" " alt="" coords="1070,1327,1012,1327,1012,1321,1070,1321"/>
+<area shape="poly" id="edge68_Node000053_Node000049" title=" " alt="" coords="1821,1149,1818,1151,1804,1170,1797,1188,1795,1226,1792,1265,1785,1285,1770,1305,1744,1323,1741,1319,1766,1301,1780,1282,1787,1264,1789,1226,1792,1187,1799,1167,1814,1148,1817,1145"/>
+<area shape="rect" id="Node000058" href="$classSITL_1_1PS__TeraRangerTower.html#a45a83b8cd92d63339cd1e938c9cc4f38" title=" " alt="" coords="1564,1404,1755,1444"/>
+<area shape="poly" id="edge75_Node000057_Node000058" title=" " alt="" coords="1815,1427,1755,1427,1755,1421,1815,1421"/>
+<area shape="rect" id="Node000060" href="$classSITL_1_1PS__RPLidar.html#a027791d85e18d19622d6fddac1016f3f" title=" " alt="" coords="1568,180,1751,220"/>
+<area shape="poly" id="edge77_Node000059_Node000060" title=" " alt="" coords="1829,371,1814,359,1801,343,1794,327,1790,295,1785,264,1779,249,1766,234,1749,222,1752,218,1770,230,1783,246,1791,262,1795,294,1799,325,1806,340,1818,355,1832,367"/>
+<area shape="poly" id="edge78_Node000060_Node000042" title=" " alt="" coords="1554,203,1495,203,1495,197,1554,197"/>
+<area shape="rect" id="Node000062" href="$classSITL_1_1IntelligentEnergy24.html#ae6b02fb44e7defa43ae66d6aed48be43" title=" " alt="" coords="1567,1468,1751,1508"/>
+<area shape="poly" id="edge80_Node000061_Node000062" title=" " alt="" coords="1819,1491,1751,1491,1751,1485,1819,1485"/>
+<area shape="rect" id="Node000064" href="$classSITL_1_1RichenPower.html#afdaccba5798e43176161397b725dcfd4" title=" " alt="" coords="1585,1532,1734,1572"/>
+<area shape="poly" id="edge82_Node000063_Node000064" title=" " alt="" coords="1836,1555,1734,1555,1734,1549,1836,1549"/>
+<area shape="rect" id="Node000066" href="$classSITL_1_1Vicon.html#a0976c69d79b4ede68fa7983f16e606c2" title=" " alt="" coords="1331,533,1477,558"/>
+<area shape="poly" id="edge85_Node000065_Node000066" title=" " alt="" coords="1817,622,1689,609,1550,587,1502,573,1454,561,1456,555,1503,568,1551,581,1689,603,1817,617"/>
+<area shape="poly" id="edge86_Node000066_Node000004" title=" " alt="" coords="1336,532,1248,511,1249,505,1338,527"/>
+</map>

@@ -1,0 +1,67 @@
+<map id="getServoPacketSize" name="getServoPacketSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="316,949,465,974"/>
+<area shape="rect" id="Node000002" href="$ServoPackets_8c.html#a67c5094c8b89f473b9487f23c5478c1f" title="Decode the Servo_Accelerometer packet." alt="" coords="33,5,241,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,935,385,760,381,633,372,496,357,359,335,232,321,177,305,129,287,89,266,59,240,40,243,36,270,55,291,86,310,127,326,176,340,231,362,358,377,495,386,633,391,759,392,935"/>
+<area shape="rect" id="Node000003" href="$ServoPackets_8c.html#ad4405fa117458f581af77f70fdbfb2ad" title="Decode the Servo_Address packet." alt="" coords="33,70,240,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="387,935,384,768,379,648,370,519,355,390,334,271,320,220,304,174,286,137,266,110,239,92,242,87,270,106,291,135,309,172,325,218,339,270,360,389,375,518,385,648,390,768,392,935"/>
+<area shape="rect" id="Node000004" href="$ServoPackets_8c.html#abb6bdb9e6bb456cd4fc824461776cd8d" title="Decode the Servo_Address packet." alt="" coords="33,120,240,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,935,382,779,365,550,349,431,329,323,301,234,284,200,266,174,239,155,242,150,270,170,289,197,306,232,334,322,355,431,370,550,387,779,392,935"/>
+<area shape="rect" id="Node000005" href="$ServoPackets_8c.html#a007d75f2ab5a5e418cda8bf5843bea3d" title="Decode the Servo_Config packet." alt="" coords="39,185,235,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="386,935,380,788,363,573,348,463,327,362,300,279,284,248,266,225,251,213,234,205,236,200,254,208,270,221,288,245,305,277,332,361,353,462,368,573,386,788,392,935"/>
+<area shape="rect" id="Node000006" href="$ServoPackets_8c.html#a2a645be61a17e4ce7548dda9c2ca3eeb" title="Decode the Servo_Config packet." alt="" coords="39,235,235,275"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="386,935,378,800,358,605,342,505,322,414,297,339,282,310,266,289,251,276,234,267,236,263,254,272,270,285,287,307,301,337,327,412,347,504,363,605,383,800,391,935"/>
+<area shape="rect" id="Node000007" href="$ServoCommands_8c.html#a94bc7ed87f693556853ae2e537dbf441" title="Decode the Servo_EnterBootloader packet." alt="" coords="27,299,246,339"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="385,935,375,812,354,636,338,546,318,464,294,397,281,372,266,353,245,337,248,332,270,349,285,369,299,395,323,463,343,545,359,635,380,811,390,935"/>
+<area shape="rect" id="Node000008" href="$ServoPackets_8c.html#a4b0760f7217b371274995cd2e39f1d16" title="Decode the Servo_Firmware packet." alt="" coords="29,363,245,389"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="385,935,374,820,351,659,335,578,316,504,293,443,280,420,266,403,243,388,246,383,270,399,284,417,298,441,321,502,341,577,357,658,379,819,390,935"/>
+<area shape="rect" id="Node000009" href="$ServoPackets_8c.html#ace7c06870db955b3225ae9ca126605c1" title="Decode the Servo_Firmware packet." alt="" coords="29,413,245,453"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="384,935,370,832,346,691,330,620,311,555,290,502,266,467,243,451,246,447,270,463,295,500,316,554,335,619,351,690,376,832,389,935"/>
+<area shape="rect" id="Node000010" href="$ServoCommands_8c.html#a7a6b0bc4112110d5efdd9eef2a7de986" title="Decode the Servo_LockSettings packet." alt="" coords="39,477,235,517"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="388,935,386,856,381,804,371,747,356,689,334,631,305,578,266,531,251,520,234,511,236,506,254,515,270,527,309,575,339,629,361,687,376,746,386,803,391,856,393,935"/>
+<area shape="rect" id="Node000011" href="$ServoPackets_8c.html#a0e6cd67460ad15e90e60d8713ff8fc40" title="Decode the Servo_MultiPositionCommand packet." alt="" coords="37,541,236,581"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="386,935,380,867,363,775,348,726,327,678,300,634,266,595,235,576,238,572,270,591,304,631,332,676,353,724,368,773,386,866,392,935"/>
+<area shape="rect" id="Node000012" href="$ServoPackets_8c.html#a7d7d7ea040b74db487514b91155d6161" title="Decode the Servo_PositionCommand packet." alt="" coords="21,605,253,645"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="384,936,375,878,354,803,339,764,320,725,295,690,266,659,249,648,252,643,270,655,300,687,324,723,344,762,360,801,380,877,389,935"/>
+<area shape="rect" id="Node000013" href="$ServoCommands_8c.html#a734b65498cd5ac463627705346044745" title="Decode the Servo_RequestHighFrequencyData packet." alt="" coords="5,669,268,709"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="381,936,368,889,345,832,312,773,291,746,266,723,248,712,251,707,270,719,295,743,316,770,350,829,373,888,386,934"/>
+<area shape="rect" id="Node000014" href="$ServoCommands_8c.html#a6f03bb72a6431012b435acfd39ae02e3" title="Decode the Servo_ResetDefaultSettings packet." alt="" coords="37,733,236,773"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="376,937,360,903,336,862,304,821,266,788,235,772,237,767,270,783,308,818,340,859,364,900,381,935"/>
+<area shape="rect" id="Node000015" href="$ServoCommands_8c.html#a02e9cb8258594273ec489590e39ca5b6" title="Decode the Servo_SetNodeID packet." alt="" coords="25,798,249,823"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="371,939,328,887,299,860,267,838,236,826,238,821,269,834,302,856,332,883,375,936"/>
+<area shape="rect" id="Node000016" href="$ServoPackets_8c.html#a987753a29b22d7753de19911f1adb824" title="Decode the Servo_SettingsInfo packet." alt="" coords="41,848,232,888"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="354,944,313,922,267,902,230,891,232,886,269,898,315,918,357,939"/>
+<area shape="rect" id="Node000017" href="$ServoPackets_8c.html#a3ab4033327cc96c2e7703ad6cf669b32" title="Decode the Servo_SettingsInfo packet." alt="" coords="41,912,232,952"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="302,954,232,946,232,940,302,949"/>
+<area shape="rect" id="Node000018" href="$ServoPackets_8c.html#afa00e5ce6aec14f40244c2fa86886398" title="Decode the Servo_SetTitle packet." alt="" coords="34,977,239,1002"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="303,974,240,981,239,975,302,968"/>
+<area shape="rect" id="Node000019" href="$ServoCommands_8c.html#a17b99c400806c7d2eb97540fc0214881" title="Decode the Servo_SetUserIdA packet." alt="" coords="23,1026,250,1051"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="353,982,269,1016,218,1029,217,1023,267,1011,351,977"/>
+<area shape="rect" id="Node000020" href="$ServoCommands_8c.html#a067e3e69da85cfb79d150a54f6b8b304" title="Decode the Servo_SetUserIdB packet." alt="" coords="23,1075,250,1101"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="371,986,327,1027,299,1048,269,1065,234,1078,232,1073,267,1060,296,1043,324,1023,367,982"/>
+<area shape="rect" id="Node000021" href="$ServoPackets_8c.html#ab1b81d7ac2342c460a29812408145dc2" title="Decode the Servo_StatusA packet." alt="" coords="34,1125,239,1150"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="379,988,336,1052,306,1086,269,1114,241,1127,239,1122,267,1110,302,1082,332,1049,374,985"/>
+<area shape="rect" id="Node000022" href="$ServoPackets_8c.html#a9c0a1c4d274ce61204cd8973de8a0110" title="Decode the Servo_StatusA packet." alt="" coords="34,1175,239,1215"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="383,988,368,1027,344,1075,311,1123,270,1163,241,1179,238,1175,266,1159,307,1119,339,1072,363,1025,378,986"/>
+<area shape="rect" id="Node000023" href="$ServoPackets_8c.html#a14f1170ef3244317e008d87b4bd29efd" title="Decode the Servo_StatusB packet." alt="" coords="34,1239,239,1265"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="388,988,377,1040,355,1105,339,1139,320,1172,297,1203,270,1229,241,1245,238,1240,266,1225,293,1199,316,1169,335,1137,350,1103,371,1038,383,987"/>
+<area shape="rect" id="Node000024" href="$ServoPackets_8c.html#a20d9186327e3525be51681c5ac26fb99" title="Decode the Servo_StatusB packet." alt="" coords="34,1289,239,1329"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="390,988,381,1048,361,1126,345,1168,325,1208,300,1245,270,1278,241,1296,238,1292,266,1274,296,1242,320,1205,340,1165,356,1125,375,1047,384,987"/>
+<area shape="rect" id="Node000025" href="$ServoPackets_8c.html#ab0253dc92d50f3d47136b1a03a42e858" title="Decode the Servo_StatusC packet." alt="" coords="34,1354,239,1379"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="392,988,388,1059,371,1156,356,1207,334,1257,306,1303,270,1343,241,1360,238,1356,266,1339,302,1300,329,1255,351,1205,366,1154,382,1059,387,988"/>
+<area shape="rect" id="Node000026" href="$ServoPackets_8c.html#acd30184cb2b9819dae62ccd1c9525db9" title="Decode the Servo_StatusC packet." alt="" coords="34,1404,239,1444"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="393,988,391,1067,385,1119,376,1175,360,1234,339,1292,309,1345,270,1393,241,1412,238,1407,266,1389,304,1342,334,1289,355,1232,370,1174,380,1118,385,1066,388,988"/>
+<area shape="rect" id="Node000027" href="$ServoPackets_8c.html#a60542bbb1a4b18e9ea487a25caa59011" title="Decode the Servo_SystemInfo packet." alt="" coords="22,1469,251,1494"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="389,988,376,1091,352,1232,336,1304,317,1369,295,1422,270,1458,252,1471,249,1466,266,1454,290,1419,312,1367,331,1303,347,1231,371,1090,384,987"/>
+<area shape="rect" id="Node000028" href="$ServoPackets_8c.html#a2b92db3b438e5268250ffb4788f84b77" title="Decode the Servo_SystemInfo packet." alt="" coords="22,1519,251,1559"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="390,988,378,1100,354,1255,338,1335,319,1407,296,1466,270,1507,253,1520,250,1516,266,1504,292,1464,314,1405,333,1333,349,1254,372,1099,384,987"/>
+<area shape="rect" id="Node000029" href="$ServoPackets_8c.html#a1dc596c885629561e5770482728ff9f4" title="Decode the Servo_TelemetryConfig packet." alt="" coords="27,1583,246,1623"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="390,988,380,1111,359,1287,343,1377,323,1459,299,1526,285,1552,270,1573,248,1589,245,1585,266,1569,281,1550,294,1524,318,1457,338,1375,354,1286,375,1110,385,987"/>
+<area shape="rect" id="Node000030" href="$ServoPackets_8c.html#a601c4d54c71cbf57774cb73e5899ba88" title="Decode the Servo_TelemetryConfig packet." alt="" coords="27,1647,246,1687"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="391,988,383,1123,363,1317,347,1418,327,1509,301,1585,286,1614,270,1637,248,1653,245,1649,266,1633,282,1611,297,1583,322,1508,342,1417,358,1317,378,1122,386,987"/>
+<area shape="rect" id="Node000031" href="$ServoPackets_8c.html#aa780a38fbf91ff00b660f27dc0513d66" title="Decode the Servo_TelltaleA packet." alt="" coords="31,1711,242,1737"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="392,988,386,1135,368,1349,353,1460,332,1561,305,1644,288,1676,270,1701,244,1718,241,1714,266,1697,284,1673,300,1642,327,1560,347,1459,363,1349,380,1134,386,988"/>
+<area shape="rect" id="Node000032" href="$ServoPackets_8c.html#a2e37e808b75dad18384b7eb0a85809f8" title="Decode the Servo_Title packet." alt="" coords="45,1761,229,1786"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="392,988,387,1144,371,1373,356,1492,335,1600,307,1689,289,1724,270,1750,251,1764,230,1773,228,1768,249,1759,266,1746,285,1721,302,1687,330,1599,351,1491,366,1372,382,1143,387,988"/>
+<area shape="rect" id="Node000033" href="$ServoCommands_8c.html#abc1bec61546e27cb744328aaa5fc4b9b" title="Decode the Servo_UnlockSettings packet." alt="" coords="31,1811,242,1851"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="392,988,388,1151,382,1268,373,1394,358,1521,336,1637,308,1733,290,1771,270,1799,244,1818,241,1814,266,1795,285,1768,303,1731,331,1636,352,1520,367,1394,377,1267,383,1151,387,987"/>
+</map>

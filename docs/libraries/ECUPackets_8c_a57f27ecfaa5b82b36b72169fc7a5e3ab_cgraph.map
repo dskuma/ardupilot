@@ -1,0 +1,11 @@
+<map id="encodeECU_ErrorsPacketStructure" name="encodeECU_ErrorsPacketStructure">
+<area shape="rect" id="Node000001" title="Create the ECU_Errors packet." alt="" coords="5,92,248,117"/>
+<area shape="rect" id="Node000002" href="$ECUDefines_8c.html#acddf1ac3b2987f49a3ec375ddb9bef62" title="Encode a ECU_AutronicErrorBits_t into a byte array." alt="" coords="296,5,521,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,89,221,65,295,41,331,31,333,36,297,46,223,71,160,94"/>
+<area shape="rect" id="Node000003" href="$ECUDefines_8c.html#a90740bf93328ce52c0da9f57a72bccab" title="Encode a ECU_AuxiliaryErrorBits_t into a byte array." alt="" coords="313,55,505,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,89,299,84,300,89,248,95"/>
+<area shape="rect" id="Node000004" href="$ECUProtocol_8h.html#ae28b5d84d186f66f5b7df17a8a186ca6" title="Complete a packet after the data have been encoded." alt="" coords="345,120,472,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,114,332,122,331,128,248,119"/>
+<area shape="rect" id="Node000005" href="$ECUProtocol_8h.html#a2ed350dc1b119d45a9ce5b3769831c15" title=" " alt="" coords="337,169,480,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,115,297,154,335,164,334,169,295,159,166,120"/>
+</map>

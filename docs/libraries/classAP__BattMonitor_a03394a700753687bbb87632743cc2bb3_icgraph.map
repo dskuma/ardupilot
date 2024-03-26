@@ -1,0 +1,28 @@
+<map id="AP_BattMonitor::voltage" name="AP_BattMonitor::voltage">
+<area shape="rect" id="Node000001" title="voltage &#45; returns battery voltage in volts" alt="" coords="728,205,908,230"/>
+<area shape="rect" id="Node000002" href="$classAP__Frsky__SPort__Passthrough.html#a184d52ef3d979be934d2677e45b5148e" title=" " alt="" coords="473,5,680,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="800,194,751,127,717,91,679,60,657,48,659,43,681,55,721,87,755,124,804,191"/>
+<area shape="rect" id="Node000004" href="$classAP__Spektrum__Telem.html#af8a97d49abae875c247ec0a4945b134d" title=" " alt="" coords="495,69,658,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="790,198,740,160,679,124,650,112,653,107,681,119,743,156,793,194"/>
+<area shape="rect" id="Node000006" href="$classAP__Spektrum__Telem.html#a3aae123f384a84dd986973ab36c82dc8" title=" " alt="" coords="495,133,658,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="755,204,652,176,654,171,757,198"/>
+<area shape="rect" id="Node000007" href="$classAP__BattMonitor__Sum.html#afeae95f251a836992b05e2538bbb0177" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="497,197,656,237"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="714,220,656,220,656,215,714,215"/>
+<area shape="rect" id="Node000008" href="$classAP__Frsky__D.html#a292d278ba9c32cc955e18df3bbd8cd9e" title=" " alt="" coords="509,262,645,287"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="751,236,631,265,630,259,750,231"/>
+<area shape="rect" id="Node000009" href="$classAP__Frsky__SPort.html#a496723c516019ef752a88cadc60a3c13" title=" " alt="" coords="497,311,657,337"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="789,240,740,271,681,301,642,314,641,309,679,296,737,267,786,236"/>
+<area shape="rect" id="Node000010" href="$classThrust__Linearization.html#ad7de350d2606aa173c9a74f9c6cd4f59" title=" " alt="" coords="490,361,663,415"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="800,242,749,295,717,324,681,350,658,363,656,358,679,346,713,320,746,292,796,239"/>
+<area shape="rect" id="Node000003" href="$classAP__Frsky__SPort__Passthrough.html#aaf45be317909ca004c11b3419c368139" title=" " alt="" coords="219,5,425,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,28,426,28,426,23,460,23"/>
+<area shape="rect" id="Node000005" href="$classAP__Spektrum__Telem.html#abdf6238b24c78c73655af3a97ccc2b08" title=" " alt="" coords="241,101,403,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,104,404,114,403,108,482,99"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="482,144,403,134,404,129,482,139"/>
+<area shape="rect" id="Node000011" href="$classAP__MotorsMulticopter.html#ae711bfb73844f124fb762c39cd01e060" title=" " alt="" coords="239,336,405,376"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="476,378,405,369,405,364,476,373"/>
+<area shape="rect" id="Node000013" href="$classAP__MotorsHeli__Single.html#abe1905fd5d97f5ef2fb16410766bbc90" title=" " alt="" coords="240,400,404,440"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="477,403,404,412,404,407,476,398"/>
+<area shape="rect" id="Node000012" href="$classAP__MotorsMulticopter.html#a5c1f9a311308cd7a28bb800b5ef071de" title=" " alt="" coords="5,336,171,376"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="225,359,171,359,171,353,225,353"/>
+</map>
