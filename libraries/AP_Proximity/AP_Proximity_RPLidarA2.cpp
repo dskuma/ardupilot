@@ -390,7 +390,7 @@ void AP_Proximity_RPLidarA2::parse_response_data()
     const float angle_sign = (params.orientation == 1) ? -1.0f : 1.0f;
     const float angle_deg = wrap_360(_payload.sensor_scan.angle_q6/64.0f * angle_sign + params.yaw_correction);    
     const float distance_m = (_payload.sensor_scan.distance_q2/4000.0f);
-    //AP::logger().Write_MessageF("LIDR: %f, %f",distance_m,angle_deg);
+    //AP::logger().Write_MessageF("LIDAR: %f, %f",distance_m,angle_deg);
     hal.console->printf("%f, %f\n",distance_m,angle_deg);
 #if RP_DEBUG_LEVEL >= 2
     const float quality = _payload.sensor_scan.quality;

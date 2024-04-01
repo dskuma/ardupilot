@@ -81,8 +81,8 @@ const AP_Scheduler::Task Rover::scheduler_tasks[] = {
 #if AP_BEACON_ENABLED
     SCHED_TASK_CLASS(AP_Beacon,           &rover.g2.beacon,        update,         50,  200,  24),
 #endif
-#if HAL_PROXIMITY_ENABLED //increased max time by 2 folds and decreased rate from 50 to 30hZ
-    SCHED_TASK_CLASS(AP_Proximity,        &rover.g2.proximity,     update,         50,  200,  27),
+#if HAL_PROXIMITY_ENABLED //increased max time by 2 folds and decreased rate from 50 to 30hZ. Priority changed from 27 to 5
+    SCHED_TASK_CLASS(AP_Proximity,        &rover.g2.proximity,     update,         20,  300,  5),
 #endif
 
     SCHED_TASK_CLASS(AP_WindVane,         &rover.g2.windvane,      update,         20,  100,  30),

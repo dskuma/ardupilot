@@ -18,7 +18,7 @@ public:
     static bool detect(uint8_t serial_instance);
 
 protected:
-    virtual uint16_t rxspace() const { return 0; };
+    virtual uint32_t rxspace() const { return 0; };
 
     AP_HAL::UARTDriver *_uart;              // uart for communicating with sensor
 };

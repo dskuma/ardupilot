@@ -54,7 +54,9 @@ class AP_Proximity_RPLidarA2 : public AP_Proximity_Backend_Serial
 public:
 
     using AP_Proximity_Backend_Serial::AP_Proximity_Backend_Serial;
-
+    uint32_t rxspace() const override {
+        return 84000 ;
+    };
     // update state
     void update(void) override;
 
@@ -143,7 +145,7 @@ private:
         _descriptor descriptor;
         _rpi_information information;
         _device_info device_info;
-        uint8_t forced_buffer_size[1280]; // just so we read(...) efficiently // was initially set to 256
+        uint8_t forced_buffer_size[256]; // just so we read(...) efficiently // was initially set to 256
     } _payload;
     static_assert(sizeof(_payload) >= 63, "Needed for parsing out reboot data");
 

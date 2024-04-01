@@ -19,7 +19,7 @@ public:
                                 uint8_t serial_instance) :
             AP_Proximity_LightWareSerial(_frontend, _state, _params, serial_instance) {}
 
-    uint16_t rxspace() const override {
+    uint32_t rxspace() const override {
         return 1280;
     };
 

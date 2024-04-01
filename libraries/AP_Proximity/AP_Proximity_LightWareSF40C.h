@@ -17,7 +17,7 @@ public:
     // constructor
     using AP_Proximity_Backend_Serial::AP_Proximity_Backend_Serial;
 
-    uint16_t rxspace() const override {
+    uint32_t rxspace() const override {
         return 1280;
     };
 
