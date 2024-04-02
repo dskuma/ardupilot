@@ -27,12 +27,13 @@
  */
 
 #include "AP_Proximity_config.h"
-
+#include <inttypes.h>
+#include <stdint.h>
 #if AP_PROXIMITY_RPLIDARA2_ENABLED
 
 #include "AP_Proximity_RPLidarA2.h"
 #include <AP_Logger/AP_Logger.h>
-#include <AP_HAL/AP_HAL.h>
+#include <AP_HAL/AP_HAL.h> //uses hal here --> wanna check hal.h? :: Havent checked yet
 #include "AP_Proximity_RPLidarA2.h"
 #include <AP_InternalError/AP_InternalError.h>
 
@@ -48,7 +49,7 @@
   #define Debug(level, fmt, args ...)
 #endif
 
-#define COMM_ACTIVITY_TIMEOUT_MS        200
+#define COMM_ACTIVITY_TIMEOUT_MS        200 // changing this value from 200 to 
 
 // Commands
 //-----------------------------------------
@@ -314,7 +315,6 @@ void AP_Proximity_RPLidarA2::get_readings()
             if (_byte_count < sizeof(_payload.sensor_scan)) {
                 return;
             }
-            //hal.console->printf("We are awaiting scan data");
             parse_response_data();
             consume_bytes(sizeof(_payload.sensor_scan));
             break;
@@ -390,8 +390,9 @@ void AP_Proximity_RPLidarA2::parse_response_data()
     const float angle_sign = (params.orientation == 1) ? -1.0f : 1.0f;
     const float angle_deg = wrap_360(_payload.sensor_scan.angle_q6/64.0f * angle_sign + params.yaw_correction);    
     const float distance_m = (_payload.sensor_scan.distance_q2/4000.0f);
+    //GCS_SEND_TEXT(MAV_SEVERITY_INFO,"%f :: %f",distance_m,angle_deg);
     //AP::logger().Write_MessageF("LIDAR: %f, %f",distance_m,angle_deg);
-    hal.console->printf("%f, %f\n",distance_m,angle_deg);
+    hal.console->printf("%f, %f \n",distance_m,angle_deg);
 #if RP_DEBUG_LEVEL >= 2
     const float quality = _payload.sensor_scan.quality;
     Debug(2, "   D%02.2f A%03.1f Q%0.2f", distance_m, angle_deg, quality);
