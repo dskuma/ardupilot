@@ -409,7 +409,7 @@ void Copter::Log_Write_Guided_Attitude_Target(ModeGuided::SubMode target_type, f
 // libraries/AP_Logger/Logstructure.h; search for "log_Units" for
 // units and "Format characters" for field type information
 const struct LogStructure Copter::log_structure[] = {
-    LOG_COMMON_STRUCTURES,
+    LOG_COMMON_STRUCTURES
     
 // @LoggerMessage: PTUN
 // @Description: Parameter Tuning information
